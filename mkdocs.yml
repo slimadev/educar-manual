@@ -1,0 +1,145 @@
+site_name: Manual do EDUCAR
+site_description: Manual de uso do EDUCAR, ecrã a ecrã, para as escolas.
+site_url: https://slimadev.github.io/educar-manual/
+repo_url: https://github.com/slimadev/educar-manual
+repo_name: slimadev/educar-manual
+edit_uri: edit/main/docs/
+docs_dir: docs
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+plugins:
+  - search:
+      lang: pt
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+nav:
+  - Início: index.md
+  - Primeiros passos:
+      - Entrar no sistema: primeiros-passos/entrar.md
+      - Avisos: primeiros-passos/avisos.md
+      - A app: primeiros-passos/app.md
+  - Perfis:
+      - Direcção da escola: perfis/direccao.md
+      - Finanças: perfis/financas.md
+      - Secretaria: perfis/secretaria.md
+      - Professor: perfis/professor.md
+      - Aluno e encarregado: perfis/aluno-encarregado.md
+  - Processos:
+      - Exames, do princípio ao fim: processos/exames.md
+      - O ano lectivo, do início ao fecho: processos/ano-lectivo.md
+      - Pedido de documento: processos/pedido-de-documento.md
+  - Menus:
+      - "Configurações":
+          - "Visão geral": menus/configuracoes/index.md
+          - "Ano Académico": menus/configuracoes/ano-academico.md
+          - "Calendário Académico": menus/configuracoes/calendario-academico.md
+          - "Vagas por classe": menus/configuracoes/vagas-por-classe.md
+          - "Etapas dos Documentos": menus/configuracoes/etapas-dos-documentos.md
+          - "Modelos dos Documentos": menus/configuracoes/modelos-dos-documentos.md
+          - "Avisos e Lembretes": menus/configuracoes/avisos-e-lembretes.md
+          - "Períodos Leccionados": menus/configuracoes/periodos-leccionados.md
+          - "Professores por Turma": menus/configuracoes/professores-por-turma.md
+      - "Plano Curricular":
+          - "Visão geral": menus/plano-curricular/index.md
+          - "Grade Curricular": menus/plano-curricular/grade-curricular.md
+      - "Recursos Humanos":
+          - "Visão geral": menus/recursos-humanos/index.md
+          - "Níveis académicos": menus/recursos-humanos/niveis-academicos.md
+          - "Áreas de Formação": menus/recursos-humanos/areas-de-formacao.md
+          - "Pessoas": menus/recursos-humanos/pessoas.md
+          - "Docentes": menus/recursos-humanos/docentes.md
+      - "Plano Financeiro":
+          - "Visão geral": menus/plano-financeiro/index.md
+          - "Modalidades de Cobrança": menus/plano-financeiro/modalidades-de-cobranca.md
+          - "Serviços e Preços": menus/plano-financeiro/servicos-e-precos.md
+          - "Preços por Classe": menus/plano-financeiro/precos-por-classe.md
+          - "Taxas de exame": menus/plano-financeiro/taxas-de-exame.md
+          - "Preparar Ano Lectivo": menus/plano-financeiro/preparar-ano-lectivo.md
+          - "Tabela de Multas": menus/plano-financeiro/tabela-de-multas.md
+          - "Bolsas / Descontos": menus/plano-financeiro/bolsas-descontos.md
+      - "Matrícula":
+          - "Visão geral": menus/matricula/index.md
+          - "Ingresso": menus/matricula/ingresso.md
+          - "Renovação": menus/matricula/renovacao.md
+          - "Pesquisar Turma": menus/matricula/pesquisar-turma.md
+      - "Matrícula e Turmas":
+          - "Visão geral": menus/matricula-e-turmas/index.md
+          - "Novos Ingressos": menus/matricula-e-turmas/novos-ingressos.md
+          - "Pesquisar Turma": menus/matricula-e-turmas/pesquisar-turma.md
+          - "Carregar Turma": menus/matricula-e-turmas/carregar-turma.md
+          - "Secções dos alunos": menus/matricula-e-turmas/seccoes-dos-alunos.md
+          - "Geração de Turmas": menus/matricula-e-turmas/geracao-de-turmas.md
+          - "Reordenar Turma": menus/matricula-e-turmas/reordenar-turma.md
+          - "Gerar códigos de alunos": menus/matricula-e-turmas/gerar-codigos-de-alunos.md
+      - "Documentos":
+          - "Visão geral": menus/documentos/index.md
+          - "Pedidos de documentos": menus/documentos/pedidos-de-documentos.md
+      - "Tesouraria":
+          - "Visão geral": menus/tesouraria/index.md
+          - "Bancos & Contas": menus/tesouraria/bancos-contas.md
+          - "Venda ao Balcão": menus/tesouraria/venda-ao-balcao.md
+          - "Cobranças a Alunos": menus/tesouraria/cobrancas-a-alunos.md
+          - "Receitas e Despesas": menus/tesouraria/receitas-e-despesas.md
+      - "Relatórios e Estatísticas":
+          - "Visão geral": menus/relatorios-e-estatisticas/index.md
+          - "Fecho de Caixa": menus/relatorios-e-estatisticas/fecho-de-caixa.md
+          - "Devedores": menus/relatorios-e-estatisticas/devedores.md
+          - "Previsto vs Cobrado": menus/relatorios-e-estatisticas/previsto-vs-cobrado.md
+          - "Aproveitamento": menus/relatorios-e-estatisticas/aproveitamento.md
+          - "Estado das Pautas": menus/relatorios-e-estatisticas/estado-das-pautas.md
+          - "Alunos em Risco": menus/relatorios-e-estatisticas/alunos-em-risco.md
+          - "Desempenho dos Docentes": menus/relatorios-e-estatisticas/desempenho-dos-docentes.md
+          - "Mapa Estatístico": menus/relatorios-e-estatisticas/mapa-estatistico.md
+          - "Boletins": menus/relatorios-e-estatisticas/boletins.md
+      - "Pautas":
+          - "Visão geral": menus/pautas/index.md
+          - "Trimestral": menus/pautas/trimestral.md
+          - "Anual e fecho do ano": menus/pautas/anual-e-fecho-do-ano.md
+      - "Exames":
+          - "Visão geral": menus/exames/index.md
+          - "Sessões de exame": menus/exames/sessoes-de-exame.md
+          - "Inscrições": menus/exames/inscricoes.md
+          - "Pautas de exame": menus/exames/pautas-de-exame.md
+          - "Relatório de exames": menus/exames/relatorio-de-exames.md
+      - "Professor":
+          - "Visão geral": menus/professor/index.md
+          - "As minhas turmas": menus/professor/as-minhas-turmas.md
+          - "Horário": menus/professor/horario.md
+          - "Direcção de turma": menus/professor/direccao-de-turma.md
+      - "Estudante":
+          - "Visão geral": menus/estudante/index.md
+          - "Perfil": menus/estudante/perfil.md
+          - "Horário": menus/estudante/horario.md
+          - "Calendário de Avaliações": menus/estudante/calendario-de-avaliacoes.md
+          - "Avaliações Realizadas": menus/estudante/avaliacoes-realizadas.md
