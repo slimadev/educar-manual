@@ -6,7 +6,8 @@ Uso:
 Cada captura está em scripts/capturas.json: a etapa dos dados de demonstração em que se tira, o ficheiro
 (dentro de docs/), a legenda, o utilizador de demonstração que entra (vazio: ecrã público), o endereço (com
 {sessao}, {portugues}, {ano}... preenchidos a partir de --ids, a saída do semeador de exames) e, se for
-preciso, o que clicar ("clicar"), as opções a escolher ("escolher": {lista: opção}), a secção a pôr no topo ("rolar"/"rolar_mais"), "directo": true para uma
+preciso, o que clicar ("clicar"), as opções a escolher ("escolher": {lista: opção}), uma sequência de
+passos ("passos": escolher, preencher, clicar), a secção a pôr no topo ("rolar"/"rolar_mais"), "directo": true para uma
 página fora do layout (aberta pelo endereço) ou "pdf": true para um documento PDF (primeira página, com
 pdftoppm). Depois de gravar a imagem, troca na página o comentário
 <!-- captura: ... --> pela imagem; repetir uma captura só substitui a imagem.
@@ -101,6 +102,9 @@ def main():
                     page.goto(args.url + path)
                     page.wait_for_load_state("networkidle")
                 elif path:  # sem endereço fica no início da aplicação (ex. para abrir os avisos)
+                    if "/app/" not in page.url:  # depois de uma página própria, volta à aplicação
+                        page.goto(f"{args.url}/app/")
+                        page.wait_for_load_state("networkidle")
                     open_screen(page, args.url, path)
                 for click in s.get("clicar", []):
                     page.click(click)
@@ -110,6 +114,16 @@ def main():
                     page.select_option(select, label=label)
                     page.wait_for_load_state("networkidle")
                     page.wait_for_timeout(300)
+                for step in s.get("passos", []):  # ["escolher", lista, opção], ["preencher", campo, texto], ["clicar", alvo]
+                    element = page.locator(step[1]).first
+                    if step[0] == "escolher":
+                        element.select_option(label=step[2])
+                    elif step[0] == "preencher":
+                        element.fill(step[2])
+                    else:
+                        element.click()
+                    page.wait_for_load_state("networkidle")
+                    page.wait_for_timeout(400)
                 if "rolar" in s:  # pôr a secção pedida no topo do ecrã
                     page.locator(s["rolar"]).first.evaluate("(e, y) => window.scrollTo(0, e.getBoundingClientRect().top + window.scrollY + y)", s.get("rolar_mais", 0))
                     page.wait_for_timeout(200)

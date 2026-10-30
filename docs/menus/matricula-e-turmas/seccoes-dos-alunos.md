@@ -3,11 +3,14 @@
 **Menu:** Matrícula e Turmas › Secções dos alunos
 **Quem vê:** Chefe da secretaria, Director da escola, Director pedagógico
 
-!!! note "Em preparação"
-    Esta página ainda está a ser escrita.
+Nas classes divididas por áreas (secções), cada aluno tem a sua secção. Este ecrã lista os alunos dessas classes ainda sem secção.
 
-## Para que serve
+Sem secção, o aluno fica com as disciplinas de todas as secções e entra em turmas à parte na geração de turmas.
 
-## Passo a passo
+![Secções dos alunos](img/seccoes-dos-alunos.png)
 
-<!-- captura: menus/matricula-e-turmas/img/seccoes-dos-alunos.png | rota /student_enrollments/sections -->
+1. Escolha o ano lectivo.
+2. Escolha a secção de cada aluno, ou use **Aplicar a todos** para dar a mesma secção a todos os da lista.
+3. Use **Gravar secções**. As disciplinas da matrícula de cada aluno são acertadas à secção.
+
+Quando todos têm secção, o ecrã diz que todas as matrículas das classes com secções têm secção.

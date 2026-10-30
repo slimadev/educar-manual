@@ -3,11 +3,12 @@
 **Menu:** Matrícula e Turmas › Reordenar Turma
 **Quem vê:** Chefe da secretaria, Director da escola, Director pedagógico
 
-!!! note "Em preparação"
-    Esta página ainda está a ser escrita.
+Voltar a numerar os alunos de uma turma por ordem alfabética, por exemplo depois de entrarem alunos novos.
 
-## Para que serve
+1. Escolha o ano lectivo, a classe, o regime e a turma.
+2. Use **Ver turma**. A lista mostra o **Nº actual** e o **Nº novo** de cada aluno, e quantos números mudam. Nada fica gravado ainda.
+3. Use **Aplicar nova numeração**.
 
-## Passo a passo
+![Reordenar turma](img/reordenar-turma.png)
 
-<!-- captura: menus/matricula-e-turmas/img/reordenar-turma.png | rota /student_enrollments/reorder_class -->
+Se a numeração já estiver por ordem alfabética, o ecrã diz.

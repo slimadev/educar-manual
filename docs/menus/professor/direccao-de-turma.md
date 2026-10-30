@@ -3,11 +3,13 @@
 **Menu:** Professor › Direcção de turma
 **Quem vê:** Professor
 
-!!! note "Em preparação"
-    Esta página ainda está a ser escrita.
+As turmas de que o professor é director de turma este ano: os alunos e as pautas trimestrais.
 
-## Para que serve
+![Direcção de turma](img/direccao-de-turma.png)
 
-## Passo a passo
+Cada cartão mostra a turma, quantas disciplinas tem e se alguma está **sem professor**. Escolha uma turma:
 
-<!-- captura: menus/professor/img/direccao-de-turma.png | rota /teacher/classes/director -->
+- **Pautas**: abre a pauta do 1º, 2º ou 3º trimestre da turma, com todas as disciplinas;
+- **Alunos**: a lista dos alunos da turma.
+
+A turma aparece aqui quando a direcção indica o professor como director de turma, no horário da turma.

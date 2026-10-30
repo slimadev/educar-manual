@@ -9,7 +9,6 @@ Trata das matrículas, das turmas, dos pedidos de documentos e das inscrições 
 | Menu | Ecrã |
 |---|---|
 | Matrícula | [Ingresso](../menus/matricula/ingresso.md) |
-| Matrícula | [Renovação](../menus/matricula/renovacao.md) |
 | Matrícula | [Pesquisar Turma](../menus/matricula/pesquisar-turma.md) |
 | Matrícula e Turmas | [Novos Ingressos](../menus/matricula-e-turmas/novos-ingressos.md) |
 | Matrícula e Turmas | [Pesquisar Turma](../menus/matricula-e-turmas/pesquisar-turma.md) |

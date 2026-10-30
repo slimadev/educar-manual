@@ -3,11 +3,8 @@
 **Menu:** Professor › Horário
 **Quem vê:** Professor
 
-!!! note "Em preparação"
-    Esta página ainda está a ser escrita.
+O horário semanal do professor: em cada tempo, a disciplina, a classe e a turma. O dia de hoje aparece destacado.
 
-## Para que serve
+![Horário do professor](img/horario.png)
 
-## Passo a passo
-
-<!-- captura: menus/professor/img/horario.png | rota /teacher/timetable -->
+O horário vem dos horários das turmas, feitos pela escola. Se estiver errado, fale com a direcção para o corrigir.

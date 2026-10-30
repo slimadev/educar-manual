@@ -3,11 +3,10 @@
 **Menu:** Configurações › Professores por Turma
 **Quem vê:** Director da escola, Director pedagógico
 
-!!! note "Em preparação"
-    Esta página ainda está a ser escrita.
+Um resumo, turma a turma, de quem dá cada disciplina, de quem é o director de turma e de quem é o chefe de turma. Escolha o ano e a classe.
 
-## Para que serve
+![Professores por turma](img/professores-por-turma.png)
 
-## Passo a passo
+Cada turma aparece como **Completa**, ou indica o que falta: uma disciplina sem professor, um director ou um chefe de turma **Por definir**, ou uma turma **Sem horário**.
 
-<!-- captura: menus/configuracoes/img/professores-por-turma.png | rota /configuration/teachers_to_class -->
+Aqui só se consulta. Para alterar, abra [Matrícula e Turmas › Pesquisar Turma](../matricula-e-turmas/pesquisar-turma.md#horario-da-turma), escolha a turma e o separador **Horário**.

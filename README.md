@@ -82,4 +82,10 @@ Os pedidos de documentos fazem-se de uma vez com `go run ./scripts/demo/document
 (preços, etapas, avisos e pedidos em todos os estados); depois
 `python scripts/capturas.py --etapa documentos --ids /tmp/documentos_demo.json`.
 
+O fim do ano (pauta anual) faz-se com `go run ./scripts/demo/ano`, que põe a 1ª Classe A de 2026 com as notas dos três
+trimestres; as capturas são as da etapa `ano` (`--ids` com `{"candidato": <id de um candidato por matricular>}`).
+
+Os semeadores não se repetem sobre a mesma base: para refazer tudo, recrie a base e corra-os pela ordem exames
+(três etapas), documentos, ano.
+
 `--so <nome>` repete só uma captura (a imagem é substituída; a página já tem a referência).

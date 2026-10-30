@@ -3,11 +3,13 @@
 **Menu:** Matrícula e Turmas › Gerar códigos de alunos
 **Quem vê:** Chefe da secretaria, Director da escola, Director pedagógico
 
-!!! note "Em preparação"
-    Esta página ainda está a ser escrita.
+O código do aluno é o seu nome de utilizador na área do aluno e na app. Este ecrã gera o código dos alunos que ainda não o têm.
 
-## Para que serve
+A senha inicial é a data de nascimento (DDMMAAAA) seguida da primeira letra do nome, em maiúscula: por exemplo, `15032012M`. Os alunos sem data de nascimento aparecem marcados: complete a data na ficha do aluno.
 
-## Passo a passo
+![Gerar códigos de alunos](img/gerar-codigos-de-alunos.png)
 
-<!-- captura: menus/matricula-e-turmas/img/gerar-codigos-de-alunos.png | rota /student_enrollments/users -->
+1. Escolha o ano lectivo. Vê quantos alunos têm código e a lista dos que não têm.
+2. Use **Gerar códigos**.
+
+**Códigos por turma** descarrega um ficheiro com os códigos dos alunos de cada turma, para os entregar.

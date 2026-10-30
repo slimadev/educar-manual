@@ -3,11 +3,4 @@
 **Menu:** Matrícula › Ingresso
 **Quem vê:** Funcionário da secretaria
 
-!!! note "Em preparação"
-    Esta página ainda está a ser escrita.
-
-## Para que serve
-
-## Passo a passo
-
-<!-- captura: menus/matricula/img/ingresso.png | rota /student_enrollments -->
+O ecrã dos candidatos aprovados, onde se matricula cada novo aluno. É o mesmo ecrã que a chefe da secretaria usa: veja [Matrícula e Turmas › Novos Ingressos](../matricula-e-turmas/novos-ingressos.md).

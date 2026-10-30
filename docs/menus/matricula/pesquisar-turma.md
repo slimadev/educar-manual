@@ -3,11 +3,7 @@
 **Menu:** Matrícula › Pesquisar Turma
 **Quem vê:** Funcionário da secretaria
 
-!!! note "Em preparação"
-    Esta página ainda está a ser escrita.
+Encontrar uma turma e abrir a ficha de um aluno: a matrícula, as contas, os pagamentos, os documentos e a renovação. É o mesmo ecrã que a chefe da secretaria usa: veja [Matrícula e Turmas › Pesquisar Turma](../matricula-e-turmas/pesquisar-turma.md).
 
-## Para que serve
-
-## Passo a passo
-
-<!-- captura: menus/matricula/img/pesquisar-turma.png | rota (sem rota) -->
+!!! note "Renovação de matrícula"
+    A renovação faz-se na ficha de cada aluno, com **Renovar matrícula**, dentro do período de renovação. Veja [Renovar a matrícula](../matricula-e-turmas/pesquisar-turma.md#renovar-a-matricula).

@@ -91,7 +91,6 @@ nav:
       - "Matrícula":
           - "Visão geral": menus/matricula/index.md
           - "Ingresso": menus/matricula/ingresso.md
-          - "Renovação": menus/matricula/renovacao.md
           - "Pesquisar Turma": menus/matricula/pesquisar-turma.md
       - "Matrícula e Turmas":
           - "Visão geral": menus/matricula-e-turmas/index.md
