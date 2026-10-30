@@ -11,7 +11,7 @@ As pautas aparecem quando os exames começam. Cada professor vê as sessões e a
 - **Por confirmar**: todos os resultados estão lançados;
 - **Confirmada**: confirmada pelo responsável.
 
-<!-- captura: menus/exames/img/pautas-lista.png | rota /exams/marks/ | perfil Professor -->
+![Pautas de exame do professor](img/pautas-lista.png)
 
 ## Lançar as notas
 
@@ -22,7 +22,7 @@ As pautas aparecem quando os exames começam. Cada professor vê as sessões e a
     - **Anulado**, por exemplo em caso de fraude.
 3. Use **Gravar as notas**. Grava só o que mudou e pode gravar aos poucos. Se alguma nota for inválida, nada é gravado e a mensagem indica qual.
 
-<!-- captura: menus/exames/img/pauta-lancar.png | rota /exams/marks/{sessao}/{disciplina} | perfil Professor -->
+![Lançamento das notas de exame](img/pauta-lancar.png)
 
 ## Confirmar a pauta
 
@@ -43,4 +43,4 @@ A justificação pode ser feita até a sessão ser fechada. Nas classes com 2ª 
 
 O botão **PDF** imprime a pauta da disciplina, ou só a do júri escolhido. A pauta do júri mostra o local, a sala e os vigilantes, e tem espaço para as assinaturas do responsável da correcção e da direcção.
 
-<!-- captura: menus/exames/img/pauta-pdf.png | rota /exams/marks/{sessao}/{disciplina}/pdf | perfil Director -->
+![Pauta de exame em PDF](img/pauta-pdf.png)

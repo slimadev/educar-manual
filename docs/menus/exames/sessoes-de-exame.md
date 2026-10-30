@@ -17,7 +17,7 @@ As classes com exame e o número de épocas vêm do plano curricular. Se uma cla
 
 Para criar uma sessão, use **Criar** na linha da classe e época. A 2ª época só se cria depois da 1ª.
 
-<!-- captura: menus/exames/img/sessoes-lista.png | rota /exams/ | perfil Director -->
+![Lista das sessões de exame do ano](img/sessoes-lista.png)
 
 ## Os estados da sessão
 
@@ -34,7 +34,7 @@ O botão da próxima mudança fica no topo da sessão. Se ainda faltar alguma co
 !!! tip "Iniciar exames"
     Ao passar a **Em curso**, as inscrições por pagar são canceladas, os alunos são avisados e os júris formam-se com os inscritos que ficaram.
 
-<!-- captura: menus/exames/img/sessao-topo.png | rota /exams/sessions/{id} | perfil Director -->
+![Sessão de exame: estado, o que falta e pauta de admissão](img/sessao-topo.png)
 
 ## Inscrição e taxas
 
@@ -70,7 +70,7 @@ Os passos são estes:
 !!! note "Aluno retido no ano anterior"
     Se o aluno ficou retido na passagem por disciplina ou por secção, as disciplinas que já tem feitas aparecem como "Feitas no ano anterior". Não volta a fazer exame a essas.
 
-<!-- captura: menus/exames/img/admissao.png | rota /exams/sessions/{id}/admission | perfil Director -->
+![Pauta de admissão](img/admissao.png)
 
 ## Correcção e júris
 
@@ -93,7 +93,7 @@ Os júris são grupos de inscritos de uma disciplina, sem olhar à turma.
 
 Se o tamanho dos júris mudar com os exames em curso, os júris refazem-se nas disciplinas ainda sem notas. Cada júri mantém o local, a sala e os vigilantes que tinha.
 
-<!-- captura: menus/exames/img/correccao-juris.png | rota /exams/sessions/{id} | perfil Director -->
+![Equipas de correcção e júris](img/correccao-juris.png)
 
 ## Publicar as notas
 
@@ -121,4 +121,4 @@ Há algumas regras sobre quem fica reprovado e quem vai à 2ª época:
 
 **Fechar e publicar o resultado** grava a decisão de cada aluno, avisa-o e leva o resultado para a [pauta anual e fecho do ano](../pautas/anual-e-fecho-do-ano.md). A pauta final também sai em **PDF**.
 
-<!-- captura: menus/exames/img/resultado.png | rota /exams/sessions/{id}/results | perfil Director -->
+![Resultado dos exames por aluno](img/resultado.png)

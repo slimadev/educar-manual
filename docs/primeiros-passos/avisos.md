@@ -11,4 +11,4 @@ Os alunos e encarregados recebem os seus avisos na app. Se a escola ligou o emai
 
 A escola escolhe se os avisos também seguem por email em [Configurações › Avisos e Lembretes](../menus/configuracoes/avisos-e-lembretes.md).
 
-<!-- captura: primeiros-passos/img/avisos.png | rota /app/notifications/ -->
+![Notificações](img/avisos.png)

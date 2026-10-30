@@ -12,7 +12,7 @@ A lista mostra as sessões do ano em que já se pode inscrever:
 
 Use **Inscrições** na sessão pretendida.
 
-<!-- captura: menus/exames/img/inscricoes-lista.png | rota /exams/registrations/ | perfil Secretaria -->
+![Sessões com inscrições](img/inscricoes-lista.png)
 
 ## Inscrever um aluno da escola
 
@@ -33,7 +33,7 @@ A conta do aluno fica com a taxa de inscrição e a taxa de cada disciplina, e c
 
 O aluno e o encarregado também se podem inscrever pela app.
 
-<!-- captura: menus/exames/img/inscricoes-sessao.png | rota /exams/registrations/{id} | perfil Secretaria -->
+![Inscrições dos alunos de uma sessão](img/inscricoes-sessao.png)
 
 ## Cancelar uma inscrição
 
@@ -59,4 +59,4 @@ Para cancelar uma inscrição paga de um candidato externo, anula-se a venda do 
 
 O candidato externo não tem média de frequência, por isso a sua nota final é a nota do exame.
 
-<!-- captura: menus/exames/img/externos.png | rota /exams/registrations/{id}/external | perfil Secretaria -->
+![Inscrição de candidatos externos](img/externos.png)

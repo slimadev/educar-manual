@@ -1,0 +1,17 @@
+[
+  {"etapa": "inscricoes", "ficheiro": "primeiros-passos/img/entrar.png", "perfil": "", "url": "/login/", "legenda": "Ecrã de entrada"},
+  {"etapa": "inscricoes", "ficheiro": "menus/plano-financeiro/img/taxas-de-exame.png", "perfil": "financeiro", "url": "/finantialplans/exam_fees?year_id={ano}", "legenda": "Taxas de exame por classe e época"},
+  {"etapa": "inscricoes", "ficheiro": "menus/exames/img/sessoes-lista.png", "perfil": "director", "url": "/exams/?year_id={ano}", "legenda": "Lista das sessões de exame do ano"},
+  {"etapa": "inscricoes", "ficheiro": "menus/exames/img/sessao-topo.png", "perfil": "director", "url": "/exams/sessions/{sessao}", "legenda": "Sessão de exame: estado, o que falta e pauta de admissão"},
+  {"etapa": "inscricoes", "ficheiro": "menus/exames/img/admissao.png", "perfil": "director", "url": "/exams/sessions/{sessao}/admission", "legenda": "Pauta de admissão"},
+  {"etapa": "inscricoes", "ficheiro": "menus/exames/img/inscricoes-lista.png", "perfil": "secretaria", "url": "/exams/registrations/?year_id={ano}", "legenda": "Sessões com inscrições"},
+  {"etapa": "inscricoes", "ficheiro": "menus/exames/img/inscricoes-sessao.png", "perfil": "secretaria", "url": "/exams/registrations/{sessao}", "legenda": "Inscrições dos alunos de uma sessão"},
+  {"etapa": "inscricoes", "ficheiro": "menus/exames/img/externos.png", "perfil": "secretaria", "url": "/exams/registrations/{sessao}/external", "legenda": "Inscrição de candidatos externos"},
+  {"etapa": "em_curso", "ficheiro": "menus/exames/img/correccao-juris.png", "perfil": "director", "url": "/exams/sessions/{sessao}", "rolar": "h5:text-is(\"Correcção e júris\")", "rolar_mais": -100, "legenda": "Equipas de correcção e júris"},
+  {"etapa": "em_curso", "ficheiro": "menus/exames/img/pautas-lista.png", "perfil": "professor", "url": "/exams/marks/", "legenda": "Pautas de exame do professor"},
+  {"etapa": "em_curso", "ficheiro": "menus/exames/img/pauta-lancar.png", "perfil": "professor", "url": "/exams/marks/{sessao}/{portugues}", "legenda": "Lançamento das notas de exame"},
+  {"etapa": "fechada", "ficheiro": "menus/exames/img/resultado.png", "perfil": "director", "url": "/exams/sessions/{sessao}/results", "legenda": "Resultado dos exames por aluno"},
+  {"etapa": "fechada", "ficheiro": "menus/exames/img/relatorio.png", "perfil": "director", "url": "/exams/report?year_id={ano}", "legenda": "Relatório de exames"},
+  {"etapa": "fechada", "ficheiro": "menus/exames/img/pauta-pdf.png", "perfil": "director", "url": "/exams/marks/{sessao}/{portugues}/pdf", "pdf": true, "legenda": "Pauta de exame em PDF"},
+  {"etapa": "fechada", "ficheiro": "primeiros-passos/img/avisos.png", "perfil": "aluno", "url": "", "clicar": ["#edNotificationsBtn"], "legenda": "Notificações"}
+]

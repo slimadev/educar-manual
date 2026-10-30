@@ -49,9 +49,33 @@ Cada ecrã é explicado **uma só vez**, na página do seu menu. Os perfis e os 
   ```
   ![Inscrições de uma sessão](img/inscricoes-sessao.png)
   ```
-- Largura de 1440 px, só a área de conteúdo (sem o menu lateral, salvo quando o menu é o assunto).
+- Ecrã inteiro de 1440×900 px, com o menu lateral (mostra o menu do perfil que está a usar).
 
 Para ver as capturas que faltam:
 ```bash
 grep -rn "<!-- captura:" docs
 ```
+
+### Tirar as capturas automaticamente
+
+As capturas tiram-se com `scripts/capturas.py` (Playwright), que entra com cada utilizador de demonstração,
+abre o ecrã e grava a imagem; a lista está em `scripts/capturas.json`. Precisa de:
+
+1. A base de demonstração: no repositório da aplicação, `scripts/demo/criar_base_demo.sh` copia a base,
+   troca todos os dados pessoais por fictícios e cria um utilizador por perfil (`director`, `pedagogico`,
+   `secretaria`, `financeiro`, `funcionario`, `caixa`, `professor`, `aluno`; senha `demo1234`).
+2. A aplicação a correr sobre essa base (ex. em `http://127.0.0.1:8099`).
+3. `pip install playwright && playwright install chromium`, e `pdftoppm` (poppler) para os documentos PDF.
+
+Os dados de exames fazem-se por etapas com o semeador `scripts/demo/exames` da aplicação; depois de cada
+etapa tiram-se as capturas dessa etapa:
+
+```bash
+# na aplicação
+go run ./scripts/demo/exames -etapa inscricoes -saida /tmp/exames_demo.json
+# no manual
+python scripts/capturas.py --etapa inscricoes --ids /tmp/exames_demo.json
+# ... o mesmo com -etapa em_curso e -etapa fechada
+```
+
+`--so <nome>` repete só uma captura (a imagem é substituída; a página já tem a referência).

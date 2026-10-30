@@ -4,7 +4,7 @@
 2. Escreva o seu utilizador e a sua senha e use **Entrar**.
 3. Se trabalhar em mais do que uma escola, escolha a escola com que vai trabalhar. Os menus que vê dependem do seu perfil nessa escola.
 
-<!-- captura: primeiros-passos/img/entrar.png | rota / -->
+![Ecrã de entrada](img/entrar.png)
 
 ## Sessão
 

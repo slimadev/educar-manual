@@ -16,4 +16,4 @@ Escolha o ano lectivo no canto superior direito. O relatório tem duas partes.
 
 O botão **Excel** exporta as duas partes, cada uma na sua folha.
 
-<!-- captura: menus/exames/img/relatorio.png | rota /exams/report | perfil Director -->
+![Relatório de exames](img/relatorio.png)

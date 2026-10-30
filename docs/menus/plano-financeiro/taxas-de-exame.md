@@ -19,4 +19,4 @@ As taxas definem-se por ano lectivo, classe e época. A 2ª época pode ter outr
 
 Sem taxas gravadas, a sessão dessa classe e época não abre as inscrições. Quando as inscrições abrem, as taxas ficam **fixas**, porque já há contas de alunos com esses valores.
 
-<!-- captura: menus/plano-financeiro/img/taxas-de-exame.png | rota /finantialplans/exam_fees | perfil Director financeiro -->
+![Taxas de exame por classe e época](img/taxas-de-exame.png)
