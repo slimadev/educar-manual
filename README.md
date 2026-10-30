@@ -78,4 +78,8 @@ python scripts/capturas.py --etapa inscricoes --ids /tmp/exames_demo.json
 # ... o mesmo com -etapa em_curso e -etapa fechada
 ```
 
+Os pedidos de documentos fazem-se de uma vez com `go run ./scripts/demo/documentos -saida /tmp/documentos_demo.json`
+(preços, etapas, avisos e pedidos em todos os estados); depois
+`python scripts/capturas.py --etapa documentos --ids /tmp/documentos_demo.json`.
+
 `--so <nome>` repete só uma captura (a imagem é substituída; a página já tem a referência).

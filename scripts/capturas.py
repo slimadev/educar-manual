@@ -6,8 +6,9 @@ Uso:
 Cada captura está em scripts/capturas.json: a etapa dos dados de demonstração em que se tira, o ficheiro
 (dentro de docs/), a legenda, o utilizador de demonstração que entra (vazio: ecrã público), o endereço (com
 {sessao}, {portugues}, {ano}... preenchidos a partir de --ids, a saída do semeador de exames) e, se for
-preciso, o que clicar ("clicar"), a secção a pôr no topo ("rolar"/"rolar_mais") ou "pdf": true para um
-documento PDF (primeira página, com pdftoppm). Depois de gravar a imagem, troca na página o comentário
+preciso, o que clicar ("clicar"), as opções a escolher ("escolher": {lista: opção}), a secção a pôr no topo ("rolar"/"rolar_mais"), "directo": true para uma
+página fora do layout (aberta pelo endereço) ou "pdf": true para um documento PDF (primeira página, com
+pdftoppm). Depois de gravar a imagem, troca na página o comentário
 <!-- captura: ... --> pela imagem; repetir uma captura só substitui a imagem.
 """
 import argparse
@@ -96,7 +97,7 @@ def main():
                     md = replace_marker(s["ficheiro"], s["legenda"])
                     print(f"{s['ficheiro']}  ({profile} {path})" + (f"  → {md.relative_to(ROOT)}" if md else ""))
                     continue
-                if not profile:
+                if not profile or s.get("directo"):  # ecrã público ou página própria (ex. documento a imprimir)
                     page.goto(args.url + path)
                     page.wait_for_load_state("networkidle")
                 elif path:  # sem endereço fica no início da aplicação (ex. para abrir os avisos)
@@ -105,6 +106,10 @@ def main():
                     page.click(click)
                     page.wait_for_load_state("networkidle")
                     page.wait_for_timeout(500)
+                for select, label in s.get("escolher", {}).items():  # escolher uma opção numa lista
+                    page.select_option(select, label=label)
+                    page.wait_for_load_state("networkidle")
+                    page.wait_for_timeout(300)
                 if "rolar" in s:  # pôr a secção pedida no topo do ecrã
                     page.locator(s["rolar"]).first.evaluate("(e, y) => window.scrollTo(0, e.getBoundingClientRect().top + window.scrollY + y)", s.get("rolar_mais", 0))
                     page.wait_for_timeout(200)

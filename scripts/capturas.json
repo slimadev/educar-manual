@@ -13,5 +13,17 @@
   {"etapa": "fechada", "ficheiro": "menus/exames/img/resultado.png", "perfil": "director", "url": "/exams/sessions/{sessao}/results", "legenda": "Resultado dos exames por aluno"},
   {"etapa": "fechada", "ficheiro": "menus/exames/img/relatorio.png", "perfil": "director", "url": "/exams/report?year_id={ano}", "legenda": "Relatório de exames"},
   {"etapa": "fechada", "ficheiro": "menus/exames/img/pauta-pdf.png", "perfil": "director", "url": "/exams/marks/{sessao}/{portugues}/pdf", "pdf": true, "legenda": "Pauta de exame em PDF"},
-  {"etapa": "fechada", "ficheiro": "primeiros-passos/img/avisos.png", "perfil": "aluno", "url": "", "clicar": ["#edNotificationsBtn"], "legenda": "Notificações"}
+  {"etapa": "fechada", "ficheiro": "primeiros-passos/img/avisos.png", "perfil": "aluno", "url": "", "clicar": ["#edNotificationsBtn"], "legenda": "Notificações"},
+  {"etapa": "documentos", "ficheiro": "menus/plano-financeiro/img/servicos-e-precos.png", "perfil": "financeiro", "url": "/finantialplans/services", "legenda": "Serviços e preços da escola"},
+  {"etapa": "documentos", "ficheiro": "menus/configuracoes/img/etapas-dos-documentos.png", "perfil": "director", "url": "/configuration/docs_request_step/", "legenda": "Etapas de cada documento"},
+  {"etapa": "documentos", "ficheiro": "menus/configuracoes/img/modelos-dos-documentos.png", "perfil": "director", "url": "/configuration/docs_templates/", "legenda": "Modelos dos documentos"},
+  {"etapa": "documentos", "ficheiro": "menus/configuracoes/img/avisos-e-lembretes.png", "perfil": "director", "url": "/configuration/notifications/", "legenda": "Avisos e lembretes"},
+  {"etapa": "documentos", "ficheiro": "menus/documentos/img/pedidos-de-documentos.png", "perfil": "secretaria", "url": "/documents_requests/", "legenda": "Lista dos pedidos de documentos", "clicar": ["text=Todos"]},
+  {"etapa": "documentos", "ficheiro": "menus/documentos/img/pedido-assinatura.png", "perfil": "director", "url": "/documents_requests/{pedido_assinatura}", "legenda": "Pedido à espera da assinatura do director"},
+  {"etapa": "documentos", "ficheiro": "menus/documentos/img/pedido-devolvido.png", "perfil": "secretaria", "url": "/documents_requests/{pedido_devolvido}", "legenda": "Pedido devolvido à secretaria"},
+  {"etapa": "documentos", "ficheiro": "menus/documentos/img/pedido-pronto.png", "perfil": "secretaria", "url": "/documents_requests/{pedido_pronto}", "legenda": "Documento pronto para levantar"},
+  {"etapa": "documentos", "ficheiro": "menus/configuracoes/img/modelo-editar.png", "perfil": "director", "url": "/configuration/docs_templates/11", "legenda": "Editar o modelo da declaração"},
+  {"etapa": "documentos", "ficheiro": "menus/documentos/img/documento-impresso.png", "perfil": "secretaria", "url": "/documents_requests/{pedido_pronto}/print", "directo": true, "legenda": "Declaração pronta a imprimir"},
+  {"etapa": "documentos", "ficheiro": "menus/documentos/img/ficha-novo-pedido.png", "perfil": "secretaria", "url": "/student_bills/?enrollment_id=1490&tab=docs", "clicar": ["text=Novo pedido"], "escolher": {"select[name=school_service_id]": "Declaração"}, "legenda": "Novo pedido na ficha do aluno"},
+  {"etapa": "documentos", "ficheiro": "menus/documentos/img/ficha-pagar.png", "perfil": "caixa", "url": "/student_bills/?enrollment_id=1490&tab=pending", "legenda": "A conta do documento na ficha do aluno"}
 ]
