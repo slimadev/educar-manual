@@ -3,11 +3,8 @@
 **Menu:** Recursos Humanos › Níveis académicos
 **Quem vê:** Director da escola, Director pedagógico
 
-!!! note "Em preparação"
-    Esta página ainda está a ser escrita.
+Os graus académicos que se podem escolher no registo de cada docente, como licenciatura, mestrado ou técnico médio.
 
-## Para que serve
+![Níveis académicos](img/niveis-academicos.png)
 
-## Passo a passo
-
-<!-- captura: menus/recursos-humanos/img/niveis-academicos.png | rota /configuration/academic_levels -->
+Aqui só se consulta: a lista é fixa, carregada na instalação do sistema, e tem a etiqueta **Só leitura**. Para indicar o nível de um docente, use [Docentes](docentes.md).

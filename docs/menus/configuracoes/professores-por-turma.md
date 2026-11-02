@@ -9,4 +9,4 @@ Um resumo, turma a turma, de quem dá cada disciplina, de quem é o director de 
 
 Cada turma aparece como **Completa**, ou indica o que falta: uma disciplina sem professor, um director ou um chefe de turma **Por definir**, ou uma turma **Sem horário**.
 
-Aqui só se consulta. Para alterar, abra [Matrícula e Turmas › Pesquisar Turma](../matricula-e-turmas/pesquisar-turma.md#horario-da-turma), escolha a turma e o separador **Horário**.
+Aqui só se consulta. Para alterar, abra [Matrícula e Turmas › Pesquisar Turma](../matricula-e-turmas/pesquisar-turma.md#horario-da-turma), escolha a turma e o separador **Horário**. Os docentes registam-se em [Recursos Humanos › Docentes](../recursos-humanos/docentes.md).

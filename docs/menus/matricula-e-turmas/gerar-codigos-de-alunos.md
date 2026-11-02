@@ -5,7 +5,7 @@
 
 O código do aluno é o seu nome de utilizador na área do aluno e na app. Este ecrã gera o código dos alunos que ainda não o têm.
 
-A senha inicial é a data de nascimento (DDMMAAAA) seguida da primeira letra do nome, em maiúscula: por exemplo, `15032012M`. Os alunos sem data de nascimento aparecem marcados: complete a data na ficha do aluno.
+Este ecrã indica também como se forma a senha inicial; entregue-a só ao aluno ou ao encarregado, e peça-lhes que a mudem. Os alunos marcados não têm a ficha completa: complete a data de nascimento na ficha do aluno.
 
 ![Gerar códigos de alunos](img/gerar-codigos-de-alunos.png)
 

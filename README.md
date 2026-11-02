@@ -89,7 +89,13 @@ A tesouraria faz-se com `go run ./scripts/demo/tesouraria -saida /tmp/tesouraria
 ao balcão do dia, duas cobranças a turmas com parte paga, duas despesas e uma transferência); as capturas são as da
 etapa `tesouraria`, com `--ids /tmp/tesouraria_demo.json`.
 
-Os semeadores não se repetem sobre a mesma base: para refazer tudo, recrie a base e corra-os pela ordem exames
-(três etapas), documentos, ano, tesouraria.
+Os recursos humanos fazem-se com `go run ./scripts/demo/rh -saida /tmp/rh_demo.json` (uma pessoa que ainda não é
+docente); as capturas são as da etapa `rh`, com `--ids /tmp/rh_demo.json`.
+
+Os semeadores não se repetem sobre a mesma base. Para refazer tudo, use `scripts/refazer.sh`, que recria a base, corre os
+semeadores pela ordem exames (três etapas), documentos, ano, tesouraria, rh e tira todas as capturas.
+
+O manual é público: as capturas e o texto não mostram como se forma a senha inicial ("ocultar" esconde esse texto na
+captura).
 
 `--so <nome>` repete só uma captura (a imagem é substituída; a página já tem a referência).

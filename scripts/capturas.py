@@ -115,12 +115,14 @@ def main():
                     page.select_option(select, label=label)
                     page.wait_for_load_state("networkidle")
                     page.wait_for_timeout(300)
-                for step in s.get("passos", []):  # ["escolher", lista, opção], ["preencher", campo, texto], ["clicar", alvo]
+                for step in s.get("passos", []):  # ["escolher", lista, opção], ["preencher", campo, texto], ["teclar", campo, texto], ["clicar", alvo]
                     element = page.locator(step[1]).first
                     if step[0] == "escolher":
                         element.select_option(label=step[2])
                     elif step[0] == "preencher":
                         element.fill(step[2])
+                    elif step[0] == "teclar":  # como quem escreve, para os campos que reagem às teclas
+                        element.press_sequentially(step[2])
                     else:
                         element.click()
                     page.wait_for_load_state("networkidle")
@@ -128,6 +130,8 @@ def main():
                 if "rolar" in s:  # pôr a secção pedida no topo do ecrã
                     page.locator(s["rolar"]).first.evaluate("(e, y) => window.scrollTo(0, e.getBoundingClientRect().top + window.scrollY + y)", s.get("rolar_mais", 0))
                     page.wait_for_timeout(200)
+                for hidden in s.get("ocultar", []):  # texto que não pode sair no manual público (ex. regra da senha)
+                    page.locator(hidden).evaluate_all("els => els.forEach(e => e.style.visibility = 'hidden')")
                 if s.get("pdf_iframe"):  # documento PDF mostrado num iframe (ex. recibo): a primeira página em imagem
                     src = page.locator("#dvMainContent iframe").first.get_attribute("src")
                     assert src and src.startswith("data:application/pdf;base64,"), f"{path}: sem PDF no iframe"
