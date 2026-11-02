@@ -3,11 +3,13 @@
 **Menu:** Estudante › Calendário de Avaliações
 **Quem vê:** Aluno
 
-!!! note "Em preparação"
-    Esta página ainda está a ser escrita.
+As avaliações que os professores marcaram para a turma do aluno.
 
-## Para que serve
+![Calendário de avaliações](img/calendario-de-avaliacoes.png)
 
-## Passo a passo
+- **Em cima**, as avaliações marcadas a partir de hoje, da mais próxima para a mais distante, com os dias que faltam.
+- **Em baixo**, em **Data já passou · ainda sem registo do professor**, as avaliações cuja data passou e que o professor ainda não registou.
 
-<!-- captura: menus/estudante/img/calendario-de-avaliacoes.png | rota /student/assessments/calendar -->
+Cada linha indica a disciplina, a avaliação e o trimestre. **As minhas notas** abre [Avaliações Realizadas](avaliacoes-realizadas.md).
+
+Os exames não aparecem aqui. As datas dos exames estão na app. Ver [A app](../../primeiros-passos/app.md).

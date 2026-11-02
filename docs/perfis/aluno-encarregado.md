@@ -4,7 +4,9 @@
 
 Acompanham as notas, o horário, as contas, os pedidos de documentos e os exames, sobretudo pela app.
 
-## Os seus ecrãs
+## Os ecrãs do aluno
+
+No site, o menu Estudante é do aluno. O encarregado acompanha pela app.
 
 | Menu | Ecrã |
 |---|---|
