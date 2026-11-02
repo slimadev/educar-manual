@@ -12,8 +12,8 @@ O dinheiro que entrou e saiu num dia ou num período: propinas e outras contas d
 Por omissão, o fecho mostra o dia de hoje. Para ver outro dia ou um período, mude **De** e **Até**.
 
 - No topo: as **Entradas**, as **Saídas** e o **Saldo do período**.
-- **Por funcionário**: quanto registou cada utilizador. Serve para conferir o dinheiro que cada um tem de entregar.
-- **Por meio de pagamento**: numerário, M-Pesa, POS, transferência… O numerário é o que tem de estar na caixa.
+- **Por funcionário**: quanto registou cada utilizador, somando todos os meios de pagamento.
+- **Por meio de pagamento**: numerário, M-Pesa, POS, transferência…
 - **Por conta**: em que conta entrou ou de que conta saiu o dinheiro.
 - A lista: a hora, o recibo, a descrição e o aluno, a conta e o meio, quem registou e o valor.
 

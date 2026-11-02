@@ -18,7 +18,7 @@ O que entra e sai das contas da escola, e quem faz cada passo. Os detalhes de ca
 | 2 | Vender ao balcão (gravatas, uniformes, renda da cantina…) | Finanças | [Tesouraria › Venda ao Balcão](../menus/tesouraria/venda-ao-balcao.md) |
 | 3 | Registar as despesas pagas | Finanças | [Tesouraria › Receitas e Despesas](../menus/tesouraria/receitas-e-despesas.md#registar-uma-despesa) |
 | 4 | Passar para o banco o dinheiro do caixa ou do M-Pesa | Finanças | [Tesouraria › Receitas e Despesas](../menus/tesouraria/receitas-e-despesas.md#transferir-entre-contas) |
-| 5 | Conferir o fecho do dia: o numerário de cada funcionário e o total por conta | Finanças, Direcção financeira | [Relatórios › Fecho de Caixa](../menus/relatorios-e-estatisticas/fecho-de-caixa.md) |
+| 5 | Conferir o fecho do dia: os totais por funcionário, por meio de pagamento e por conta | Finanças, Direcção financeira | [Relatórios › Fecho de Caixa](../menus/relatorios-e-estatisticas/fecho-de-caixa.md) |
 
 ## Quando é preciso
 
