@@ -27,7 +27,7 @@ A pessoa tem de estar registada em [Pessoas](pessoas.md#registar-uma-pessoa), co
 Se a pessoa já for docente noutra escola, o nível e a área vêm preenchidos. Basta usar **Salvar** para a juntar a esta escola.
 
 !!! note "Entrada no sistema"
-    Ao adicionar um docente, o sistema cria-lhe o utilizador com o perfil de docente. O nome de utilizador é o **NUIT**. A senha inicial forma-se como a dos alunos, indicada em [Gerar códigos de alunos](../matricula-e-turmas/gerar-codigos-de-alunos.md). O docente deve mudá-la quando entrar pela primeira vez, em [Mudar a senha](../../primeiros-passos/entrar.md#mudar-a-senha).
+    Ao adicionar um docente, o sistema cria-lhe o utilizador com o perfil de docente. O nome de utilizador é o **NUIT**. A senha inicial forma-se como a dos alunos, indicada em [Gerar códigos de alunos](../matricula-e-turmas/gerar-codigos-de-alunos.md). Ao entrar com ela, o sistema obriga-o a escolher uma senha nova: veja [Senha inicial](../../primeiros-passos/entrar.md#senha-inicial).
 
 ## Actualizar ou desactivar um docente
 
@@ -37,7 +37,7 @@ Se a pessoa já for docente noutra escola, o nível e a área vêm preenchidos. 
 
 ![Actualizar um docente](img/docente-actualizar.png)
 
-Um docente **Inactivo** deixa de aparecer nas escolhas de professores activos, como as equipas de correcção dos exames.
+Um docente **Inactivo** deixa de poder entrar como docente nesta escola, logo ao gravar: as sessões abertas terminam. Se tiver outro perfil ou outra escola, continua a entrar com eles. Também deixa de aparecer nas escolhas de professores activos, como as equipas de correcção dos exames. Para lhe devolver o acesso, ponha o **Estado** em **Activo**.
 
 O nome e os outros dados pessoais corrigem-se em [Pessoas](pessoas.md).
 

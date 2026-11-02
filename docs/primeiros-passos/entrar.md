@@ -10,6 +10,10 @@
 
 Por segurança, a sessão termina depois de **15 minutos sem actividade**. Basta entrar de novo.
 
+## Senha inicial
+
+Se entrar com a senha inicial que a escola lhe deu, o sistema pede-lhe logo uma senha nova, com pelo menos 8 caracteres e diferente da inicial. Até a mudar, não abre mais nenhum ecrã.
+
 ## Mudar a senha
 
 No seu nome, no topo do ecrã, escolha **Mudar a senha**.
