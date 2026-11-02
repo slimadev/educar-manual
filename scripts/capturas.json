@@ -48,5 +48,16 @@
   {"etapa": "ano", "ficheiro": "menus/professor/img/as-minhas-turmas.png", "perfil": "professor", "url": "/teacher/classes", "legenda": "As minhas turmas", "passos": [["clicar", "#dvMainContent :text('9ª Classe · Turma A')"]]},
   {"etapa": "ano", "ficheiro": "menus/professor/img/direccao-de-turma.png", "perfil": "professor", "url": "/teacher/classes/director", "legenda": "Direcção de turma", "passos": [["clicar", "#dvMainContent :text('9ª Classe · Turma A')"]]},
   {"etapa": "ano", "ficheiro": "menus/professor/img/horario.png", "perfil": "professor", "url": "/teacher/timetable", "legenda": "Horário do professor"},
-  {"etapa": "ano", "ficheiro": "menus/matricula-e-turmas/img/matricular-candidato.png", "perfil": "secretaria", "url": "/student_enrollments/new/{candidato}", "legenda": "Matricular um candidato"}
+  {"etapa": "ano", "ficheiro": "menus/matricula-e-turmas/img/matricular-candidato.png", "perfil": "secretaria", "url": "/student_enrollments/new/{candidato}", "legenda": "Matricular um candidato"},
+  {"etapa": "tesouraria", "ficheiro": "menus/tesouraria/img/bancos-contas.png", "perfil": "financeiro", "url": "/school/banks", "legenda": "Bancos e contas da escola"},
+  {"etapa": "tesouraria", "ficheiro": "menus/tesouraria/img/venda-ao-balcao.png", "perfil": "financeiro", "url": "/treasury/sales", "legenda": "Venda ao balcão", "passos": [["escolher", "select[name=product_id]", "Gravata · 200,00 MZN"], ["preencher", "input[name=quantity]", "2"], ["escolher", "select[name=account_id]", "BANCO INTERNACIONAL DE MOÇAMBIQUE · BIM - Escola Secundária Demo"], ["escolher", "select[name=payment_method]", "Numerário"]]},
+  {"etapa": "tesouraria", "ficheiro": "menus/tesouraria/img/venda-recibo.png", "perfil": "financeiro", "url": "/treasury/sales/{recibo_venda}/receipt", "legenda": "Recibo de uma venda", "pdf_iframe": true},
+  {"etapa": "tesouraria", "ficheiro": "menus/tesouraria/img/cobrancas-a-alunos.png", "perfil": "financeiro", "url": "/treasury/charges", "legenda": "Cobranças a alunos do ano"},
+  {"etapa": "tesouraria", "ficheiro": "menus/tesouraria/img/cobranca-nova.png", "perfil": "financeiro", "url": "/treasury/charges/new?year_id={ano}", "legenda": "Nova cobrança", "passos": [["escolher", "select[name=service_id]", "Gravata"], ["preencher", "input[name=description]", "Gravata do uniforme · 3ª Classe B"], ["escolher", "select[name=grade_id]", "3ª Classe"], ["escolher", "select[name=class]", "Turma B"]]},
+  {"etapa": "tesouraria", "ficheiro": "menus/tesouraria/img/cobranca-detalhe.png", "perfil": "financeiro", "url": "/treasury/charges/{cobranca}", "legenda": "Uma cobrança com os pagamentos"},
+  {"etapa": "tesouraria", "ficheiro": "menus/tesouraria/img/receitas-e-despesas.png", "perfil": "financeiro", "url": "/accounts_transations/", "legenda": "Receitas e despesas"},
+  {"etapa": "tesouraria", "ficheiro": "menus/tesouraria/img/despesa-nova.png", "perfil": "financeiro", "url": "/accounts_transations/new/Despesa", "legenda": "Nova despesa"},
+  {"etapa": "tesouraria", "ficheiro": "menus/relatorios-e-estatisticas/img/fecho-de-caixa.png", "perfil": "financeiro", "url": "/reports/cash", "legenda": "Fecho de caixa do dia"},
+  {"etapa": "tesouraria", "ficheiro": "menus/relatorios-e-estatisticas/img/devedores.png", "perfil": "financeiro", "url": "/reports/debtors", "legenda": "Devedores"},
+  {"etapa": "tesouraria", "ficheiro": "menus/relatorios-e-estatisticas/img/previsto-vs-cobrado.png", "perfil": "financeiro", "url": "/reports/forecast", "legenda": "Previsto vs cobrado"}
 ]

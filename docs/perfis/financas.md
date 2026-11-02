@@ -28,3 +28,5 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 
 - [Exames, do princípio ao fim](../processos/exames.md)
 - [Pedido de documento](../processos/pedido-de-documento.md)
+- [O ano lectivo, do início ao fecho](../processos/ano-lectivo.md)
+- [O dinheiro da escola, dia a dia](../processos/dinheiro-da-escola.md)

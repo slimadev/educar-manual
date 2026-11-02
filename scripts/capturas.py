@@ -13,6 +13,7 @@ pdftoppm). Depois de gravar a imagem, troca na página o comentário
 <!-- captura: ... --> pela imagem; repetir uma captura só substitui a imagem.
 """
 import argparse
+import base64
 import json
 import os
 import pathlib
@@ -127,7 +128,15 @@ def main():
                 if "rolar" in s:  # pôr a secção pedida no topo do ecrã
                     page.locator(s["rolar"]).first.evaluate("(e, y) => window.scrollTo(0, e.getBoundingClientRect().top + window.scrollY + y)", s.get("rolar_mais", 0))
                     page.wait_for_timeout(200)
-                if "alvo" in s:
+                if s.get("pdf_iframe"):  # documento PDF mostrado num iframe (ex. recibo): a primeira página em imagem
+                    src = page.locator("#dvMainContent iframe").first.get_attribute("src")
+                    assert src and src.startswith("data:application/pdf;base64,"), f"{path}: sem PDF no iframe"
+                    with tempfile.TemporaryDirectory() as tmp:
+                        doc = pathlib.Path(tmp) / "doc.pdf"
+                        doc.write_bytes(base64.b64decode(src.split(",", 1)[1]))
+                        subprocess.run(["pdftoppm", "-png", "-r", "110", "-f", "1", "-l", "1", "-singlefile",
+                                        str(doc), str(target.with_suffix(""))], check=True)
+                elif "alvo" in s:
                     page.locator(s["alvo"]).screenshot(path=str(target))
                 else:
                     page.screenshot(path=str(target), full_page=s.get("inteira", False))
