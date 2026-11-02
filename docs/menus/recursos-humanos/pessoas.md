@@ -3,7 +3,7 @@
 **Menu:** Recursos Humanos › Pessoas
 **Quem vê:** Director da escola, Director pedagógico
 
-Os dados pessoais de quem está no sistema: docentes, alunos e utilizadores. Antes de adicionar um docente, a pessoa tem de estar registada aqui, com o NUIT.
+Os dados pessoais dos docentes, alunos e utilizadores da escola, e de quem a escola registou aqui. Cada escola só procura, abre e corrige as suas pessoas. Antes de adicionar um docente, a pessoa tem de estar registada, com o NUIT.
 
 ## Procurar uma pessoa
 

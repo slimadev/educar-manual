@@ -130,6 +130,7 @@ nav:
           - "Visão geral": menus/exames/index.md
           - "Sessões de exame": menus/exames/sessoes-de-exame.md
           - "Inscrições": menus/exames/inscricoes.md
+          - "Listas entre escolas": menus/exames/listas-entre-escolas.md
           - "Pautas de exame": menus/exames/pautas-de-exame.md
           - "Relatório de exames": menus/exames/relatorio-de-exames.md
       - "Professor":

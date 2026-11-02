@@ -6,6 +6,7 @@ O menu **Exames** organiza os exames da escola, da sessão ao resultado final. P
 |---|---|---|
 | [Sessões de exame](sessoes-de-exame.md) | Director da escola, Director pedagógico | Abrir a sessão de cada classe e época, publicar a pauta de admissão, organizar a correcção e os júris, publicar as notas e o resultado |
 | [Inscrições](inscricoes.md) | Direcção, secretaria | Inscrever os alunos admitidos e os candidatos externos |
+| [Listas entre escolas](listas-entre-escolas.md) | Direcção, secretaria | Enviar alunos para fazerem exame noutra escola, ou receber alunos de outras escolas |
 | [Pautas de exame](pautas-de-exame.md) | Direcção, professores da equipa de correcção | Lançar e confirmar as notas de cada disciplina |
 | [Relatório de exames](relatorio-de-exames.md) | Direcção | Ver os números de aprovação por classe, época e disciplina |
 

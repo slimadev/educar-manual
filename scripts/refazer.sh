@@ -48,4 +48,9 @@ capturar --etapa rh --ids "$T/rh_demo.json"
 R=$(PGPASSWORD=$DB_PASSWORD psql -h 127.0.0.1 -U "$DB_USER" educar_demo -At -c "select tt.id, se.id from timetables tt join students_enrollments se on se.school_academics_years_id = tt.school_academics_years_id and se.grade_id = tt.grade_id and se.class = tt.class and se.status = 'Activo' where tt.school_academics_years_id = 2 and tt.grade_id = 1 and tt.class = 'A' order by se.number limit 1")
 echo "{\"ano\": 2, \"turma\": ${R%%|*}, \"matricula\": ${R##*|}}" > "$T/relatorios_demo.json"
 capturar --etapa relatorios --ids "$T/relatorios_demo.json"
+rm -f "$T/listas_demo.json"
+for etapa in enviada aceite fechada; do
+  semear listas -etapa "$etapa" -saida "$T/listas_demo.json"
+  capturar --etapa "lista_$etapa" --ids "$T/listas_demo.json"
+done
 echo "recusas de acesso: $(grep -c 'Acesso negado' "$T/web.log" || true)"

@@ -21,6 +21,8 @@ Quem faz o quê, pela ordem em que acontece. Os detalhes de cada ecrã estão na
 | 15 | Rever o resultado e fechar a sessão | Direcção | [Sessões de exame › Resultado](../menus/exames/sessoes-de-exame.md#resultado-e-fecho-da-sessao) |
 | 16 | Fechar o ano dos alunos | Direcção | [Pautas › Anual e fecho do ano](../menus/pautas/anual-e-fecho-do-ano.md) |
 
+Se os alunos fizerem o exame noutra escola, veja [Listas entre escolas](../menus/exames/listas-entre-escolas.md): a escola de exame recebe a taxa, forma os júris e lança as notas, e o resultado fecha-se na escola de origem.
+
 ## 2ª época/chamada
 
 Nas classes que a têm, depois de fechada a 1ª época:

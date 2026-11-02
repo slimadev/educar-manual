@@ -77,5 +77,9 @@
   {"etapa": "relatorios", "ficheiro": "menus/relatorios-e-estatisticas/img/mapa-estatistico.png", "perfil": "director", "url": "/reports/statistics?year={ano}&trimester=1", "legenda": "Mapa estatístico"},
   {"etapa": "relatorios", "ficheiro": "menus/relatorios-e-estatisticas/img/mapa-estatistico-idades.png", "perfil": "director", "url": "/reports/statistics?year={ano}&trimester=1", "legenda": "Alunos por idade e classe", "rolar": "text=2. Alunos por idade", "rolar_mais": -90},
   {"etapa": "relatorios", "ficheiro": "menus/relatorios-e-estatisticas/img/boletins.png", "perfil": "director", "url": "/reports/bulletins?year={ano}&trimester=2&class={turma}", "legenda": "Boletins de uma turma"},
-  {"etapa": "relatorios", "ficheiro": "menus/relatorios-e-estatisticas/img/boletim.png", "perfil": "director", "url": "/reports/bulletins/pdf?year={ano}&class={turma}&trimester=2&enrollment={matricula}", "legenda": "Boletim de um aluno", "pdf": true}
+  {"etapa": "relatorios", "ficheiro": "menus/relatorios-e-estatisticas/img/boletim.png", "perfil": "director", "url": "/reports/bulletins/pdf?year={ano}&class={turma}&trimester=2&enrollment={matricula}", "legenda": "Boletim de um aluno", "pdf": true},
+  {"etapa": "lista_enviada", "ficheiro": "menus/exames/img/lista-enviar.png", "perfil": "director", "url": "/exams/lists/send/{sessao_origem}", "legenda": "Escolher os alunos a enviar"},
+  {"etapa": "lista_enviada", "ficheiro": "menus/exames/img/lista-recebida.png", "perfil": "director_exames", "url": "/exams/lists/{lista}", "legenda": "Lista recebida, à espera da decisão"},
+  {"etapa": "lista_aceite", "ficheiro": "menus/exames/img/lista-taxas.png", "perfil": "director_exames", "url": "/exams/lists/{lista}", "legenda": "Taxas de uma lista aceite"},
+  {"etapa": "lista_fechada", "ficheiro": "menus/exames/img/lista-acompanhar.png", "perfil": "director", "url": "/exams/lists/{lista}", "legenda": "Acompanhar a lista até ao resultado"}
 ]

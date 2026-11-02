@@ -43,6 +43,8 @@ def login(page, base, username):
 
 def open_screen(page, base, path):
     """Abre o ecrã como a aplicação o abre: pelo htmx, na área de conteúdo do layout."""
+    # o fundo de um formulário aberto na captura anterior não pode ficar por cima do ecrã seguinte
+    page.evaluate("document.querySelectorAll('.modal-backdrop').forEach(e => e.remove()); document.body.classList.remove('modal-open'); document.body.style.overflow = ''")
     page.evaluate("p => htmx.ajax('GET', p, {target: '#dvMainContent'})", path)
     page.wait_for_load_state("networkidle")
     page.wait_for_timeout(400)
