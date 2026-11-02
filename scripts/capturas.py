@@ -107,6 +107,7 @@ def main():
                         page.goto(f"{args.url}/app/")
                         page.wait_for_load_state("networkidle")
                     open_screen(page, args.url, path)
+                page.evaluate("window.scrollTo(0, 0)")  # o ecrã anterior pode ter ficado deslizado
                 for click in s.get("clicar", []):
                     page.click(click)
                     page.wait_for_load_state("networkidle")

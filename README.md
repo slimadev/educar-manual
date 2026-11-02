@@ -95,6 +95,9 @@ docente); as capturas são as da etapa `rh`, com `--ids /tmp/rh_demo.json`.
 Os semeadores não se repetem sobre a mesma base. Para refazer tudo, use `scripts/refazer.sh`, que recria a base, corre os
 semeadores pela ordem exames (três etapas), documentos, ano, tesouraria, rh e tira todas as capturas.
 
+Os relatórios pedagógicos não têm semeador: usam as notas do 1º e do 2º trimestre da base. As capturas são as da etapa
+`relatorios`, com `--ids` `{"ano": 2, "turma": <horário>, "matricula": <aluno>}`.
+
 O manual é público: as capturas e o texto não mostram como se forma a senha inicial ("ocultar" esconde esse texto na
 captura).
 

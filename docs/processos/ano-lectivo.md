@@ -40,6 +40,8 @@ As escolas que já tinham turmas antes do sistema podem matriculá-las de uma ve
 
 O director de turma acompanha as pautas da sua turma em [Professor › Direcção de turma](../menus/professor/direccao-de-turma.md).
 
+Para acompanhar o trimestre, a direcção tem os relatórios [Estado das Pautas](../menus/relatorios-e-estatisticas/estado-das-pautas.md), [Aproveitamento](../menus/relatorios-e-estatisticas/aproveitamento.md), [Alunos em Risco](../menus/relatorios-e-estatisticas/alunos-em-risco.md), [Desempenho dos Docentes](../menus/relatorios-e-estatisticas/desempenho-dos-docentes.md) e [Mapa Estatístico](../menus/relatorios-e-estatisticas/mapa-estatistico.md). No fim do trimestre, a secretaria imprime os [Boletins](../menus/relatorios-e-estatisticas/boletins.md).
+
 ## Fecho do ano
 
 | # | Passo | Quem | Onde |
