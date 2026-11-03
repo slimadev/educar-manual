@@ -2,7 +2,7 @@
 
 **Perfis:** Chefe da secretaria e Funcionário da secretaria.
 
-Trata das matrículas, das turmas, dos pedidos de documentos e das inscrições em exame.
+Trata das matrículas, das turmas, dos pedidos de documentos e das inscrições em exame. Na ficha do aluno, [liga os encarregados](../menus/matricula-e-turmas/pesquisar-turma.md#ligar-um-encarregado) que quiserem acompanhar na app.
 
 ## Os seus ecrãs
 

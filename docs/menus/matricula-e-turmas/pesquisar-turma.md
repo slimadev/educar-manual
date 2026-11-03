@@ -56,7 +56,9 @@ Dentro do período de renovação ([Calendário Académico](../configuracoes/cal
 
 ### Ligar um encarregado
 
-Para acompanhar o aluno na app, o encarregado precisa de uma conta ligada ao aluno. O telemóvel é o utilizador da conta. A mesma conta serve para todos os educandos, mesmo noutra escola.
+A conta de encarregado é opcional: serve para acompanhar o aluno na app. Crie-a só para as famílias que a quiserem. Sem conta, a matrícula, os pagamentos, os documentos e os exames funcionam da mesma forma, e o aluno continua a usar a sua conta.
+
+O telemóvel é o utilizador da conta. A mesma conta serve para todos os educandos, mesmo noutra escola.
 
 !!! warning "Confirme o número"
     Confirme o telemóvel com a família antes de ligar: quem usar a conta passa a ver as notas, as contas e os outros dados do aluno.
@@ -70,6 +72,10 @@ Para acompanhar o aluno na app, o encarregado precisa de uma conta ligada ao alu
 ![Ligar um encarregado na ficha do aluno](img/ficha-encarregados.png)
 
 Para retirar o acesso, por exemplo quando o encarregado muda, use **Desligar** na lista. A conta deixa logo de ver este aluno, mas continua a ver os outros educandos.
+
+O telemóvel de uma conta não se altera. Se o encarregado mudar de número, desligue a conta antiga e crie uma com o número novo, em cada um dos educandos.
+
+Se o encarregado se esquecer da senha, recupera-a no site do EDUCAR, em **Esqueceu a senha?**, com o telemóvel no lugar do código e os seus dados pessoais. A app ainda não tem esta opção.
 
 ## Horário da turma
 

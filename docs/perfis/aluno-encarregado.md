@@ -6,7 +6,7 @@ Acompanham as notas, o horário, as contas, os pedidos de documentos e os exames
 
 ## Os ecrãs do aluno
 
-No site, o menu Estudante é do aluno. O encarregado acompanha pela app, com a conta que a secretaria [liga ao aluno](../menus/matricula-e-turmas/pesquisar-turma.md#ligar-um-encarregado).
+No site, o menu Estudante é do aluno. O encarregado acompanha pela app, com a conta opcional que a secretaria [liga ao aluno](../menus/matricula-e-turmas/pesquisar-turma.md#ligar-um-encarregado).
 
 | Menu | Ecrã |
 |---|---|
