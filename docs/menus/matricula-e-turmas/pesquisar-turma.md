@@ -27,6 +27,7 @@ O topo mostra os dados do aluno e o resumo das contas: por pagar, em atraso, val
 | **Pagamentos** | Pagamentos feitos, com o recibo |
 | **Documentos** | Pedidos de documentos do aluno (veja [Pedidos de documentos](../documentos/pedidos-de-documentos.md#registar-um-pedido)) |
 | **Situação pedagógica** | Médias dos trimestres e fecho do ano do aluno |
+| **Encarregados** | Contas de encarregado ligadas ao aluno, para acompanhar na [app](../../primeiros-passos/app.md) (veja [Ligar um encarregado](#ligar-um-encarregado)) |
 
 ![A conta do documento na ficha do aluno](../documentos/img/ficha-pagar.png)
 
@@ -52,6 +53,23 @@ Dentro do período de renovação ([Calendário Académico](../configuracoes/cal
 1. Confirme o regime, a modalidade de pagamento e a bolsa ou desconto.
 2. Use **Salvar**.
 3. Registe o pagamento da renovação em **Contas por pagar**.
+
+### Ligar um encarregado
+
+Para acompanhar o aluno na app, o encarregado precisa de uma conta ligada ao aluno. O telemóvel é o utilizador da conta. A mesma conta serve para todos os educandos, mesmo noutra escola.
+
+!!! warning "Confirme o número"
+    Confirme o telemóvel com a família antes de ligar: quem usar a conta passa a ver as notas, as contas e os outros dados do aluno.
+
+1. Na ficha do aluno, abra o separador **Encarregados**.
+2. Em **Telemóvel do encarregado**, confirme ou escreva o número e use **Continuar**.
+3. Se o telefone já tem conta, confirme o nome de quem a usa e use **Ligar o aluno a esta conta**.
+4. Se o telefone ainda não tem conta, confirme o **Nome** e o **Apelido**, escreva a **Data de nascimento** e escolha o **Sexo**. Use **Criar a conta e ligar o aluno**.
+5. Numa conta nova, a mensagem mostra a senha inicial uma só vez. Comunique-a ao encarregado, que a muda na primeira entrada.
+
+![Ligar um encarregado na ficha do aluno](img/ficha-encarregados.png)
+
+Para retirar o acesso, por exemplo quando o encarregado muda, use **Desligar** na lista. A conta deixa logo de ver este aluno, mas continua a ver os outros educandos.
 
 ## Horário da turma
 
