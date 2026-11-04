@@ -118,6 +118,8 @@ nav:
           - "Empréstimos": menus/patrimonio/emprestimos.md
           - "Avarias e reparações": menus/patrimonio/avarias-e-reparacoes.md
           - "Abates": menus/patrimonio/abates.md
+          - "Inventário": menus/patrimonio/inventario.md
+          - "Mapas e valor": menus/patrimonio/mapas-e-valor.md
           - "Registar bem": menus/patrimonio/registar-bem.md
           - "Carregar lista": menus/patrimonio/carregar-lista.md
           - "Categorias e locais": menus/patrimonio/categorias-e-locais.md

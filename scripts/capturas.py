@@ -6,7 +6,7 @@ Uso:
 Cada captura está em scripts/capturas.json: a etapa dos dados de demonstração em que se tira, o ficheiro
 (dentro de docs/), a legenda, o utilizador de demonstração que entra (vazio: ecrã público), o endereço (com
 {sessao}, {portugues}, {ano}... preenchidos a partir de --ids, a saída do semeador de exames) e, se for
-preciso, o que clicar ("clicar"), as opções a escolher ("escolher": {lista: opção}), uma sequência de
+preciso, o ecrã de telemóvel ("telemovel": true), o que clicar ("clicar"), as opções a escolher ("escolher": {lista: opção}), uma sequência de
 passos ("passos": escolher, preencher, clicar), a secção a pôr no topo ("rolar"/"rolar_mais"), "directo": true para uma
 página fora do layout (aberta pelo endereço) ou "pdf": true para um documento PDF (primeira página, com
 pdftoppm). Depois de gravar a imagem, troca na página o comentário
@@ -88,6 +88,8 @@ def main():
                 login(page, args.url, profile)
             for s in items:
                 path = s["url"].format(**ids)
+                # ecrãs pensados para o telemóvel
+                page.set_viewport_size({"width": 390, "height": 844} if s.get("telemovel") else {"width": 1440, "height": 900})
                 target = DOCS / s["ficheiro"]
                 target.parent.mkdir(parents=True, exist_ok=True)
                 if s.get("pdf"):  # documento PDF: a primeira página em imagem
