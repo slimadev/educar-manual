@@ -93,9 +93,13 @@ def main():
                 if s.get("pdf"):  # documento PDF: a primeira página em imagem
                     pdf = page.request.get(args.url + path)
                     assert pdf.ok, f"{path}: {pdf.status}"
+                    body = pdf.body()
+                    embedded = re.search(rb"data:application/pdf;base64,([A-Za-z0-9+/=]+)", body)  # documento dentro da janela da aplicação
+                    if embedded:
+                        body = base64.b64decode(embedded.group(1))
                     with tempfile.TemporaryDirectory() as tmp:
                         src = pathlib.Path(tmp) / "doc.pdf"
-                        src.write_bytes(pdf.body())
+                        src.write_bytes(body)
                         subprocess.run(["pdftoppm", "-png", "-r", "110", "-f", "1", "-l", "1", "-singlefile",
                                         str(src), str(target.with_suffix(""))], check=True)
                     md = replace_marker(s["ficheiro"], s["legenda"])

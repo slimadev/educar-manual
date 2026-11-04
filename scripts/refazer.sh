@@ -50,6 +50,8 @@ echo "{\"ano\": 2, \"turma\": ${R%%|*}, \"matricula\": ${R##*|}}" > "$T/relatori
 capturar --etapa relatorios --ids "$T/relatorios_demo.json"
 semear estudante
 capturar --etapa estudante
+semear patrimonio -saida "$T/patrimonio_demo.json"
+capturar --etapa patrimonio --ids "$T/patrimonio_demo.json"
 rm -f "$T/listas_demo.json"
 for etapa in enviada aceite fechada; do
   semear listas -etapa "$etapa" -saida "$T/listas_demo.json"

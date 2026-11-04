@@ -23,6 +23,7 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Relatórios e Estatísticas | [Fecho de Caixa](../menus/relatorios-e-estatisticas/fecho-de-caixa.md) |
 | Relatórios e Estatísticas | [Devedores](../menus/relatorios-e-estatisticas/devedores.md) |
 | Relatórios e Estatísticas | [Previsto vs Cobrado](../menus/relatorios-e-estatisticas/previsto-vs-cobrado.md) |
+| Património | [Bens](../menus/patrimonio/bens.md) (só consulta) |
 
 ## Processos em que participa
 

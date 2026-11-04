@@ -52,6 +52,7 @@ nav:
   - Perfis:
       - Direcção da escola: perfis/direccao.md
       - Finanças: perfis/financas.md
+      - Gestor do património: perfis/gestor-do-patrimonio.md
       - Secretaria: perfis/secretaria.md
       - Professor: perfis/professor.md
       - Aluno e encarregado: perfis/aluno-encarregado.md
@@ -111,6 +112,12 @@ nav:
           - "Venda ao Balcão": menus/tesouraria/venda-ao-balcao.md
           - "Cobranças a Alunos": menus/tesouraria/cobrancas-a-alunos.md
           - "Receitas e Despesas": menus/tesouraria/receitas-e-despesas.md
+      - "Património":
+          - "Visão geral": menus/patrimonio/index.md
+          - "Bens": menus/patrimonio/bens.md
+          - "Registar bem": menus/patrimonio/registar-bem.md
+          - "Carregar lista": menus/patrimonio/carregar-lista.md
+          - "Categorias e locais": menus/patrimonio/categorias-e-locais.md
       - "Relatórios e Estatísticas":
           - "Visão geral": menus/relatorios-e-estatisticas/index.md
           - "Fecho de Caixa": menus/relatorios-e-estatisticas/fecho-de-caixa.md
