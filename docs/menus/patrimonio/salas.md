@@ -1,9 +1,9 @@
 # Salas
 
-**Menu:** Matrícula e Turmas › Salas
-**Quem vê:** Chefe da secretaria, Director da escola, Director pedagógico
+**Menu:** Património › Salas
+**Quem vê:** Gestor do património, Director
 
-As salas da escola: salas de aula, laboratórios, ginásio e outros espaços. A sala de cada turma escolhe-se depois, no [horário da turma](pesquisar-turma.md#a-sala-da-turma).
+As salas da escola: salas de aula, laboratórios, ginásio e outros espaços. A sala de cada turma escolhe-se depois, no [horário da turma](../matricula-e-turmas/pesquisar-turma.md#a-sala-da-turma).
 
 ![Salas da escola](img/salas.png)
 
@@ -21,4 +21,4 @@ Altere os dados na linha da sala e use **Gravar**. Desligue o interruptor para d
 
 ## As salas e o património
 
-As salas são também os [locais do património](../patrimonio/categorias-e-locais.md#locais). Se já existir um local com o mesmo nome, por exemplo `Sala 1`, passa a ser uma sala e os bens que lá estão continuam lá.
+As salas são também os [locais do património](categorias-e-locais.md#locais). Se já existir um local com o mesmo nome, por exemplo `Sala 1`, passa a ser uma sala e os bens que lá estão continuam lá.

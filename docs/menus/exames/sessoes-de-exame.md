@@ -89,7 +89,7 @@ Os júris são grupos de inscritos de uma disciplina, sem olhar à turma.
 - Em **Inscritos por júri** indica-se o tamanho de cada júri (30 por omissão).
 - Os júris formam-se ao **iniciar os exames**, por ordem alfabética. Uma sobra pequena junta-se ao último júri.
 - Em cada júri, indique o **local** (deixe vazio se for a própria escola) e a **sala**, e grave.
-- Na sala do júri, o sistema sugere as [Salas](../matricula-e-turmas/salas.md) da escola, mas pode escrever outra, por exemplo noutra escola.
+- Na sala do júri, o sistema sugere as [Salas](../patrimonio/salas.md) da escola, mas pode escrever outra, por exemplo noutra escola.
 - Junte os **vigilantes** (os professores que controlam o júri) e escolha o responsável com a estrela.
 
 Se o tamanho dos júris mudar com os exames em curso, os júris refazem-se nas disciplinas ainda sem notas. Cada júri mantém o local, a sala e os vigilantes que tinha.

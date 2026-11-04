@@ -13,6 +13,7 @@ O registo do que a escola tem, onde está e quem responde por cada bem.
 | [Registar bem](registar-bem.md) | Gestor do património, Director |
 | [Carregar lista](carregar-lista.md) | Gestor do património, Director |
 | [Categorias e locais](categorias-e-locais.md) | Gestor do património, Director |
+| [Salas](salas.md) | Gestor do património, Director |
 
 ## Por onde começar
 

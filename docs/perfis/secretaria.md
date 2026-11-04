@@ -15,7 +15,6 @@ Trata das matrículas, das turmas, dos pedidos de documentos e das inscrições 
 | Matrícula e Turmas | [Carregar Turma](../menus/matricula-e-turmas/carregar-turma.md) |
 | Matrícula e Turmas | [Secções dos alunos](../menus/matricula-e-turmas/seccoes-dos-alunos.md) |
 | Matrícula e Turmas | [Geração de Turmas](../menus/matricula-e-turmas/geracao-de-turmas.md) |
-| Matrícula e Turmas | [Salas](../menus/matricula-e-turmas/salas.md) |
 | Matrícula e Turmas | [Ocupação das salas](../menus/matricula-e-turmas/ocupacao-das-salas.md) |
 | Matrícula e Turmas | [Reordenar Turma](../menus/matricula-e-turmas/reordenar-turma.md) |
 | Matrícula e Turmas | [Gerar códigos de alunos](../menus/matricula-e-turmas/gerar-codigos-de-alunos.md) |

@@ -101,7 +101,6 @@ nav:
           - "Carregar Turma": menus/matricula-e-turmas/carregar-turma.md
           - "Secções dos alunos": menus/matricula-e-turmas/seccoes-dos-alunos.md
           - "Geração de Turmas": menus/matricula-e-turmas/geracao-de-turmas.md
-          - "Salas": menus/matricula-e-turmas/salas.md
           - "Ocupação das salas": menus/matricula-e-turmas/ocupacao-das-salas.md
           - "Reordenar Turma": menus/matricula-e-turmas/reordenar-turma.md
           - "Gerar códigos de alunos": menus/matricula-e-turmas/gerar-codigos-de-alunos.md
@@ -125,6 +124,7 @@ nav:
           - "Registar bem": menus/patrimonio/registar-bem.md
           - "Carregar lista": menus/patrimonio/carregar-lista.md
           - "Categorias e locais": menus/patrimonio/categorias-e-locais.md
+          - "Salas": menus/patrimonio/salas.md
       - "Relatórios e Estatísticas":
           - "Visão geral": menus/relatorios-e-estatisticas/index.md
           - "Fecho de Caixa": menus/relatorios-e-estatisticas/fecho-de-caixa.md

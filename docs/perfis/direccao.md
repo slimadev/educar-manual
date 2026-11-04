@@ -26,7 +26,6 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Matrícula e Turmas | [Carregar Turma](../menus/matricula-e-turmas/carregar-turma.md) |
 | Matrícula e Turmas | [Secções dos alunos](../menus/matricula-e-turmas/seccoes-dos-alunos.md) |
 | Matrícula e Turmas | [Geração de Turmas](../menus/matricula-e-turmas/geracao-de-turmas.md) |
-| Matrícula e Turmas | [Salas](../menus/matricula-e-turmas/salas.md) |
 | Matrícula e Turmas | [Ocupação das salas](../menus/matricula-e-turmas/ocupacao-das-salas.md) |
 | Matrícula e Turmas | [Reordenar Turma](../menus/matricula-e-turmas/reordenar-turma.md) |
 | Matrícula e Turmas | [Gerar códigos de alunos](../menus/matricula-e-turmas/gerar-codigos-de-alunos.md) |
@@ -48,6 +47,7 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Exames | [Relatório de exames](../menus/exames/relatorio-de-exames.md) |
 | Património | [Bens](../menus/patrimonio/bens.md) (o director também regista e transfere; o director pedagógico só consulta) |
 | Património | [Abates](../menus/patrimonio/abates.md) (só o director autoriza) |
+| Património | [Salas](../menus/patrimonio/salas.md) (só o director) |
 
 ## Processos em que participa
 
