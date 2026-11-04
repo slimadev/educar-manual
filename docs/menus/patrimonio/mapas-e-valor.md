@@ -13,7 +13,7 @@ Quantos bens a escola tem e quanto valem, por categoria e por local, e os bens a
 
 ## Valor actual
 
-O valor actual é uma estimativa: o valor de aquisição desce todos os meses, em partes iguais, até chegar a zero no fim da [vida útil da categoria](categorias-e-locais.md#categorias).
+O valor actual é uma estimativa: o valor de aquisição desce todos os meses, em partes iguais, até chegar a zero no fim da [vida útil da categoria](categorias.md).
 
 Por exemplo, um computador de 120 000,00 MT numa categoria com 5 anos de vida útil vale 72 000,00 MT ao fim de 2 anos.
 

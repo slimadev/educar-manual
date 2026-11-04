@@ -47,7 +47,7 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Exames | [Relatório de exames](../menus/exames/relatorio-de-exames.md) |
 | Património | [Bens](../menus/patrimonio/bens.md) (o director também regista e transfere; o director pedagógico só consulta) |
 | Património | [Abates](../menus/patrimonio/abates.md) (só o director autoriza) |
-| Património | [Salas](../menus/patrimonio/salas.md) (só o director) |
+| Património | [Locais](../menus/patrimonio/locais.md) (só o director) |
 
 ## Processos em que participa
 

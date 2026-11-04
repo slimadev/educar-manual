@@ -16,5 +16,5 @@ Regista os bens da escola, indica onde estão e quem responde por eles, e imprim
 | Património | [Mapas e valor](../menus/patrimonio/mapas-e-valor.md) |
 | Património | [Registar bem](../menus/patrimonio/registar-bem.md) |
 | Património | [Carregar lista](../menus/patrimonio/carregar-lista.md) |
-| Património | [Categorias e locais](../menus/patrimonio/categorias-e-locais.md) |
-| Património | [Salas](../menus/patrimonio/salas.md) |
+| Património | [Categorias](../menus/patrimonio/categorias.md) |
+| Património | [Locais](../menus/patrimonio/locais.md) |

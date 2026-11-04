@@ -12,12 +12,12 @@ O registo do que a escola tem, onde está e quem responde por cada bem.
 | [Mapas e valor](mapas-e-valor.md) | Gestor do património, Director, Director pedagógico, Director financeiro, Funcionário das finanças |
 | [Registar bem](registar-bem.md) | Gestor do património, Director |
 | [Carregar lista](carregar-lista.md) | Gestor do património, Director |
-| [Categorias e locais](categorias-e-locais.md) | Gestor do património, Director |
-| [Salas](salas.md) | Gestor do património, Director |
+| [Categorias](categorias.md) | Gestor do património, Director |
+| [Locais](locais.md) | Gestor do património, Director |
 
 ## Por onde começar
 
-1. Confirme as [categorias e crie os locais](categorias-e-locais.md) da escola.
+1. Confirme as [categorias](categorias.md) e crie os [locais](locais.md) da escola.
 2. Se a escola já tem uma lista de bens, [carregue-a](carregar-lista.md). Os bens novos [registam-se um a um ou em grupo](registar-bem.md).
 3. Imprima as [etiquetas](bens.md#imprimir-etiquetas) e cole-as nos bens.
 4. Indique os responsáveis com [Transferir](bens.md#transferir-bens) e imprima o [termo de responsabilidade](bens.md#termo-de-responsabilidade).

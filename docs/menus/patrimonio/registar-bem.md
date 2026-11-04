@@ -7,7 +7,7 @@ Para registar um bem, ou vários iguais de uma só vez.
 
 ![Registar um bem](img/registar-bem.png)
 
-1. Escolha a **Categoria** e o **Local**. Os locais criam-se em [Categorias e locais](categorias-e-locais.md).
+1. Escolha a **Categoria** e o **Local**. Os locais criam-se em [Locais](locais.md).
 2. Em **Quantidade**, indique quantos bens iguais vai registar, até 500. Cada unidade recebe o seu número.
 3. Escreva a **Descrição**. Os outros dados ajudam a identificar o bem, mas são opcionais: marca, modelo, número de série, data e valor de aquisição, fornecedor ou doador.
 4. Escolha a **Origem** e o **Estado**.

@@ -90,7 +90,7 @@ Com uma turma escolhida, o separador **Horário** mostra o horário da turma.
 
 ### A sala da turma
 
-Em **Sala da turma**, escolha a sala habitual, de entre as [Salas](../patrimonio/salas.md) da escola. Todas as aulas da turma ficam nessa sala.
+Em **Sala da turma**, escolha a sala habitual, de entre as [salas](../patrimonio/locais.md#salas) da escola. Todas as aulas da turma ficam nessa sala.
 
 ![Sala da turma no horário](img/horario-sala.png)
 

@@ -123,8 +123,8 @@ nav:
           - "Mapas e valor": menus/patrimonio/mapas-e-valor.md
           - "Registar bem": menus/patrimonio/registar-bem.md
           - "Carregar lista": menus/patrimonio/carregar-lista.md
-          - "Categorias e locais": menus/patrimonio/categorias-e-locais.md
-          - "Salas": menus/patrimonio/salas.md
+          - "Categorias": menus/patrimonio/categorias.md
+          - "Locais": menus/patrimonio/locais.md
       - "Relatórios e Estatísticas":
           - "Visão geral": menus/relatorios-e-estatisticas/index.md
           - "Fecho de Caixa": menus/relatorios-e-estatisticas/fecho-de-caixa.md

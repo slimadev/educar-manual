@@ -99,7 +99,7 @@
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/ficha-do-bem.png", "perfil": "patrimonio", "url": "/assets/{bem}", "legenda": "Ficha do bem, com o histórico"},
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/registar-bem.png", "perfil": "patrimonio", "url": "/assets/manage/new", "legenda": "Registar um bem"},
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/carregar-lista.png", "perfil": "patrimonio", "url": "/assets/manage/import", "legenda": "Carregar a lista de bens"},
-  {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/categorias-e-locais.png", "perfil": "patrimonio", "url": "/assets/manage/settings", "legenda": "Categorias e locais"},
+  {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/categorias.png", "perfil": "patrimonio", "url": "/assets/manage/settings", "legenda": "Categorias"},
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/etiquetas.png", "perfil": "patrimonio", "url": "/assets/labels?{etiquetas}", "legenda": "Etiquetas com o número e o QR", "pdf": true},
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/termo.png", "perfil": "patrimonio", "url": "/assets/term?person_id={responsavel}", "legenda": "Termo de responsabilidade", "pdf": true},
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/emprestimos.png", "perfil": "patrimonio", "url": "/assets/loans", "legenda": "Empréstimos em curso e em atraso"},
@@ -112,7 +112,7 @@
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/inventario-fechado.png", "perfil": "patrimonio", "url": "/assets/inventory/{inventario_fechado}", "legenda": "Resultado de um inventário fechado"},
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/relatorio-inventario.png", "perfil": "patrimonio", "url": "/assets/inventory/{inventario_fechado}/report", "legenda": "Relatório de inventário", "pdf": true},
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/mapas.png", "perfil": "patrimonio", "url": "/assets/reports", "legenda": "Mapas e valor do património"},
-  {"etapa": "salas", "ficheiro": "menus/patrimonio/img/salas.png", "perfil": "patrimonio", "url": "/assets/manage/rooms", "legenda": "Salas da escola"},
+  {"etapa": "salas", "ficheiro": "menus/patrimonio/img/locais.png", "perfil": "patrimonio", "url": "/assets/manage/locations", "legenda": "Locais da escola"},
   {"etapa": "salas", "ficheiro": "menus/matricula-e-turmas/img/ocupacao-das-salas.png", "perfil": "secretaria", "url": "/rooms/occupancy?year_id={ano}&day_id={dia}&from=12:00&to=12:45", "legenda": "Ocupação das salas, com as livres nessa hora"},
   {"etapa": "salas", "ficheiro": "menus/matricula-e-turmas/img/horario-sala.png", "perfil": "secretaria", "url": "/student_enrollments/?school_academics_years_id={ano}&grade_id=9&regime_id=1&class=A", "legenda": "Sala da turma no horário", "clicar": ["a[href='#tabClassTimetable']"]}
 ]
