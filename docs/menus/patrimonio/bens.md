@@ -23,13 +23,17 @@ Na ficha pode:
 
 - usar **Corrigir** para alterar os dados, incluindo o estado do bem;
 - gravar uma foto, em JPEG ou PNG, até 3 MB;
-- usar **Transferir**, **Etiqueta** e **Termo**.
+- usar **Transferir**, **Etiqueta** e **Termo**;
+- registar um [empréstimo](emprestimos.md) ou uma [avaria](avarias-e-reparacoes.md);
+- pedir o [abate](abates.md).
 
 A categoria não se corrige, porque faz parte do número. Se a categoria estiver errada, anule o registo e registe o bem de novo.
 
 ### Anular um registo
 
 Use **Anular o registo** só para um registo feito por engano, e indique o motivo. O bem sai das listas, mas a ficha e o histórico ficam.
+
+Um bem que saiu da escola de verdade não se anula: peça o [abate](abates.md). Também não se anula um bem emprestado, com uma avaria em aberto ou com um pedido de abate.
 
 ## Transferir bens
 
@@ -43,6 +47,8 @@ Serve para mudar o local, o responsável, ou ambos.
 ![Transferir os bens escolhidos](img/transferir.png)
 
 A transferência fica no histórico de cada bem. Se escolheu um novo responsável, a seguir pode imprimir o termo.
+
+Um bem emprestado ou com um pedido de abate não se transfere. Se estiver entre os escolhidos, a mensagem diz qual é, e não muda nenhum dos bens.
 
 Só aparecem como responsáveis os docentes, os funcionários com conta e as pessoas registadas pela escola em [Pessoas](../recursos-humanos/pessoas.md).
 

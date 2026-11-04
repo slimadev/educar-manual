@@ -101,5 +101,10 @@
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/carregar-lista.png", "perfil": "patrimonio", "url": "/assets/manage/import", "legenda": "Carregar a lista de bens"},
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/categorias-e-locais.png", "perfil": "patrimonio", "url": "/assets/manage/settings", "legenda": "Categorias e locais"},
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/etiquetas.png", "perfil": "patrimonio", "url": "/assets/labels?{etiquetas}", "legenda": "Etiquetas com o número e o QR", "pdf": true},
-  {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/termo.png", "perfil": "patrimonio", "url": "/assets/term?person_id={responsavel}", "legenda": "Termo de responsabilidade", "pdf": true}
+  {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/termo.png", "perfil": "patrimonio", "url": "/assets/term?person_id={responsavel}", "legenda": "Termo de responsabilidade", "pdf": true},
+  {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/emprestimos.png", "perfil": "patrimonio", "url": "/assets/loans", "legenda": "Empréstimos em curso e em atraso"},
+  {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/ficha-emprestado.png", "perfil": "patrimonio", "url": "/assets/{emprestado}", "legenda": "Bem emprestado, em atraso"},
+  {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/avarias.png", "perfil": "patrimonio", "url": "/assets/repairs?all=1", "legenda": "Avarias e reparações"},
+  {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/abates.png", "perfil": "director", "url": "/assets/disposals", "legenda": "Pedidos de abate, vistos pelo director"},
+  {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/auto-de-abate.png", "perfil": "patrimonio", "url": "/assets/disposals/{abate}/report", "legenda": "Auto de abate", "pdf": true}
 ]

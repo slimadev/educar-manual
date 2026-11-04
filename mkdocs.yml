@@ -115,6 +115,9 @@ nav:
       - "Património":
           - "Visão geral": menus/patrimonio/index.md
           - "Bens": menus/patrimonio/bens.md
+          - "Empréstimos": menus/patrimonio/emprestimos.md
+          - "Avarias e reparações": menus/patrimonio/avarias-e-reparacoes.md
+          - "Abates": menus/patrimonio/abates.md
           - "Registar bem": menus/patrimonio/registar-bem.md
           - "Carregar lista": menus/patrimonio/carregar-lista.md
           - "Categorias e locais": menus/patrimonio/categorias-e-locais.md
