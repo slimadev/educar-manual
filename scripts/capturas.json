@@ -111,5 +111,8 @@
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/conferir.png", "perfil": "patrimonio", "url": "/assets/manage/inventory/{inventario_aberto}/check?location_id={sala}", "legenda": "Conferir um local no telemóvel", "telemovel": true},
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/inventario-fechado.png", "perfil": "patrimonio", "url": "/assets/inventory/{inventario_fechado}", "legenda": "Resultado de um inventário fechado"},
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/relatorio-inventario.png", "perfil": "patrimonio", "url": "/assets/inventory/{inventario_fechado}/report", "legenda": "Relatório de inventário", "pdf": true},
-  {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/mapas.png", "perfil": "patrimonio", "url": "/assets/reports", "legenda": "Mapas e valor do património"}
+  {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/mapas.png", "perfil": "patrimonio", "url": "/assets/reports", "legenda": "Mapas e valor do património"},
+  {"etapa": "salas", "ficheiro": "menus/matricula-e-turmas/img/salas.png", "perfil": "secretaria", "url": "/rooms/", "legenda": "Salas da escola"},
+  {"etapa": "salas", "ficheiro": "menus/matricula-e-turmas/img/ocupacao-das-salas.png", "perfil": "secretaria", "url": "/rooms/occupancy?year_id={ano}&day_id={dia}&from=12:00&to=12:45", "legenda": "Ocupação das salas, com as livres nessa hora"},
+  {"etapa": "salas", "ficheiro": "menus/matricula-e-turmas/img/horario-sala.png", "perfil": "secretaria", "url": "/student_enrollments/?school_academics_years_id={ano}&grade_id=9&regime_id=1&class=A", "legenda": "Sala da turma no horário", "clicar": ["a[href='#tabClassTimetable']"]}
 ]

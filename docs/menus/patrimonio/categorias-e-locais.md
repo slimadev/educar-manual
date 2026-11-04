@@ -19,6 +19,8 @@ Os **Anos** são a vida útil da categoria: em quantos anos o [valor actual](map
 
 Crie as salas, os laboratórios, o armazém e os outros locais da escola: escreva o **Nome** e use **Criar**.
 
+As [Salas](../matricula-e-turmas/salas.md) da escola também aparecem aqui, por isso não precisa de as escrever duas vezes. Se mudar o nome de uma sala aqui, muda também no horário.
+
 ## Alterar ou desligar
 
 Altere o nome na linha e use **Gravar**. Desligue o interruptor para deixar de usar uma categoria ou um local: deixa de aparecer ao registar, mas os bens que já lá estão mantêm-se.

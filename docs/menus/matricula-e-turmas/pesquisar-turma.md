@@ -88,4 +88,16 @@ Com uma turma escolhida, o separador **Horário** mostra o horário da turma.
 !!! warning "Mudar o período"
     Ao mudar o período de aulas da turma, o horário tem de ser refeito.
 
+### A sala da turma
+
+Em **Sala da turma**, escolha a sala habitual, de entre as [Salas](salas.md) da escola. Todas as aulas da turma ficam nessa sala.
+
+![Sala da turma no horário](img/horario-sala.png)
+
+Para uma aula noutro sítio, como o laboratório ou o ginásio, troque só esse tempo: clique no tempo e, na segunda lista, escolha a sala. **Sala da turma** volta à sala habitual.
+
+O sistema não aceita uma sala que já tem outra turma nesse tempo: a mensagem diz qual é. Se a turma tiver mais alunos do que lugares, a sala fica gravada, com um aviso.
+
+Se puser uma aula num tempo em que a sala da turma está ocupada, a aula fica gravada e o tempo fica a vermelho, para escolher outra sala. Veja também a [Ocupação das salas](ocupacao-das-salas.md).
+
 O resumo dos horários de todas as turmas está em [Configurações › Professores por Turma](../configuracoes/professores-por-turma.md).

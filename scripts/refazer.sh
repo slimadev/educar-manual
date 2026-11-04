@@ -52,6 +52,8 @@ semear estudante
 capturar --etapa estudante
 semear patrimonio -saida "$T/patrimonio_demo.json"
 capturar --etapa patrimonio --ids "$T/patrimonio_demo.json"
+semear salas -saida "$T/salas_demo.json"
+capturar --etapa salas --ids "$T/salas_demo.json"
 rm -f "$T/listas_demo.json"
 for etapa in enviada aceite fechada; do
   semear listas -etapa "$etapa" -saida "$T/listas_demo.json"
