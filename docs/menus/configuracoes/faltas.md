@@ -3,9 +3,9 @@
 **Menu:** Configurações › Faltas
 **Quem vê:** Director da escola, Director pedagógico
 
-Os limites de faltas da escola e os avisos aos encarregados. Os professores marcam as faltas em [Aulas e presenças](../professor/aulas-e-presencas.md): cada tempo de aula conta como uma presença.
+Os limites de faltas da escola, os avisos aos encarregados e, se quiser, as datas dos trimestres. Os professores marcam as faltas em [Aulas e presenças](../professor/aulas-e-presencas.md): cada tempo de aula conta como uma presença.
 
-![Limites de faltas](img/faltas.png)
+![Limites de faltas e datas dos trimestres](img/faltas.png)
 
 ## Limites
 
@@ -30,3 +30,15 @@ A partir de 80% do limite, o aluno aparece como **Perto do limite** na ficha e n
 ## Aviso a cada falta
 
 Com **Avisar o aluno e os encarregados a cada falta** ligado, a família recebe um aviso sempre que o professor marca uma falta ou uma ordem de saída. Numa aula de dois tempos seguidos, segue um só aviso.
+
+## Datas dos trimestres
+
+As datas são **opcionais**. Servem para a pauta trimestral mostrar as faltas de cada aluno no trimestre.
+
+1. Escolha o ano lectivo, no canto do cartão **Datas dos trimestres**.
+2. Indique o início e o fim de cada trimestre que quiser. Pode definir só alguns.
+3. Clique em **Gravar datas**.
+
+Cada trimestre tem as duas datas ou nenhuma, e cada trimestre começa depois do fim do anterior. Para tirar as datas de um trimestre, apague-as e grave.
+
+Com as datas de um trimestre, a [pauta trimestral da turma](../pautas/trimestral.md) e a [pauta da disciplina](../professor/as-minhas-turmas.md) desse trimestre ganham uma coluna **Faltas**, com as faltas entre essas datas. As justificadas aparecem à parte. Um trimestre sem datas não mostra faltas na pauta.

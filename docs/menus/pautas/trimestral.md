@@ -15,6 +15,8 @@ O trimestre em curso de cada turma e as avaliações por publicar. Daqui abre-se
 
 A pauta mostra o total de alunos, homens e mulheres, quantos têm média positiva e negativa, e a média geral. Por baixo, os resultados de cada aluno por disciplina: a média das avaliações (M.ACS), a nota do trimestre e a média final. Nas classes com secções, filtre por secção.
 
+Se a escola definiu as datas do trimestre em [Configurações › Faltas](../configuracoes/faltas.md#datas-dos-trimestres), a pauta tem também a coluna **Faltas**: as faltas de cada aluno entre essas datas, em todas as disciplinas, com as justificadas indicadas à parte. Sem as datas, a pauta não mostra faltas.
+
 - **Baixar Pauta (Excel)** descarrega a pauta.
 - **Encerrar Trimestre** fecha o trimestre da turma. Depois de encerrado, as notas desse trimestre só se consultam.
 

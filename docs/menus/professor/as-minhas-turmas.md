@@ -28,3 +28,7 @@ Escolha uma turma. Há dois separadores: **Avaliações** e **Alunos**.
 Depois de publicadas, os alunos vêem as notas e elas entram nas pautas do trimestre. Enquanto o trimestre estiver aberto, ainda pode corrigir uma nota: a correcção grava-se sozinha e fica logo visível. Com o trimestre encerrado, as notas só se consultam.
 
 **Pauta**, em cada trimestre, abre a pauta trimestral da disciplina, que se pode descarregar em Excel.
+
+Se a escola definiu as datas do trimestre, a pauta da disciplina mostra também as faltas de cada aluno nessa disciplina, entre essas datas. As justificadas aparecem à parte.
+
+![Faltas na pauta da disciplina](img/pauta-faltas.png)
