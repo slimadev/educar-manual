@@ -114,5 +114,7 @@
   {"etapa": "patrimonio", "ficheiro": "menus/patrimonio/img/mapas.png", "perfil": "patrimonio", "url": "/assets/reports", "legenda": "Mapas e valor do património"},
   {"etapa": "salas", "ficheiro": "menus/patrimonio/img/locais.png", "perfil": "patrimonio", "url": "/assets/manage/locations", "legenda": "Locais da escola"},
   {"etapa": "salas", "ficheiro": "menus/matricula-e-turmas/img/ocupacao-das-salas.png", "perfil": "secretaria", "url": "/rooms/occupancy?year_id={ano}&day_id={dia}&from=12:00&to=12:45", "legenda": "Ocupação das salas, com as livres nessa hora"},
-  {"etapa": "salas", "ficheiro": "menus/matricula-e-turmas/img/horario-sala.png", "perfil": "secretaria", "url": "/student_enrollments/?school_academics_years_id={ano}&grade_id=9&regime_id=1&class=A", "legenda": "Sala da turma no horário", "clicar": ["a[href='#tabClassTimetable']"]}
+  {"etapa": "salas", "ficheiro": "menus/matricula-e-turmas/img/horario-sala.png", "perfil": "secretaria", "url": "/student_enrollments/?school_academics_years_id={ano}&grade_id=9&regime_id=1&class=A", "legenda": "Sala da turma no horário", "clicar": ["a[href='#tabClassTimetable']"]},
+  {"etapa": "aulas", "ficheiro": "menus/professor/img/aulas-do-dia.png", "perfil": "professor", "url": "/teacher/lessons?date={data}", "legenda": "Aulas do dia"},
+  {"etapa": "aulas", "ficheiro": "menus/professor/img/aula.png", "perfil": "professor", "url": "/teacher/lessons/{tempo}?date={data}", "legenda": "Sumário e presenças de uma aula"}
 ]

@@ -151,6 +151,7 @@ nav:
           - "Visão geral": menus/professor/index.md
           - "As minhas turmas": menus/professor/as-minhas-turmas.md
           - "Horário": menus/professor/horario.md
+          - "Aulas e presenças": menus/professor/aulas-e-presencas.md
           - "Direcção de turma": menus/professor/direccao-de-turma.md
       - "Estudante":
           - "Visão geral": menus/estudante/index.md

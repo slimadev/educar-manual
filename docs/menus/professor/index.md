@@ -4,4 +4,5 @@
 |---|---|
 | [As minhas turmas](as-minhas-turmas.md) | Professor |
 | [Horário](horario.md) | Professor |
+| [Aulas e presenças](aulas-e-presencas.md) | Professor |
 | [Direcção de turma](direccao-de-turma.md) | Professor |
