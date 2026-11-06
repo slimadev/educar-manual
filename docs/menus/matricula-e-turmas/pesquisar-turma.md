@@ -27,6 +27,7 @@ O topo mostra os dados do aluno e o resumo das contas: por pagar, em atraso, val
 | **Pagamentos** | Pagamentos feitos, com o recibo |
 | **Documentos** | Pedidos de documentos do aluno (veja [Pedidos de documentos](../documentos/pedidos-de-documentos.md#registar-um-pedido)) |
 | **Situação pedagógica** | Médias dos trimestres e fecho do ano do aluno |
+| **Faltas** | Faltas do aluno no ano, por disciplina; a secretaria justifica-as (veja [Faltas do aluno](#faltas-do-aluno)) |
 | **Encarregados** | Contas de encarregado ligadas ao aluno, para acompanhar na [app](../../primeiros-passos/app.md) (veja [Ligar um encarregado](#ligar-um-encarregado)) |
 
 ![A conta do documento na ficha do aluno](../documentos/img/ficha-pagar.png)
@@ -76,6 +77,24 @@ Para retirar o acesso, por exemplo quando o encarregado muda, use **Desligar** n
 O telemóvel de uma conta não se altera. Se o encarregado mudar de número, desligue a conta antiga e crie uma com o número novo, em cada um dos educandos.
 
 Se o encarregado se esquecer da senha, recupera-a no site do EDUCAR, em **Esqueceu a senha?**, com o telemóvel no lugar do código e os seus dados pessoais. A app ainda não tem esta opção.
+
+### Faltas do aluno
+
+O separador **Faltas** mostra as faltas que os professores marcaram em [Aulas e presenças](../professor/aulas-e-presencas.md): os totais, as faltas por disciplina com os [limites da escola](../configuracoes/faltas.md), e a lista de cada falta com a data, a hora e a disciplina.
+
+![Faltas na ficha do aluno](img/ficha-faltas.png)
+
+Para justificar, com o atestado ou o motivo que a família apresentar:
+
+1. Marque as faltas a justificar.
+2. Escreva o **Motivo**, por exemplo `Atestado médico`.
+3. Use **Justificar as escolhidas**.
+
+As faltas justificadas deixam de contar para os limites. As ordens de saída não se justificam. Para desfazer, marque as faltas e use **Tirar a justificação**.
+
+Só a secretaria justifica. A direcção vê as faltas, mas não as justifica.
+
+Se o professor corrigir a aula e mudar uma falta para ordem de saída, ou ao contrário, essa falta perde a justificação.
 
 ## Horário da turma
 

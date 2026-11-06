@@ -116,5 +116,8 @@
   {"etapa": "salas", "ficheiro": "menus/matricula-e-turmas/img/ocupacao-das-salas.png", "perfil": "secretaria", "url": "/rooms/occupancy?year_id={ano}&day_id={dia}&from=12:00&to=12:45", "legenda": "Ocupação das salas, com as livres nessa hora"},
   {"etapa": "salas", "ficheiro": "menus/matricula-e-turmas/img/horario-sala.png", "perfil": "secretaria", "url": "/student_enrollments/?school_academics_years_id={ano}&grade_id=9&regime_id=1&class=A", "legenda": "Sala da turma no horário", "clicar": ["a[href='#tabClassTimetable']"]},
   {"etapa": "aulas", "ficheiro": "menus/professor/img/aulas-do-dia.png", "perfil": "professor", "url": "/teacher/lessons?date={data}", "legenda": "Aulas do dia"},
-  {"etapa": "aulas", "ficheiro": "menus/professor/img/aula.png", "perfil": "professor", "url": "/teacher/lessons/{tempo}?date={data}", "legenda": "Sumário e presenças de uma aula"}
+  {"etapa": "aulas", "ficheiro": "menus/professor/img/aula.png", "perfil": "professor", "url": "/teacher/lessons/{tempo}?date={data}", "legenda": "Sumário e presenças de uma aula"},
+  {"etapa": "aulas", "ficheiro": "menus/configuracoes/img/faltas.png", "perfil": "director", "url": "/configuration/attendance/", "legenda": "Limites de faltas"},
+  {"etapa": "aulas", "ficheiro": "menus/matricula-e-turmas/img/ficha-faltas.png", "perfil": "secretaria", "url": "/student_bills/?enrollment_id={matricula}&tab=absences", "legenda": "Faltas na ficha do aluno"},
+  {"etapa": "aulas", "ficheiro": "menus/professor/img/direccao-de-turma-faltas.png", "perfil": "professor", "url": "/teacher/classes/director", "legenda": "Faltas da turma", "passos": [["clicar", "#dvMainContent :text('9ª Classe · Turma A')"], ["clicar", "a[href='#tabDirectorAbsences']"]]}
 ]

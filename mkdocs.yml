@@ -70,6 +70,7 @@ nav:
           - "Etapas dos Documentos": menus/configuracoes/etapas-dos-documentos.md
           - "Modelos dos Documentos": menus/configuracoes/modelos-dos-documentos.md
           - "Avisos e Lembretes": menus/configuracoes/avisos-e-lembretes.md
+          - "Faltas": menus/configuracoes/faltas.md
           - "Períodos Leccionados": menus/configuracoes/periodos-leccionados.md
           - "Professores por Turma": menus/configuracoes/professores-por-turma.md
       - "Plano Curricular":

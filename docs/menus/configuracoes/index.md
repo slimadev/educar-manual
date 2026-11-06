@@ -8,5 +8,6 @@
 | [Etapas dos Documentos](etapas-dos-documentos.md) | Director da escola, Director pedagógico |
 | [Modelos dos Documentos](modelos-dos-documentos.md) | Director da escola, Director pedagógico |
 | [Avisos e Lembretes](avisos-e-lembretes.md) | Director da escola, Director pedagógico |
+| [Faltas](faltas.md) | Director da escola, Director pedagógico |
 | [Períodos Leccionados](periodos-leccionados.md) | Director da escola, Director pedagógico |
 | [Professores por Turma](professores-por-turma.md) | Director da escola, Director pedagógico |

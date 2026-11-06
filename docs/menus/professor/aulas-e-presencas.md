@@ -39,3 +39,11 @@ Se um aluno só faltou a um dos tempos, desmarque a opção e grave cada tempo �
 ## Corrigir
 
 Use **Ver ou corrigir** no tempo, altere e grave de novo. A folha mostra quem a gravou pela última vez e quando.
+
+As justificações que a secretaria já fez mantêm-se, excepto na falta que mudar de falta para ordem de saída, ou ao contrário.
+
+## Avisos
+
+Quando grava faltas, o aluno e os encarregados podem receber um aviso, conforme a [configuração da escola](../configuracoes/faltas.md). Quando um aluno atinge um limite de faltas, o director de turma também é avisado.
+
+Na app, o professor também regista as aulas, quando a app tiver esta área.

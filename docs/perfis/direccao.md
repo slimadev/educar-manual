@@ -14,6 +14,7 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Configurações | [Etapas dos Documentos](../menus/configuracoes/etapas-dos-documentos.md) |
 | Configurações | [Modelos dos Documentos](../menus/configuracoes/modelos-dos-documentos.md) |
 | Configurações | [Avisos e Lembretes](../menus/configuracoes/avisos-e-lembretes.md) |
+| Configurações | [Faltas](../menus/configuracoes/faltas.md) |
 | Configurações | [Períodos Leccionados](../menus/configuracoes/periodos-leccionados.md) |
 | Configurações | [Professores por Turma](../menus/configuracoes/professores-por-turma.md) |
 | Plano Curricular | [Grade Curricular](../menus/plano-curricular/grade-curricular.md) |
