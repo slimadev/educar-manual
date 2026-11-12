@@ -28,6 +28,8 @@ Cada movimento mostra a data e a hora, a descrição (e o aluno, se houver), que
 
 ![Nova despesa](img/despesa-nova.png)
 
+As compras de bens e as reparações registadas no Património não se lançam aqui à mão: pagam-se em [Despesas do Património](despesas-do-patrimonio.md), que as junta a esta lista.
+
 ## Transferir entre contas
 
 Por exemplo, para passar para o banco o dinheiro recebido no M-Pesa ou no caixa.

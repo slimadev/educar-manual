@@ -24,4 +24,4 @@ Na ficha do bem, escolha o **Resultado** e use **Concluir**:
 - **Reparado:** escolha o estado em que o bem ficou. Pode registar o custo e quem tratou.
 - **Sem reparação:** explique porquê. O bem continua avariado e, se já não servir, pode [pedir o abate](abates.md).
 
-O custo fica só aqui: registar uma reparação não cria uma despesa. O pagamento regista-se em [Receitas e Despesas](../tesouraria/receitas-e-despesas.md).
+Com custo, a opção **Lançar o custo na Tesouraria, por pagar** (já marcada) põe a reparação à espera das finanças em [Despesas do Património](../tesouraria/despesas-do-patrimonio.md). Desmarque-a se a reparação já foi paga. Na lista de avarias, o custo mostra se a despesa está por pagar, paga ou dispensada.

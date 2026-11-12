@@ -114,6 +114,7 @@ nav:
           - "Venda ao Balcão": menus/tesouraria/venda-ao-balcao.md
           - "Cobranças a Alunos": menus/tesouraria/cobrancas-a-alunos.md
           - "Receitas e Despesas": menus/tesouraria/receitas-e-despesas.md
+          - "Despesas do Património": menus/tesouraria/despesas-do-patrimonio.md
       - "Património":
           - "Visão geral": menus/patrimonio/index.md
           - "Bens": menus/patrimonio/bens.md
@@ -122,6 +123,7 @@ nav:
           - "Abates": menus/patrimonio/abates.md
           - "Inventário": menus/patrimonio/inventario.md
           - "Mapas e valor": menus/patrimonio/mapas-e-valor.md
+          - "Prazos": menus/patrimonio/prazos.md
           - "Registar bem": menus/patrimonio/registar-bem.md
           - "Carregar lista": menus/patrimonio/carregar-lista.md
           - "Categorias": menus/patrimonio/categorias.md

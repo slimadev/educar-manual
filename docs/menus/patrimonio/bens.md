@@ -25,7 +25,10 @@ Na ficha pode:
 - gravar uma foto, em JPEG ou PNG, até 3 MB;
 - usar **Transferir**, **Etiqueta** e **Termo**;
 - registar um [empréstimo](emprestimos.md) ou uma [avaria](avarias-e-reparacoes.md);
+- registar os [prazos](prazos.md) do bem: garantia, seguro, inspecção, manutenção;
 - pedir o [abate](abates.md).
+
+O quadro **Tesouraria** mostra a compra e as reparações lançadas para as finanças pagarem, e se já foram pagas. Ver [Despesas do Património](../tesouraria/despesas-do-patrimonio.md).
 
 A categoria não se corrige, porque faz parte do número. Se a categoria estiver errada, anule o registo e registe o bem de novo.
 

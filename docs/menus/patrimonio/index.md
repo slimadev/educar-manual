@@ -10,6 +10,7 @@ O registo do que a escola tem, onde está e quem responde por cada bem.
 | [Abates](abates.md) | Gestor do património, Director, Director pedagógico, Director financeiro, Funcionário das finanças |
 | [Inventário](inventario.md) | Gestor do património, Director, Director pedagógico, Director financeiro, Funcionário das finanças |
 | [Mapas e valor](mapas-e-valor.md) | Gestor do património, Director, Director pedagógico, Director financeiro, Funcionário das finanças |
+| [Prazos](prazos.md) | Gestor do património, Director, Director pedagógico, Director financeiro, Funcionário das finanças |
 | [Registar bem](registar-bem.md) | Gestor do património, Director |
 | [Carregar lista](carregar-lista.md) | Gestor do património, Director |
 | [Categorias](categorias.md) | Gestor do património, Director |
@@ -33,6 +34,8 @@ Cada unidade tem o seu número: 30 carteiras são 30 bens.
 - Quando um bem sai por uns dias, registe o [empréstimo](emprestimos.md). Se passar da data, a escola é avisada.
 - Quando um bem se estraga, comunique a [avaria](avarias-e-reparacoes.md) e, no fim, o resultado.
 - Quando um bem sai de vez da escola, peça o [abate](abates.md). Só o director o autoriza.
+- Quando a escola compra um bem ou paga uma reparação, a despesa passa para as finanças em [Despesas do Património](../tesouraria/despesas-do-patrimonio.md).
+- Registe os [prazos](prazos.md) de garantias, seguros, inspecções e manutenções: a escola é avisada antes de terminarem.
 
 ## Uma vez por ano
 
