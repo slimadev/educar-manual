@@ -53,6 +53,7 @@ nav:
       - Direcção da escola: perfis/direccao.md
       - Finanças: perfis/financas.md
       - Gestor do património: perfis/gestor-do-patrimonio.md
+      - Gestor do transporte: perfis/gestor-do-transporte.md
       - Secretaria: perfis/secretaria.md
       - Professor: perfis/professor.md
       - Aluno e encarregado: perfis/aluno-encarregado.md
@@ -61,6 +62,7 @@ nav:
       - O ano lectivo, do início ao fecho: processos/ano-lectivo.md
       - Pedido de documento: processos/pedido-de-documento.md
       - O dinheiro da escola, dia a dia: processos/dinheiro-da-escola.md
+      - O transporte escolar, do princípio ao fim: processos/transporte-escolar.md
   - Menus:
       - "Configurações":
           - "Visão geral": menus/configuracoes/index.md
@@ -115,6 +117,7 @@ nav:
           - "Cobranças a Alunos": menus/tesouraria/cobrancas-a-alunos.md
           - "Receitas e Despesas": menus/tesouraria/receitas-e-despesas.md
           - "Despesas do Património": menus/tesouraria/despesas-do-patrimonio.md
+          - "Acertos do transporte": menus/tesouraria/acertos-do-transporte.md
       - "Património":
           - "Visão geral": menus/patrimonio/index.md
           - "Bens": menus/patrimonio/bens.md
@@ -128,6 +131,16 @@ nav:
           - "Carregar lista": menus/patrimonio/carregar-lista.md
           - "Categorias": menus/patrimonio/categorias.md
           - "Locais": menus/patrimonio/locais.md
+      - "Transporte":
+          - "Visão geral": menus/transporte/index.md
+          - "Inscrições": menus/transporte/inscricoes.md
+          - "Rotas": menus/transporte/rotas.md
+          - "Carrinhas": menus/transporte/carrinhas.md
+          - "Documentos": menus/transporte/documentos.md
+          - "Motoristas": menus/transporte/motoristas.md
+          - "Proprietários": menus/transporte/proprietarios.md
+          - "Acordos": menus/transporte/acordos.md
+          - "Mapas": menus/transporte/mapas.md
       - "Relatórios e Estatísticas":
           - "Visão geral": menus/relatorios-e-estatisticas/index.md
           - "Fecho de Caixa": menus/relatorios-e-estatisticas/fecho-de-caixa.md

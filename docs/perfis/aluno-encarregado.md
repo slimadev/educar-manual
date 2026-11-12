@@ -17,4 +17,4 @@ No site, o menu Estudante é do aluno. O encarregado acompanha pela app, com a c
 
 ## Na app
 
-Na app o aluno e o encarregado vêem as notas, o horário, as contas, os avisos, os pedidos de documentos e os exames (admissão, calendário, júri e sala, notas e resultado), e inscrevem-se nos exames. Ver [A app](../primeiros-passos/app.md).
+Na app o aluno e o encarregado vêem as notas, o horário, as contas, os avisos, os pedidos de documentos e os exames (admissão, calendário, júri e sala, notas e resultado), e inscrevem-se nos exames. Quem usa o transporte escolar recebe os avisos do transporte (inscrição, lugar, mudanças, prazo para pagar e suspensão) e tem as mensalidades do transporte nas contas. Ver [A app](../primeiros-passos/app.md).

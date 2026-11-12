@@ -24,6 +24,8 @@ Trata das matrículas, das turmas, dos pedidos de documentos e das inscrições 
 | Relatórios e Estatísticas | [Mapa Estatístico](../menus/relatorios-e-estatisticas/mapa-estatistico.md) |
 | Relatórios e Estatísticas | [Boletins](../menus/relatorios-e-estatisticas/boletins.md) |
 | Exames | [Inscrições](../menus/exames/inscricoes.md) |
+| Transporte | [Inscrições](../menus/transporte/inscricoes.md) (inscreve, muda e termina; dá o lugar e a tolerância) |
+| Transporte | [Rotas](../menus/transporte/rotas.md), [Carrinhas](../menus/transporte/carrinhas.md), [Mapas](../menus/transporte/mapas.md) (só consulta) |
 
 ## Processos em que participa
 
@@ -31,3 +33,4 @@ Trata das matrículas, das turmas, dos pedidos de documentos e das inscrições 
 - [Pedido de documento](../processos/pedido-de-documento.md)
 - [O ano lectivo, do início ao fecho](../processos/ano-lectivo.md)
 - [O dinheiro da escola, dia a dia](../processos/dinheiro-da-escola.md)
+- [O transporte escolar, do princípio ao fim](../processos/transporte-escolar.md)

@@ -49,6 +49,7 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Património | [Bens](../menus/patrimonio/bens.md) (o director também regista e transfere; o director pedagógico só consulta) |
 | Património | [Abates](../menus/patrimonio/abates.md) (só o director autoriza) |
 | Património | [Locais](../menus/patrimonio/locais.md) (só o director) |
+| Transporte | [Todos os ecrãs](../menus/transporte/index.md) (o director também regista e muda; o director pedagógico só consulta) |
 
 ## Processos em que participa
 
@@ -56,3 +57,4 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 - [Pedido de documento](../processos/pedido-de-documento.md)
 - [O ano lectivo, do início ao fecho](../processos/ano-lectivo.md)
 - [O dinheiro da escola, dia a dia](../processos/dinheiro-da-escola.md)
+- [O transporte escolar, do princípio ao fim](../processos/transporte-escolar.md)

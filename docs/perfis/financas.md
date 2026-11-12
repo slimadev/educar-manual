@@ -21,10 +21,12 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Tesouraria | [Cobranças a Alunos](../menus/tesouraria/cobrancas-a-alunos.md) |
 | Tesouraria | [Receitas e Despesas](../menus/tesouraria/receitas-e-despesas.md) |
 | Tesouraria | [Despesas do Património](../menus/tesouraria/despesas-do-patrimonio.md) |
+| Tesouraria | [Acertos do transporte](../menus/tesouraria/acertos-do-transporte.md) |
 | Relatórios e Estatísticas | [Fecho de Caixa](../menus/relatorios-e-estatisticas/fecho-de-caixa.md) |
 | Relatórios e Estatísticas | [Devedores](../menus/relatorios-e-estatisticas/devedores.md) |
 | Relatórios e Estatísticas | [Previsto vs Cobrado](../menus/relatorios-e-estatisticas/previsto-vs-cobrado.md) |
 | Património | [Bens](../menus/patrimonio/bens.md) (só consulta) |
+| Transporte | [Acordos](../menus/transporte/acordos.md), [Inscrições](../menus/transporte/inscricoes.md), [Mapas](../menus/transporte/mapas.md) (só consulta) |
 
 ## Processos em que participa
 
@@ -32,3 +34,4 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 - [Pedido de documento](../processos/pedido-de-documento.md)
 - [O ano lectivo, do início ao fecho](../processos/ano-lectivo.md)
 - [O dinheiro da escola, dia a dia](../processos/dinheiro-da-escola.md)
+- [O transporte escolar, do princípio ao fim](../processos/transporte-escolar.md)

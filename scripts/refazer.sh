@@ -52,6 +52,8 @@ semear estudante
 capturar --etapa estudante
 semear patrimonio -saida "$T/patrimonio_demo.json"
 capturar --etapa patrimonio --ids "$T/patrimonio_demo.json"
+semear transporte -saida "$T/transporte_demo.json"
+capturar --etapa transporte --ids "$T/transporte_demo.json"
 semear salas -saida "$T/salas_demo.json"
 capturar --etapa salas --ids "$T/salas_demo.json"
 semear aulas -saida "$T/aulas_demo.json"

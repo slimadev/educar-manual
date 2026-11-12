@@ -1,0 +1,28 @@
+# Gestor do transporte
+
+**Perfil:** Gestor do transporte. A ELIXIR dá este perfil à pessoa que a escola indicar.
+
+Regista as carrinhas da escola e dos proprietários particulares, os motoristas e vigilantes, os documentos com validade (seguro, inspecção, licença) e o acordo de cada ano com cada proprietário. Cria as rotas do ano, com as zonas e os preços, inscreve os alunos (com a secretaria), gere a lista de espera e a regra da suspensão por falta de pagamento. O pagamento aos proprietários é das finanças. O director da escola pode fazer o mesmo.
+
+## Os seus ecrãs
+
+| Menu | Ecrã |
+|---|---|
+| Transporte | [Inscrições](../menus/transporte/inscricoes.md) |
+| Transporte | [Rotas](../menus/transporte/rotas.md) |
+| Transporte | [Carrinhas](../menus/transporte/carrinhas.md) |
+| Transporte | [Documentos](../menus/transporte/documentos.md) |
+| Transporte | [Motoristas](../menus/transporte/motoristas.md) |
+| Transporte | [Proprietários](../menus/transporte/proprietarios.md) |
+| Transporte | [Acordos](../menus/transporte/acordos.md) |
+| Transporte | [Mapas](../menus/transporte/mapas.md) |
+
+## Avisos que recebe
+
+- documentos das carrinhas e cartas de condução a terminar e terminados;
+- lugar livre numa rota com alunos em lista de espera;
+- alunos suspensos por falta de pagamento.
+
+## Processos em que participa
+
+- [O transporte escolar, do princípio ao fim](../processos/transporte-escolar.md)
