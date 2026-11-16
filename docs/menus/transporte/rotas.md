@@ -8,6 +8,17 @@ As rotas de cada ano lectivo. Cada rota tem uma carrinha, um turno e as horas; a
 
 ![Rotas do ano, com as zonas e os preços](img/rotas.png)
 
+## Pedidos dos proprietários
+
+Quando o acordo do ano diz que é a escola que cobra, as rotas, os horários e os preços feitos pelos proprietários ficam à espera da escola. O quadro **Pedidos dos proprietários**, no topo da página, mostra cada pedido com a mudança descrita (por exemplo, o preço antes e depois):
+
+- **Aprovar** aplica a mudança às rotas;
+- **Recusar** pede o motivo, que o proprietário vê.
+
+![Pedidos dos proprietários à espera da escola](img/pedidos.png)
+
+O gestor do transporte e o director são avisados de cada pedido. Quando é o proprietário que cobra, as mudanças valem logo e a escola recebe só o aviso.
+
 ## Criar uma rota
 
 1. Escolha o **Ano lectivo** e use **Criar rota**.

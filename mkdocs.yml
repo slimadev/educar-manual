@@ -54,6 +54,7 @@ nav:
       - Finanças: perfis/financas.md
       - Gestor do património: perfis/gestor-do-patrimonio.md
       - Gestor do transporte: perfis/gestor-do-transporte.md
+      - Proprietário de transporte: perfis/proprietario-de-transporte.md
       - Secretaria: perfis/secretaria.md
       - Professor: perfis/professor.md
       - Aluno e encarregado: perfis/aluno-encarregado.md
@@ -141,6 +142,11 @@ nav:
           - "Proprietários": menus/transporte/proprietarios.md
           - "Acordos": menus/transporte/acordos.md
           - "Mapas": menus/transporte/mapas.md
+      - "Proprietário":
+          - "Visão geral e resumo": menus/proprietario/index.md
+          - "Carrinhas e motoristas": menus/proprietario/carrinhas-e-motoristas.md
+          - "Rotas e alunos": menus/proprietario/rotas-e-alunos.md
+          - "Acertos e os meus dados": menus/proprietario/acertos-e-dados.md
       - "Relatórios e Estatísticas":
           - "Visão geral": menus/relatorios-e-estatisticas/index.md
           - "Fecho de Caixa": menus/relatorios-e-estatisticas/fecho-de-caixa.md

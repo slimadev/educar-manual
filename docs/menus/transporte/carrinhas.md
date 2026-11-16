@@ -19,6 +19,8 @@ As carrinhas da escola e as dos proprietários que trabalham com ela, com o esta
 
 A matrícula não pode repetir-se na escola.
 
+A carrinha de um proprietário é uma só, mesmo que trabalhe em várias escolas: registar a matrícula de uma carrinha do mesmo proprietário que já está noutra escola associa-a a esta escola, com os dados, os documentos e os motoristas que já tinha. A ficha avisa quando a carrinha trabalha também noutras escolas: as correcções valem para todas. A mesma carrinha não pode fazer duas rotas no mesmo turno, nem em escolas diferentes.
+
 ## Ficha da carrinha
 
 A ficha mostra os dados e os documentos. **Corrigir** muda os dados e o **Estado**: Activa, Em manutenção ou Inactiva. Uma carrinha inactiva não pode estar numa rota em funcionamento e deixa de dar avisos dos documentos.

@@ -138,5 +138,15 @@
   {"etapa": "transporte", "ficheiro": "menus/transporte/img/acordos.png", "perfil": "transporte", "url": "/transport/agreements?year_id={ano}", "legenda": "Acordos do ano com os proprietários"},
   {"etapa": "transporte", "ficheiro": "menus/transporte/img/mapas.png", "perfil": "director", "url": "/transport/reports?year_id={ano}", "legenda": "Mapas do transporte"},
   {"etapa": "transporte", "ficheiro": "menus/tesouraria/img/acertos-do-transporte.png", "perfil": "financeiro", "url": "/treasury/transport?year_id={ano}", "legenda": "Acertos do transporte por fazer e feitos"},
-  {"etapa": "transporte", "ficheiro": "menus/tesouraria/img/extracto-transporte.png", "perfil": "financeiro", "url": "/treasury/transport/settlements/{acerto}/extract", "legenda": "Extracto do acerto para o proprietário", "pdf": true}
+  {"etapa": "transporte", "ficheiro": "menus/tesouraria/img/extracto-transporte.png", "perfil": "financeiro", "url": "/treasury/transport/settlements/{acerto}/extract", "legenda": "Extracto do acerto para o proprietário", "pdf": true},
+  {"etapa": "transporte", "ficheiro": "menus/proprietario/img/resumo.png", "perfil": "845551234", "url": "/owner", "legenda": "Resumo do proprietário na escola"},
+  {"etapa": "transporte", "ficheiro": "menus/proprietario/img/carrinhas.png", "perfil": "845551234", "url": "/owner/vehicles", "legenda": "As carrinhas do proprietário"},
+  {"etapa": "transporte", "ficheiro": "menus/proprietario/img/ficha-carrinha.png", "perfil": "845551234", "url": "/owner/vehicles/{carrinha_proprietario}", "legenda": "Ficha da carrinha, com os documentos"},
+  {"etapa": "transporte", "ficheiro": "menus/proprietario/img/motoristas.png", "perfil": "845551234", "url": "/owner/drivers", "legenda": "Motoristas e vigilantes do proprietário"},
+  {"etapa": "transporte", "ficheiro": "menus/proprietario/img/rotas-e-alunos.png", "perfil": "845551234", "url": "/owner/routes", "legenda": "Rotas e alunos do proprietário"},
+  {"etapa": "transporte", "ficheiro": "menus/proprietario/img/nova-rota.png", "perfil": "845551234", "url": "/owner/routes", "legenda": "Nova rota com as zonas", "clicar": ["button:has-text('Nova rota')"]},
+  {"etapa": "transporte", "ficheiro": "menus/proprietario/img/acertos.png", "perfil": "845551234", "url": "/owner/settlements", "legenda": "Acertos do proprietário com a escola"},
+  {"etapa": "transporte", "ficheiro": "menus/proprietario/img/os-meus-dados.png", "perfil": "845551234", "url": "/owner/profile", "legenda": "Os dados do proprietário"},
+  {"etapa": "transporte", "ficheiro": "menus/transporte/img/pedidos.png", "perfil": "transporte", "url": "/transport/routes?year_id={ano}", "legenda": "Pedidos dos proprietários à espera da escola"},
+  {"etapa": "transporte", "ficheiro": "menus/transporte/img/dar-acesso.png", "perfil": "transporte", "url": "/transport/owners", "legenda": "Dar acesso ao proprietário", "clicar": ["button:has-text('Dar acesso')"]}
 ]

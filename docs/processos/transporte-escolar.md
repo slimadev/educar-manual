@@ -12,6 +12,7 @@ Das carrinhas e acordos do ano ao pagamento dos proprietários.
 | 4 | Registar o acordo do ano com cada proprietário (quem cobra e a comissão) | Gestor do transporte ou director | [Transporte › Acordos](../menus/transporte/acordos.md) |
 | 5 | Criar as rotas do ano, com as zonas e os preços (ou copiá-las do ano anterior) | Gestor do transporte | [Transporte › Rotas](../menus/transporte/rotas.md) |
 | 6 | Decidir a regra da suspensão por falta de pagamento | Gestor do transporte ou director | [Transporte › Inscrições](../menus/transporte/inscricoes.md#suspensao-por-falta-de-pagamento) |
+| 6a | Dar acesso aos proprietários que o queiram | Gestor do transporte | [Transporte › Proprietários](../menus/transporte/proprietarios.md#dar-acesso-ao-proprietario) |
 
 ## Durante o ano
 
@@ -21,7 +22,8 @@ Das carrinhas e acordos do ano ao pagamento dos proprietários.
 | 8 | Entregar ao motorista a lista da rota | Gestor do transporte | [Transporte › Rotas](../menus/transporte/rotas.md#lista-para-o-motorista) |
 | 9 | Receber as mensalidades do transporte, como as propinas | Secretaria ou finanças | Ficha do aluno, nas contas |
 | 10 | Dar o lugar a quem está em espera, mudar e terminar inscrições | Secretaria ou gestor do transporte | [Transporte › Inscrições](../menus/transporte/inscricoes.md) |
-| 11 | Renovar os documentos das carrinhas quando chega o aviso | Gestor do transporte | [Transporte › Carrinhas](../menus/transporte/carrinhas.md#documentos) |
+| 11 | Renovar os documentos das carrinhas quando chega o aviso | Gestor do transporte ou proprietário | [Transporte › Carrinhas](../menus/transporte/carrinhas.md#documentos) ou [Proprietário › Carrinhas](../menus/proprietario/carrinhas-e-motoristas.md) |
+| 11a | Criar e mudar rotas, horários e preços; aprovar os pedidos quando é a escola que cobra | Proprietário; gestor do transporte ou director | [Proprietário › Rotas e alunos](../menus/proprietario/rotas-e-alunos.md) e [Transporte › Rotas](../menus/transporte/rotas.md#pedidos-dos-proprietarios) |
 
 ## Todos os meses
 
