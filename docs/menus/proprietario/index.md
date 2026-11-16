@@ -15,7 +15,7 @@ A conta do proprietário é criada pelo gestor do transporte da escola, em [Tran
 
 Quem trabalha com várias escolas tem uma só conta: ao entrar, escolhe a escola. As carrinhas, os motoristas, os documentos e os seus dados são os mesmos em todas as escolas; as rotas, os alunos e os acertos são de cada escola.
 
-As mesmas informações estão na app do EDUCAR.
+Na app do EDUCAR, o proprietário vê as carrinhas, as rotas com os alunos, os pedidos e os acertos, renova documentos, trata dos motoristas e muda as zonas. Criar rotas e inscrever alunos faz-se no site. Ver [A app](../../primeiros-passos/app.md#proprietario-de-transporte).
 
 ## Resumo
 

@@ -21,3 +21,7 @@ O dono de carrinhas particulares que trabalham com a escola. Acompanha as suas c
 ## Processos em que participa
 
 - [O transporte escolar, do princípio ao fim](../processos/transporte-escolar.md)
+
+## Na app
+
+Ver [A app](../primeiros-passos/app.md#proprietario-de-transporte).

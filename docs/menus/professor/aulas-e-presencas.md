@@ -46,4 +46,4 @@ As justificações que a secretaria já fez mantêm-se, excepto na falta que mud
 
 Quando grava faltas, o aluno e os encarregados podem receber um aviso, conforme a [configuração da escola](../configuracoes/faltas.md). Quando um aluno atinge um limite de faltas, o director de turma também é avisado.
 
-Na app, o professor também regista as aulas, quando a app tiver esta área.
+Na app, o professor também regista as aulas, o sumário e as presenças (ver [A app](../../primeiros-passos/app.md#professor)).

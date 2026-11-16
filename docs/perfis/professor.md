@@ -17,3 +17,7 @@ Acompanha as suas turmas e o horário, regista o sumário e as faltas de cada au
 ## Processos em que participa
 
 - [Exames, do princípio ao fim](../processos/exames.md)
+
+## Na app
+
+Na app o professor regista as aulas e as presenças, vê o horário, lança e publica as notas, vê as pautas, acompanha a direcção de turma e lança as pautas de exame. Ver [A app](../primeiros-passos/app.md#professor).
