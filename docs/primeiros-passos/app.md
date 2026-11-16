@@ -68,3 +68,7 @@ O proprietário entra com o telemóvel, com a conta que o gestor do transporte l
 Quando o proprietário cobra os alunos, a mudança de uma zona vale logo. Quando é a escola que cobra, a mudança fica como pedido até a escola a aprovar, e a app diz isso antes e depois de gravar (ver [Mudar uma rota ou uma zona](../menus/proprietario/rotas-e-alunos.md#mudar-uma-rota-ou-uma-zona)).
 
 Criar rotas e inscrever alunos faz-se no site.
+
+![Início do proprietário na app](img/app-proprietario-inicio.png){ width="260" }
+![Carrinhas e documentos na app](img/app-proprietario-carrinhas.png){ width="260" }
+![Rota com as zonas, os preços e os alunos na app](img/app-proprietario-rota.png){ width="260" }
