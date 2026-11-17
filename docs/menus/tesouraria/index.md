@@ -8,3 +8,4 @@
 | [Receitas e Despesas](receitas-e-despesas.md) | Director financeiro, Funcionário das finanças |
 | [Despesas do Património](despesas-do-patrimonio.md) | Director financeiro, Funcionário das finanças |
 | [Acertos do transporte](acertos-do-transporte.md) | Director financeiro, Funcionário das finanças |
+| [Fornecedores](fornecedores.md) | Director financeiro, Funcionário das finanças |

@@ -8,6 +8,7 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 
 | Menu | Ecrã |
 |---|---|
+| Plano Financeiro | [Definição financeira](../menus/plano-financeiro/definicao-financeira.md) |
 | Plano Financeiro | [Modalidades de Cobrança](../menus/plano-financeiro/modalidades-de-cobranca.md) |
 | Plano Financeiro | [Serviços e Preços](../menus/plano-financeiro/servicos-e-precos.md) |
 | Plano Financeiro | [Preços por Classe](../menus/plano-financeiro/precos-por-classe.md) |
@@ -15,6 +16,7 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Plano Financeiro | [Preparar Ano Lectivo](../menus/plano-financeiro/preparar-ano-lectivo.md) |
 | Plano Financeiro | [Tabela de Multas](../menus/plano-financeiro/tabela-de-multas.md) |
 | Plano Financeiro | [Bolsas / Descontos](../menus/plano-financeiro/bolsas-descontos.md) |
+| Plano Financeiro | [Centros de custo e rubricas](../menus/plano-financeiro/centros-de-custo-e-rubricas.md) |
 | Documentos | [Pedidos de documentos](../menus/documentos/pedidos-de-documentos.md) |
 | Tesouraria | [Bancos & Contas](../menus/tesouraria/bancos-contas.md) |
 | Tesouraria | [Venda ao Balcão](../menus/tesouraria/venda-ao-balcao.md) |
@@ -22,6 +24,7 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Tesouraria | [Receitas e Despesas](../menus/tesouraria/receitas-e-despesas.md) |
 | Tesouraria | [Despesas do Património](../menus/tesouraria/despesas-do-patrimonio.md) |
 | Tesouraria | [Acertos do transporte](../menus/tesouraria/acertos-do-transporte.md) |
+| Tesouraria | [Fornecedores](../menus/tesouraria/fornecedores.md) |
 | Relatórios e Estatísticas | [Fecho de Caixa](../menus/relatorios-e-estatisticas/fecho-de-caixa.md) |
 | Relatórios e Estatísticas | [Devedores](../menus/relatorios-e-estatisticas/devedores.md) |
 | Relatórios e Estatísticas | [Previsto vs Cobrado](../menus/relatorios-e-estatisticas/previsto-vs-cobrado.md) |

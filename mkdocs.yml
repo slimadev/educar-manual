@@ -87,6 +87,7 @@ nav:
           - "Docentes": menus/recursos-humanos/docentes.md
       - "Plano Financeiro":
           - "Visão geral": menus/plano-financeiro/index.md
+          - "Definição financeira": menus/plano-financeiro/definicao-financeira.md
           - "Modalidades de Cobrança": menus/plano-financeiro/modalidades-de-cobranca.md
           - "Serviços e Preços": menus/plano-financeiro/servicos-e-precos.md
           - "Preços por Classe": menus/plano-financeiro/precos-por-classe.md
@@ -94,6 +95,7 @@ nav:
           - "Preparar Ano Lectivo": menus/plano-financeiro/preparar-ano-lectivo.md
           - "Tabela de Multas": menus/plano-financeiro/tabela-de-multas.md
           - "Bolsas / Descontos": menus/plano-financeiro/bolsas-descontos.md
+          - "Centros de custo e rubricas": menus/plano-financeiro/centros-de-custo-e-rubricas.md
       - "Matrícula":
           - "Visão geral": menus/matricula/index.md
           - "Ingresso": menus/matricula/ingresso.md
@@ -119,6 +121,7 @@ nav:
           - "Receitas e Despesas": menus/tesouraria/receitas-e-despesas.md
           - "Despesas do Património": menus/tesouraria/despesas-do-patrimonio.md
           - "Acertos do transporte": menus/tesouraria/acertos-do-transporte.md
+          - "Fornecedores": menus/tesouraria/fornecedores.md
       - "Património":
           - "Visão geral": menus/patrimonio/index.md
           - "Bens": menus/patrimonio/bens.md
