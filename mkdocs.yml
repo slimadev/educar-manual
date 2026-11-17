@@ -113,6 +113,10 @@ nav:
       - "Documentos":
           - "Visão geral": menus/documentos/index.md
           - "Pedidos de documentos": menus/documentos/pedidos-de-documentos.md
+      - "Caixa":
+          - "Visão geral": menus/caixa/index.md
+          - "Minha caixa": menus/caixa/minha-caixa.md
+          - "Caixas da escola": menus/caixa/caixas-da-escola.md
       - "Tesouraria":
           - "Visão geral": menus/tesouraria/index.md
           - "Bancos & Contas": menus/tesouraria/bancos-contas.md

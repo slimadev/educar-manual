@@ -18,6 +18,8 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Plano Financeiro | [Bolsas / Descontos](../menus/plano-financeiro/bolsas-descontos.md) |
 | Plano Financeiro | [Centros de custo e rubricas](../menus/plano-financeiro/centros-de-custo-e-rubricas.md) |
 | Documentos | [Pedidos de documentos](../menus/documentos/pedidos-de-documentos.md) |
+| Caixa | [Minha caixa](../menus/caixa/minha-caixa.md) |
+| Caixa | [Caixas da escola](../menus/caixa/caixas-da-escola.md) |
 | Tesouraria | [Bancos & Contas](../menus/tesouraria/bancos-contas.md) |
 | Tesouraria | [Venda ao Balcão](../menus/tesouraria/venda-ao-balcao.md) |
 | Tesouraria | [Cobranças a Alunos](../menus/tesouraria/cobrancas-a-alunos.md) |

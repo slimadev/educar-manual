@@ -19,6 +19,7 @@ Trata das matrículas, das turmas, dos pedidos de documentos e das inscrições 
 | Matrícula e Turmas | [Reordenar Turma](../menus/matricula-e-turmas/reordenar-turma.md) |
 | Matrícula e Turmas | [Gerar códigos de alunos](../menus/matricula-e-turmas/gerar-codigos-de-alunos.md) |
 | Documentos | [Pedidos de documentos](../menus/documentos/pedidos-de-documentos.md) |
+| Caixa | [Minha caixa](../menus/caixa/minha-caixa.md) |
 | Relatórios e Estatísticas | [Devedores](../menus/relatorios-e-estatisticas/devedores.md) |
 | Relatórios e Estatísticas | [Estado das Pautas](../menus/relatorios-e-estatisticas/estado-das-pautas.md) |
 | Relatórios e Estatísticas | [Mapa Estatístico](../menus/relatorios-e-estatisticas/mapa-estatistico.md) |

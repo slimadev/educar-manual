@@ -29,4 +29,8 @@ Escolha se o orçamento da escola se faz e se controla mês a mês (**Mensal**) 
 
 Em **Aprovação acima de (MT)**, escreva a partir de que valor uma factura de fornecedor só se paga depois de o director financeiro a aprovar. Vazio, todas esperam aprovação; as que o director financeiro regista ficam já aprovadas. Ver [Contas a pagar](../tesouraria/contas-a-pagar.md#aprovacao).
 
+## Caixa
+
+Ligue **Exigir a caixa aberta para receber ou pagar em numerário** para que cada pessoa abra a sua caixa antes de registar numerário e a feche no fim do dia. Sem a caixa aberta, ou com a de um dia anterior por fechar, os recibos, vendas e despesas em numerário são recusados. Ver [Minha caixa](../caixa/minha-caixa.md).
+
 Use **Gravar**. Por baixo fica quem fez a última alteração, e quando.

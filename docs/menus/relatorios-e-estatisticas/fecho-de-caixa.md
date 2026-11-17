@@ -7,6 +7,8 @@ O dinheiro que entrou e saiu num dia ou num período: propinas e outras contas d
 
 ![Fecho de caixa do dia](img/fecho-de-caixa.png)
 
+Este relatório junta tudo o que entrou e saiu, por todos os meios. O dinheiro da gaveta de cada pessoa confere-se na sua [caixa](../caixa/minha-caixa.md).
+
 ## Ler o fecho
 
 Por omissão, o fecho mostra o dia de hoje. Para ver outro dia ou um período, mude **De** e **Até**.

@@ -31,6 +31,7 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Matrícula e Turmas | [Reordenar Turma](../menus/matricula-e-turmas/reordenar-turma.md) |
 | Matrícula e Turmas | [Gerar códigos de alunos](../menus/matricula-e-turmas/gerar-codigos-de-alunos.md) |
 | Documentos | [Pedidos de documentos](../menus/documentos/pedidos-de-documentos.md) |
+| Caixa | [Minha caixa](../menus/caixa/minha-caixa.md) |
 | Relatórios e Estatísticas | [Fecho de Caixa](../menus/relatorios-e-estatisticas/fecho-de-caixa.md) |
 | Relatórios e Estatísticas | [Devedores](../menus/relatorios-e-estatisticas/devedores.md) |
 | Relatórios e Estatísticas | [Previsto vs Cobrado](../menus/relatorios-e-estatisticas/previsto-vs-cobrado.md) |
