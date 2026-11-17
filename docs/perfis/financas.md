@@ -22,6 +22,7 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Tesouraria | [Venda ao Balcão](../menus/tesouraria/venda-ao-balcao.md) |
 | Tesouraria | [Cobranças a Alunos](../menus/tesouraria/cobrancas-a-alunos.md) |
 | Tesouraria | [Receitas e Despesas](../menus/tesouraria/receitas-e-despesas.md) |
+| Tesouraria | [Contas a pagar](../menus/tesouraria/contas-a-pagar.md) |
 | Tesouraria | [Despesas do Património](../menus/tesouraria/despesas-do-patrimonio.md) |
 | Tesouraria | [Acertos do transporte](../menus/tesouraria/acertos-do-transporte.md) |
 | Tesouraria | [Fornecedores](../menus/tesouraria/fornecedores.md) |

@@ -24,6 +24,10 @@ As finanças recebem um aviso no sino com cada despesa nova.
 
 A despesa entra em [Receitas e Despesas](receitas-e-despesas.md), com a descrição da compra ou da reparação e o fornecedor, e sai do saldo da conta. Na ficha do bem, o quadro **Tesouraria** passa a mostrar a despesa como **Paga**, com quem a pagou e quando.
 
+## Pagar mais tarde: a factura
+
+Se o fornecedor mandou factura para pagar mais tarde ou em parte, use **Registar a factura**: abre uma [factura nova em Contas a pagar](contas-a-pagar.md#facturas-de-despesas-do-patrimonio) com a descrição e o valor da despesa. A despesa passa a mostrar **Em contas a pagar** e paga-se lá; paga a factura, fica paga aqui também.
+
 ## Dispensar
 
 Use **Dispensar** quando a despesa não se paga pela Tesouraria, por exemplo porque já foi paga antes ou foi paga por outra entidade. Escreva o motivo e use **Dispensar a despesa**. O saldo não muda.

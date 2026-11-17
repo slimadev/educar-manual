@@ -17,6 +17,10 @@ As empresas e as pessoas a quem a escola compra: o NUIT, os contactos e onde se 
 
 O mesmo NUIT não se repete na escola. Para corrigir os dados, use **Alterar**.
 
+## O que se deve
+
+A coluna **Em dívida (MT)** mostra o que falta pagar das facturas aprovadas de cada fornecedor. **Facturas** abre as [contas a pagar](contas-a-pagar.md) desse fornecedor.
+
 ## Procurar e desactivar
 
 Procure pelo nome, pelo NUIT ou pela categoria. Um fornecedor com quem a escola deixou de trabalhar não se apaga: use **Desactivar**. Deixa de aparecer nas escolhas, mas o histórico fica. **Mostrar os desactivados** volta a mostrá-los, com **Activar**.

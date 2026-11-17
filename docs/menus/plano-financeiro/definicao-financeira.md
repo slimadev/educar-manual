@@ -25,4 +25,8 @@ Os documentos fiscais (facturas, facturas-recibo e notas de crédito) vão usar 
 
 Escolha se o orçamento da escola se faz e se controla mês a mês (**Mensal**) ou por trimestre (**Trimestral**).
 
+## Facturas de fornecedores
+
+Em **Aprovação acima de (MT)**, escreva a partir de que valor uma factura de fornecedor só se paga depois de o director financeiro a aprovar. Vazio, todas esperam aprovação; as que o director financeiro regista ficam já aprovadas. Ver [Contas a pagar](../tesouraria/contas-a-pagar.md#aprovacao).
+
 Use **Gravar**. Por baixo fica quem fez a última alteração, e quando.
