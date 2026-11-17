@@ -41,7 +41,11 @@ As contas, incluindo as das inscrições em exame e as dos documentos, pagam-se 
 
 Na imagem do transporte, o Horário e as Notas têm um cadeado: o aluno tem contas em atraso.
 
-O encarregado vê os mesmos ecrãs. No início escolhe o educando, e cada ecrã mostra os dados desse educando.
+O encarregado vê os mesmos ecrãs. No início escolhe o educando, e cada ecrã mostra os dados desse educando. Nas contas vê o total por pagar, as prestações do ano, as multas dos atrasos e os recibos; as mensalidades do transporte cobradas pela escola também aparecem aqui.
+
+![Início do encarregado, com a escolha do educando](img/app-encarregado-inicio.png){ width="260" }
+![Início de outro educando, com contas em atraso](img/app-encarregado-educando.png){ width="260" }
+![Contas de um educando](img/app-encarregado-contas.png){ width="260" }
 
 ## Professor
 
