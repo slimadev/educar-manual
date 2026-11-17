@@ -19,7 +19,19 @@ O regime da escola, o IVA e a periodicidade do orçamento. Enquanto não for gra
     - **Já incluem o IVA:** o preço é o que o aluno paga. Por exemplo, uma propina de 1 160,00 MT com IVA a 16% tem a base de 1 000,00 e 160,00 de IVA.
     - **O IVA acrescenta-se ao preço:** o aluno paga o preço mais o IVA. Por exemplo, uma propina de 1 000,00 MT com IVA a 16% paga-se 1 160,00.
 
-Os documentos fiscais (facturas, facturas-recibo e notas de crédito) vão usar esta definição.
+Com o IVA acrescido, o valor a pagar das contas e o preço das vendas já levam o IVA.
+
+### IVA de cada serviço
+
+Gravada a escola como privada, aparece o quadro **IVA de cada serviço**:
+
+![O IVA de cada serviço da escola privada](img/iva-dos-servicos.png)
+
+1. Escreva o **Motivo da isenção**, que sai nas facturas dos serviços isentos (por exemplo, `Isento nos termos do artigo 9 do Código do IVA`).
+2. Marque os serviços que **pagam IVA**. Por omissão, os produtos (uniformes, material) pagam e os serviços (propinas, matrícula, exames) são isentos.
+3. Use **Gravar o IVA dos serviços**. Vale nos recebimentos seguintes.
+
+Cada recebimento de uma escola privada emite uma factura-recibo, e cada anulação uma nota de crédito: veja [Documentos fiscais](../tesouraria/documentos-fiscais.md).
 
 ## Orçamento
 

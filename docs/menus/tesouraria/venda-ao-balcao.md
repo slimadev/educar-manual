@@ -17,7 +17,7 @@ Para cobrar a um aluno ou a uma turma uma conta que pagam depois, use [Cobrança
 4. Se a venda for a um aluno, escreva o **Nº de processo**. O nome do aluno aparece por baixo. Também pode escrever o nome do **Comprador**, por exemplo `Encarregado`.
 5. Use **Registar venda**.
 
-A venda entra no saldo da conta e no [Fecho de Caixa](../relatorios-e-estatisticas/fecho-de-caixa.md). Para imprimir o recibo, use **Imprimir recibo** na mensagem de confirmação.
+A venda entra no saldo da conta e no [Fecho de Caixa](../relatorios-e-estatisticas/fecho-de-caixa.md). Para imprimir o recibo, use **Imprimir recibo** na mensagem de confirmação. Numa escola privada sai a [factura-recibo](documentos-fiscais.md), e anular a venda emite a nota de crédito.
 
 ## As vendas do dia
 

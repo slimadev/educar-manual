@@ -36,7 +36,7 @@ O topo mostra os dados do aluno e o resumo das contas: por pagar, em atraso, val
 
 1. No separador **Contas por pagar**, marque as contas que o aluno vai pagar. A multa das contas em atraso soma-se sozinha.
 2. Em **Registar pagamento**, escolha a conta de entrada, escreva a referência (talão, transferência…) e a data do pagamento.
-3. Use **Registar pagamento**. O recibo fica disponível.
+3. Use **Registar pagamento**. O recibo fica disponível (numa escola privada, a [factura-recibo](../tesouraria/documentos-fiscais.md); anular o pagamento emite a nota de crédito).
 
 Se o aluno está num [agregado familiar](agregados-familiares.md), uma faixa no separador mostra o agregado e o lugar do aluno, e o desconto de irmãos aparece com a etiqueta **irmãos**. Numa conta em atraso com multa, **Pedir dispensa** pede ao director financeiro que não a cobre (veja [Dispensas de multa](../plano-financeiro/dispensas-de-multa.md)).
 

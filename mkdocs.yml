@@ -131,6 +131,7 @@ nav:
           - "Despesas do Património": menus/tesouraria/despesas-do-patrimonio.md
           - "Acertos do transporte": menus/tesouraria/acertos-do-transporte.md
           - "Fornecedores": menus/tesouraria/fornecedores.md
+          - "Documentos fiscais": menus/tesouraria/documentos-fiscais.md
       - "Património":
           - "Visão geral": menus/patrimonio/index.md
           - "Bens": menus/patrimonio/bens.md
