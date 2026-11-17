@@ -117,6 +117,11 @@ nav:
       - "Documentos":
           - "Visão geral": menus/documentos/index.md
           - "Pedidos de documentos": menus/documentos/pedidos-de-documentos.md
+      - "Economato":
+          - "Visão geral": menus/economato/index.md
+          - "Artigos e stock": menus/economato/artigos-e-stock.md
+          - "Movimentos": menus/economato/movimentos.md
+          - "Inventário": menus/economato/inventario.md
       - "Caixa":
           - "Visão geral": menus/caixa/index.md
           - "Minha caixa": menus/caixa/minha-caixa.md

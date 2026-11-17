@@ -23,6 +23,7 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Documentos | [Pedidos de documentos](../menus/documentos/pedidos-de-documentos.md) |
 | Caixa | [Minha caixa](../menus/caixa/minha-caixa.md) |
 | Caixa | [Caixas da escola](../menus/caixa/caixas-da-escola.md) |
+| Economato | [Artigos e stock](../menus/economato/artigos-e-stock.md), [Movimentos](../menus/economato/movimentos.md), [Inventário](../menus/economato/inventario.md) |
 | Tesouraria | [Bancos & Contas](../menus/tesouraria/bancos-contas.md) |
 | Tesouraria | [Venda ao Balcão](../menus/tesouraria/venda-ao-balcao.md) |
 | Tesouraria | [Cobranças a Alunos](../menus/tesouraria/cobrancas-a-alunos.md) |

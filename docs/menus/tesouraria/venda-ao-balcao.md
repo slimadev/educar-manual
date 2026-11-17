@@ -19,6 +19,8 @@ Para cobrar a um aluno ou a uma turma uma conta que pagam depois, use [Cobrança
 
 A venda entra no saldo da conta e no [Fecho de Caixa](../relatorios-e-estatisticas/fecho-de-caixa.md). Para imprimir o recibo, use **Imprimir recibo** na mensagem de confirmação. Numa escola privada sai a [factura-recibo](documentos-fiscais.md), e anular a venda emite a nota de crédito.
 
+Se o produto está ligado a um artigo do [economato](../economato/artigos-e-stock.md#vender), escolhe-se o **Tamanho** (com o stock de cada um) e a venda tira do stock; anular a venda devolve.
+
 ## As vendas do dia
 
 À direita estão as vendas do dia, com o recibo, quem a registou, a conta, o meio e o valor. Para ver outro dia, mude a data. O ícone da impressora volta a abrir o recibo.

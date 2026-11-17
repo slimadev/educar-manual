@@ -8,6 +8,7 @@ Regista os bens da escola, indica onde estão e quem responde por eles, e imprim
 
 | Menu | Ecrã |
 |---|---|
+| Economato | [Artigos e stock](../menus/economato/artigos-e-stock.md), [Movimentos](../menus/economato/movimentos.md), [Inventário](../menus/economato/inventario.md) |
 | Património | [Bens](../menus/patrimonio/bens.md) |
 | Património | [Empréstimos](../menus/patrimonio/emprestimos.md) |
 | Património | [Avarias e reparações](../menus/patrimonio/avarias-e-reparacoes.md) |
