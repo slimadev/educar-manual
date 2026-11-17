@@ -98,6 +98,7 @@ nav:
           - "Desconto de irmãos": menus/plano-financeiro/desconto-de-irmaos.md
           - "Dispensas de multa": menus/plano-financeiro/dispensas-de-multa.md
           - "Centros de custo e rubricas": menus/plano-financeiro/centros-de-custo-e-rubricas.md
+          - "Orçamento": menus/plano-financeiro/orcamento.md
       - "Matrícula":
           - "Visão geral": menus/matricula/index.md
           - "Ingresso": menus/matricula/ingresso.md

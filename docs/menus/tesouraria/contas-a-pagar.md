@@ -40,6 +40,8 @@ Na [Definição financeira](../plano-financeiro/definicao-financeira.md#facturas
 
 Sem limite, todas as facturas registadas pelo funcionário das finanças esperam aprovação.
 
+Com o [orçamento](../plano-financeiro/orcamento.md) do ano aprovado, uma factura que passa o disponível da rubrica no mês do vencimento espera sempre a aprovação, mesmo abaixo do limite; o aviso ao director financeiro diz quanto há.
+
 ![Uma factura à espera de aprovação](img/factura-por-aprovar.png)
 
 O director financeiro abre a factura e usa **Aprovar**, ou **Recusar** com o motivo. Em ambos os casos, as finanças recebem um aviso. Uma factura recusada não se paga.

@@ -23,7 +23,7 @@ Os documentos fiscais (facturas, facturas-recibo e notas de crédito) vão usar 
 
 ## Orçamento
 
-Escolha se o orçamento da escola se faz e se controla mês a mês (**Mensal**) ou por trimestre (**Trimestral**).
+Escolha se o orçamento da escola se faz e se controla mês a mês (**Mensal**) ou por trimestre (**Trimestral**). Cada [orçamento](orcamento.md) fica com a periodicidade que estava escolhida quando foi criado.
 
 ## Facturas de fornecedores
 

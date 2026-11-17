@@ -21,12 +21,14 @@ Cada movimento mostra a data e a hora, a descrição (e o aluno, se houver), que
 ## Registar uma despesa
 
 1. Use **Nova despesa**.
-2. Escolha o **Tipo de despesa**, por exemplo `Energia elétrica` ou `Salários`. Os tipos são as despesas de [Serviços e Preços](../plano-financeiro/servicos-e-precos.md).
+2. Escolha o **Tipo de despesa**, por exemplo `Energia elétrica` ou `Salários`. Os tipos são as despesas de [Serviços e Preços](../plano-financeiro/servicos-e-precos.md). Se quiser, escolha o **Centro de custo** (conta no [orçamento](../plano-financeiro/orcamento.md)).
 3. Escolha a **Conta de onde sai** o dinheiro e o **Meio de pagamento**.
 4. Escreva o **Valor (MT)** e a **Descrição**, por exemplo `Factura da EDM de Outubro`.
 5. Use **Registar despesa**.
 
 ![Nova despesa](img/despesa-nova.png)
+
+Com o orçamento do ano aprovado, uma despesa que passa o disponível da rubrica no mês é recusada, com a mensagem de quanto há: só o director financeiro a regista (veja [O controlo das despesas](../plano-financeiro/orcamento.md#o-controlo-das-despesas)).
 
 As compras de bens e as reparações registadas no Património não se lançam aqui à mão: pagam-se em [Despesas do Património](despesas-do-patrimonio.md), que as junta a esta lista.
 

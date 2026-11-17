@@ -19,6 +19,7 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Plano Financeiro | [Desconto de irmãos](../menus/plano-financeiro/desconto-de-irmaos.md) |
 | Plano Financeiro | [Dispensas de multa](../menus/plano-financeiro/dispensas-de-multa.md) |
 | Plano Financeiro | [Centros de custo e rubricas](../menus/plano-financeiro/centros-de-custo-e-rubricas.md) |
+| Plano Financeiro | [Orçamento](../menus/plano-financeiro/orcamento.md) |
 | Documentos | [Pedidos de documentos](../menus/documentos/pedidos-de-documentos.md) |
 | Caixa | [Minha caixa](../menus/caixa/minha-caixa.md) |
 | Caixa | [Caixas da escola](../menus/caixa/caixas-da-escola.md) |
