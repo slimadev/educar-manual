@@ -35,6 +35,14 @@ Com contas em atraso, o horário, as notas, as avaliações e as faltas ficam fe
 
 As contas, incluindo as das inscrições em exame e as dos documentos, pagam-se na escola. A mensalidade do transporte paga-se na escola ou ao proprietário da carrinha, conforme o acordo entre os dois.
 
+![Início do aluno na app](img/app-aluno-inicio.png){ width="260" }
+![Faltas do aluno, dia a dia](img/app-aluno-faltas.png){ width="260" }
+![Transporte escolar do aluno na app](img/app-aluno-transporte.png){ width="260" }
+
+Na imagem do transporte, o Horário e as Notas têm um cadeado: o aluno tem contas em atraso.
+
+O encarregado vê os mesmos ecrãs. No início escolhe o educando, e cada ecrã mostra os dados desse educando.
+
 ## Professor
 
 O professor entra com o mesmo utilizador e a mesma senha do site. Na app tem o mesmo que no menu [Professor](../menus/professor/index.md):
@@ -47,6 +55,10 @@ O professor entra com o mesmo utilizador e a mesma senha do site. Na app tem o m
 - **Exames:** as pautas de exame da sua equipa, para lançar os resultados e confirmar ou reabrir a pauta (ver [Pautas de exame](../menus/exames/pautas-de-exame.md)).
 
 As aulas só se registam no próprio dia ou depois. Num trimestre encerrado já não se marcam avaliações nem se mudam notas.
+
+![As aulas da semana na app do professor](img/app-professor-aulas.png){ width="260" }
+![Sumário e presenças de uma aula](img/app-professor-aula.png){ width="260" }
+![Avaliações de uma disciplina no trimestre](img/app-professor-turma.png){ width="260" }
 
 ## Proprietário de transporte
 
