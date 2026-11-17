@@ -10,4 +10,6 @@
 | [Preparar Ano Lectivo](preparar-ano-lectivo.md) | Director financeiro |
 | [Tabela de Multas](tabela-de-multas.md) | Director financeiro |
 | [Bolsas / Descontos](bolsas-descontos.md) | Director financeiro |
+| [Desconto de irmãos](desconto-de-irmaos.md) | Director financeiro |
+| [Dispensas de multa](dispensas-de-multa.md) | Director financeiro |
 | [Centros de custo e rubricas](centros-de-custo-e-rubricas.md) | Director financeiro |

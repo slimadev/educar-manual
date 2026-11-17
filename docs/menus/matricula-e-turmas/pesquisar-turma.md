@@ -38,6 +38,10 @@ O topo mostra os dados do aluno e o resumo das contas: por pagar, em atraso, val
 2. Em **Registar pagamento**, escolha a conta de entrada, escreva a referência (talão, transferência…) e a data do pagamento.
 3. Use **Registar pagamento**. O recibo fica disponível.
 
+Se o aluno está num [agregado familiar](agregados-familiares.md), uma faixa no separador mostra o agregado e o lugar do aluno, e o desconto de irmãos aparece com a etiqueta **irmãos**. Numa conta em atraso com multa, **Pedir dispensa** pede ao director financeiro que não a cobre (veja [Dispensas de multa](../plano-financeiro/dispensas-de-multa.md)).
+
+![Contas de um irmão: desconto de irmãos e um pedido de dispensa da multa](img/contas-irmao-dispensa.png)
+
 Os botões no topo da ficha:
 
 - **Turma** volta à turma;

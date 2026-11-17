@@ -17,3 +17,5 @@ A percentagem acrescentada a uma conta paga depois da data-limite, conforme os d
 Cada serviço mostra os seus intervalos. Para lá do último intervalo não há multa, como o cartão indica. Use o caixote do lixo para tirar um intervalo.
 
 A multa aparece na conta do aluno, em [Contas por pagar](../matricula-e-turmas/pesquisar-turma.md#ficha-do-aluno), com a percentagem.
+
+Para dar dias de carência, comece o primeiro intervalo depois do dia 1 (por exemplo, de 6 a 30 dias). Para não cobrar a multa de uma conta concreta, peça a [dispensa](dispensas-de-multa.md).

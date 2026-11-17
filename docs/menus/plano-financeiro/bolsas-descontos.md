@@ -17,3 +17,5 @@ Cada cartão mostra os serviços abrangidos e quantos alunos têm a bolsa. **Ise
 4. Use **Gravar bolsa**.
 
 Uma bolsa com alunos não se apaga: primeiro retire-a das matrículas.
+
+O [desconto de irmãos](desconto-de-irmaos.md) não se soma à bolsa: no mesmo serviço vale o maior dos dois.

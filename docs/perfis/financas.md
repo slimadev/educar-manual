@@ -16,6 +16,8 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Plano Financeiro | [Preparar Ano Lectivo](../menus/plano-financeiro/preparar-ano-lectivo.md) |
 | Plano Financeiro | [Tabela de Multas](../menus/plano-financeiro/tabela-de-multas.md) |
 | Plano Financeiro | [Bolsas / Descontos](../menus/plano-financeiro/bolsas-descontos.md) |
+| Plano Financeiro | [Desconto de irmãos](../menus/plano-financeiro/desconto-de-irmaos.md) |
+| Plano Financeiro | [Dispensas de multa](../menus/plano-financeiro/dispensas-de-multa.md) |
 | Plano Financeiro | [Centros de custo e rubricas](../menus/plano-financeiro/centros-de-custo-e-rubricas.md) |
 | Documentos | [Pedidos de documentos](../menus/documentos/pedidos-de-documentos.md) |
 | Caixa | [Minha caixa](../menus/caixa/minha-caixa.md) |

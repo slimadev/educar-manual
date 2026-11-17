@@ -18,6 +18,7 @@ Trata das matrículas, das turmas, dos pedidos de documentos e das inscrições 
 | Matrícula e Turmas | [Ocupação das salas](../menus/matricula-e-turmas/ocupacao-das-salas.md) |
 | Matrícula e Turmas | [Reordenar Turma](../menus/matricula-e-turmas/reordenar-turma.md) |
 | Matrícula e Turmas | [Gerar códigos de alunos](../menus/matricula-e-turmas/gerar-codigos-de-alunos.md) |
+| Matrícula e Turmas | [Agregados familiares](../menus/matricula-e-turmas/agregados-familiares.md) |
 | Documentos | [Pedidos de documentos](../menus/documentos/pedidos-de-documentos.md) |
 | Caixa | [Minha caixa](../menus/caixa/minha-caixa.md) |
 | Relatórios e Estatísticas | [Devedores](../menus/relatorios-e-estatisticas/devedores.md) |

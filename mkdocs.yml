@@ -95,6 +95,8 @@ nav:
           - "Preparar Ano Lectivo": menus/plano-financeiro/preparar-ano-lectivo.md
           - "Tabela de Multas": menus/plano-financeiro/tabela-de-multas.md
           - "Bolsas / Descontos": menus/plano-financeiro/bolsas-descontos.md
+          - "Desconto de irmãos": menus/plano-financeiro/desconto-de-irmaos.md
+          - "Dispensas de multa": menus/plano-financeiro/dispensas-de-multa.md
           - "Centros de custo e rubricas": menus/plano-financeiro/centros-de-custo-e-rubricas.md
       - "Matrícula":
           - "Visão geral": menus/matricula/index.md
@@ -104,6 +106,7 @@ nav:
           - "Visão geral": menus/matricula-e-turmas/index.md
           - "Novos Ingressos": menus/matricula-e-turmas/novos-ingressos.md
           - "Pesquisar Turma": menus/matricula-e-turmas/pesquisar-turma.md
+          - "Agregados familiares": menus/matricula-e-turmas/agregados-familiares.md
           - "Carregar Turma": menus/matricula-e-turmas/carregar-turma.md
           - "Secções dos alunos": menus/matricula-e-turmas/seccoes-dos-alunos.md
           - "Geração de Turmas": menus/matricula-e-turmas/geracao-de-turmas.md
