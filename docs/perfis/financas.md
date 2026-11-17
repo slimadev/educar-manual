@@ -33,6 +33,7 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Tesouraria | [Acertos do transporte](../menus/tesouraria/acertos-do-transporte.md) |
 | Tesouraria | [Fornecedores](../menus/tesouraria/fornecedores.md) |
 | Tesouraria | [Documentos fiscais](../menus/tesouraria/documentos-fiscais.md) |
+| Tesouraria | [Conciliação bancária](../menus/tesouraria/conciliacao-bancaria.md) |
 | Relatórios e Estatísticas | [Fecho de Caixa](../menus/relatorios-e-estatisticas/fecho-de-caixa.md) |
 | Relatórios e Estatísticas | [Devedores](../menus/relatorios-e-estatisticas/devedores.md) |
 | Relatórios e Estatísticas | [Previsto vs Cobrado](../menus/relatorios-e-estatisticas/previsto-vs-cobrado.md) |
