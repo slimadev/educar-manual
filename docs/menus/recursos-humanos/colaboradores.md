@@ -38,7 +38,7 @@ Cada colaborador tem um contrato em vigor de cada vez. Sem contrato, a lista mos
 
 1. No separador **Contrato**, escolha o **Tipo de contrato**: tempo indeterminado (efectivo), prazo certo ou prestação de serviços.
 2. Escolha o **Pagamento**:
-    - **Salário mensal**, com o salário base. É o dos administrativos, dos auxiliares e dos docentes efectivos; os docentes efectivos têm horas extra (veja [Definições de RH](definicoes-de-rh.md)).
+    - **Salário mensal**, com o salário base. Com contrato a prazo ou sem prazo, tem horas extra (veja [Definições de RH](definicoes-de-rh.md)); a prestação de serviços não tem.
     - **Por aula**, só para docentes que não são efectivos: recebem por aula dada, pelo valor do perfil do nível de ensino e do grau (ou de um perfil escolhido aqui), sem horas extra.
 3. Indique o início e, no prazo certo, o fim. O fim do período experimental e a carga horária semanal são opcionais.
 4. **Reter o IRPS** vem marcado; desmarque nos prestadores de serviços que não têm retenção.
@@ -46,7 +46,7 @@ Cada colaborador tem um contrato em vigor de cada vez. Sem contrato, a lista mos
 
 Um contrato já terminado, registado para o histórico, fica logo como terminado.
 
-- **Renovar:** indique o novo contrato. Começa no dia a seguir ao fim do anterior (ou na data indicada) e o anterior fica **Renovado**.
+- **Renovar:** indique o novo contrato. Começa no dia a seguir ao fim do anterior (ou na data indicada) e o anterior fica **Renovado**. O contrato a prazo certo só se renova a prazo certo dentro dos [limites da escola](definicoes-de-rh.md#limites-do-prazo-certo); o contrato mostra as renovações já feitas.
 - **Rescindir:** a data e o motivo. Para registar a saída do colaborador, mude também a **Situação** em **Dados**.
 
 O gestor de recursos humanos e o director recebem um aviso 60, 30 e 15 dias antes do fim de um contrato a prazo. Se o prazo passar sem renovação, o contrato fica **Terminado** e chega outro aviso.

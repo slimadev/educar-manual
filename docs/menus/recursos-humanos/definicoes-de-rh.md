@@ -3,13 +3,24 @@
 **Menu:** Recursos Humanos › Definições de RH
 **Quem vê:** Gestor de recursos humanos, Director da escola
 
-Como a escola paga os docentes: as horas extra dos efectivos e o valor por aula dos que não são efectivos.
+As horas extra, os limites dos contratos a prazo certo e o valor por aula dos docentes que não são efectivos.
 
 ![As horas extra e os perfis de valor por aula](img/definicoes-de-rh.png)
 
-## Horas extra dos docentes efectivos
+## Horas extra
 
-O docente efectivo (contrato por tempo indeterminado, com salário mensal) recebe horas extra quando dá mais horas no mês do que as indicadas em **Horas extra a partir de (horas por mês)**. Cada hora a mais vale o **Valor da hora extra (MT)**. Use **Gravar**.
+Todos os que recebem **salário mensal**, com contrato a prazo ou sem prazo, recebem horas extra quando trabalham no mês mais horas do que as indicadas em **Horas extra a partir de (horas por mês)**. Cada hora a mais vale o **Valor da hora extra (MT)**. Os docentes pagos por aula e os prestadores de serviços não têm horas extra.
+
+## Limites do prazo certo
+
+O contrato a prazo certo, com salário ou pago por aula, só se renova a prazo certo até aos limites da escola:
+
+- **Renovações seguidas a prazo certo:** quantas vezes se pode renovar.
+- **Duração máxima a prazo certo (meses):** o tempo total, do início do primeiro contrato ao fim do novo.
+
+Passado um dos limites, a renovação a prazo certo é recusada e o contrato renova-se por tempo indeterminado. O aviso de fim de contrato diz quando já não se pode renovar a prazo certo. Deixe 0 para não ter limite.
+
+Use **Gravar**.
 
 ## Perfis de valor por aula
 
