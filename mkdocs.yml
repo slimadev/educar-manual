@@ -53,6 +53,7 @@ nav:
       - Direcção da escola: perfis/direccao.md
       - Finanças: perfis/financas.md
       - Gestor do património: perfis/gestor-do-patrimonio.md
+      - Gestor de recursos humanos: perfis/gestor-de-recursos-humanos.md
       - Gestor do transporte: perfis/gestor-do-transporte.md
       - Proprietário de transporte: perfis/proprietario-de-transporte.md
       - Secretaria: perfis/secretaria.md
@@ -81,6 +82,7 @@ nav:
           - "Grade Curricular": menus/plano-curricular/grade-curricular.md
       - "Recursos Humanos":
           - "Visão geral": menus/recursos-humanos/index.md
+          - "Colaboradores": menus/recursos-humanos/colaboradores.md
           - "Níveis académicos": menus/recursos-humanos/niveis-academicos.md
           - "Áreas de Formação": menus/recursos-humanos/areas-de-formacao.md
           - "Pessoas": menus/recursos-humanos/pessoas.md

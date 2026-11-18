@@ -10,6 +10,7 @@ O EDUCAR é o sistema de gestão escolar das escolas: matrículas e turmas, prop
     - [Direcção da escola](perfis/direccao.md)
     - [Finanças](perfis/financas.md)
     - [Gestor do património](perfis/gestor-do-patrimonio.md)
+    - [Gestor de recursos humanos](perfis/gestor-de-recursos-humanos.md)
     - [Gestor do transporte](perfis/gestor-do-transporte.md)
     - [Proprietário de transporte](perfis/proprietario-de-transporte.md)
     - [Secretaria](perfis/secretaria.md)

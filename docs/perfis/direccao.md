@@ -18,6 +18,7 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Configurações | [Períodos Leccionados](../menus/configuracoes/periodos-leccionados.md) |
 | Configurações | [Professores por Turma](../menus/configuracoes/professores-por-turma.md) |
 | Plano Curricular | [Grade Curricular](../menus/plano-curricular/grade-curricular.md) |
+| Recursos Humanos | [Colaboradores](../menus/recursos-humanos/colaboradores.md) |
 | Recursos Humanos | [Níveis académicos](../menus/recursos-humanos/niveis-academicos.md) |
 | Recursos Humanos | [Áreas de Formação](../menus/recursos-humanos/areas-de-formacao.md) |
 | Recursos Humanos | [Pessoas](../menus/recursos-humanos/pessoas.md) |

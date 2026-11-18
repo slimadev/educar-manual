@@ -1,7 +1,7 @@
 # Docentes
 
 **Menu:** Recursos Humanos › Docentes
-**Quem vê:** Director da escola, Director pedagógico
+**Quem vê:** Director da escola, Director pedagógico, Gestor de recursos humanos
 
 Os docentes da escola, com o nível académico, a área de formação e o estado. Daqui saem os professores que se escolhem nos horários e nos exames.
 

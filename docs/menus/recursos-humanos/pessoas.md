@@ -1,7 +1,7 @@
 # Pessoas
 
 **Menu:** Recursos Humanos › Pessoas
-**Quem vê:** Director da escola, Director pedagógico
+**Quem vê:** Director da escola, Director pedagógico, Gestor de recursos humanos
 
 Os dados pessoais dos docentes, alunos e utilizadores da escola, e de quem a escola registou aqui. Cada escola só procura, abre e corrige as suas pessoas. Antes de adicionar um docente, a pessoa tem de estar registada, com o NUIT.
 
