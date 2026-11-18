@@ -37,6 +37,8 @@ No dia-a-dia:
 
 O sistema não conta o dinheiro: no fim do dia, compare o dinheiro que está no caixa com o saldo da conta.
 
+Com os [pagamentos online](pagamentos-online.md) ligados, aparece a conta **ELIXIR PAY · TRANSITO**: os pagamentos feitos na app entram nela e saem nos repasses semanais da ELIXIR. Não se escolhe nos formulários.
+
 ## Corrigir uma conta
 
 O lápis do cartão corrige o número ou a descrição. O saldo não se corrige aqui.

@@ -38,7 +38,7 @@ O topo mostra os dados do aluno e o resumo das contas: por pagar, em atraso, val
 2. Em **Registar pagamento**, escolha a conta de entrada, escreva a referência (talão, transferência…) e a data do pagamento.
 3. Use **Registar pagamento**. O recibo fica disponível (numa escola privada, a [factura-recibo](../tesouraria/documentos-fiscais.md); anular o pagamento emite a nota de crédito).
 
-Se o aluno está num [agregado familiar](agregados-familiares.md), uma faixa no separador mostra o agregado e o lugar do aluno, e o desconto de irmãos aparece com a etiqueta **irmãos**. Numa conta em atraso com multa, **Pedir dispensa** pede ao director financeiro que não a cobre (veja [Dispensas de multa](../plano-financeiro/dispensas-de-multa.md)).
+Se o aluno está num [agregado familiar](agregados-familiares.md), uma faixa no separador mostra o agregado e o lugar do aluno, e o desconto de irmãos aparece com a etiqueta **irmãos**. Numa conta em atraso com multa, **Pedir dispensa** pede ao director financeiro que não a cobre (veja [Dispensas de multa](../plano-financeiro/dispensas-de-multa.md)). A etiqueta **pagamento pela app por confirmar** diz que o encarregado pediu o pagamento dessa conta na app e o banco ainda não confirmou: se a receber aqui, o pagamento da app fica em duplicado e é devolvido (veja [Pagamentos online](../tesouraria/pagamentos-online.md)).
 
 ![Contas de um irmão: desconto de irmãos e um pedido de dispensa da multa](img/contas-irmao-dispensa.png)
 

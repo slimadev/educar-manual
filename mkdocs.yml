@@ -138,6 +138,7 @@ nav:
           - "Fornecedores": menus/tesouraria/fornecedores.md
           - "Documentos fiscais": menus/tesouraria/documentos-fiscais.md
           - "Conciliação bancária": menus/tesouraria/conciliacao-bancaria.md
+          - "Pagamentos online": menus/tesouraria/pagamentos-online.md
       - "Património":
           - "Visão geral": menus/patrimonio/index.md
           - "Bens": menus/patrimonio/bens.md

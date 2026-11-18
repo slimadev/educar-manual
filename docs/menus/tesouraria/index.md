@@ -12,3 +12,4 @@
 | [Fornecedores](fornecedores.md) | Director financeiro, Funcionário das finanças |
 | [Documentos fiscais](documentos-fiscais.md) | Director financeiro, Funcionário das finanças |
 | [Conciliação bancária](conciliacao-bancaria.md) | Director financeiro, Funcionário das finanças |
+| [Pagamentos online](pagamentos-online.md) | Director financeiro, Funcionário das finanças |
