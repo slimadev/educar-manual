@@ -20,3 +20,4 @@ Regista os bens da escola, indica onde estão e quem responde por eles, e imprim
 | Património | [Carregar lista](../menus/patrimonio/carregar-lista.md) |
 | Património | [Categorias](../menus/patrimonio/categorias.md) |
 | Património | [Locais](../menus/patrimonio/locais.md) |
+| Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |

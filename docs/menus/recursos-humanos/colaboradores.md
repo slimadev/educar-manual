@@ -24,7 +24,7 @@ A pessoa tem de estar registada em [Pessoas](pessoas.md).
 
 ![O dossiê de um colaborador: um documento caducado e outro a caducar](img/colaborador-documentos.png)
 
-- **Dados:** os dados pessoais (para os corrigir, use **Editar em Pessoas**) e os do colaborador: categoria, função, sector, admissão e observações. Em **Situação**, suspenda (com o motivo), dê como **Cessado** (com a data de saída e o motivo) ou volte a pôr como activo.
+- **Dados:** os dados pessoais (para os corrigir, use **Editar em Pessoas**) e os do colaborador: categoria, função, sector, admissão e observações. Em **Ponto**, o horário de trabalho e o número no relógio biométrico (veja [Ponto](ponto.md)). Em **Situação**, suspenda (com o motivo), dê como **Cessado** (com a data de saída e o motivo) ou volte a pôr como activo.
 - **Contrato:** o contrato em vigor e o histórico (veja abaixo).
 - **Contactos de emergência:** quem avisar em caso de acidente ou doença, com o telefone.
 - **Dados bancários:** o banco e o número da conta e/ou o NIB (21 algarismos), ou a carteira móvel, para pagar o salário.

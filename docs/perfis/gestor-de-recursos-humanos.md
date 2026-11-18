@@ -9,6 +9,8 @@ Regista os colaboradores da escola (administrativos, auxiliares e docentes) e os
 | Menu | Ecrã |
 |---|---|
 | Recursos Humanos | [Colaboradores](../menus/recursos-humanos/colaboradores.md) |
+| Recursos Humanos | [Ponto](../menus/recursos-humanos/ponto.md) |
 | Recursos Humanos | [Definições de RH](../menus/recursos-humanos/definicoes-de-rh.md) |
 | Recursos Humanos | [Pessoas](../menus/recursos-humanos/pessoas.md) |
 | Recursos Humanos | [Docentes](../menus/recursos-humanos/docentes.md) |
+| Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |

@@ -13,6 +13,7 @@ Acompanha as suas turmas e o horário, regista o sumário e as faltas de cada au
 | Professor | [Horário](../menus/professor/horario.md) |
 | Professor | [Aulas e presenças](../menus/professor/aulas-e-presencas.md) |
 | Professor | [Direcção de turma](../menus/professor/direccao-de-turma.md) |
+| Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |
 
 ## Processos em que participa
 

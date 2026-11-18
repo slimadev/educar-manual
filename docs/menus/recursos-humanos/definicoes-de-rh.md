@@ -3,7 +3,7 @@
 **Menu:** Recursos Humanos › Definições de RH
 **Quem vê:** Gestor de recursos humanos, Director da escola
 
-As horas extra, os limites dos contratos a prazo certo e o valor por aula dos docentes que não são efectivos.
+As horas extra, os limites dos contratos a prazo certo, o valor por aula dos docentes que não são efectivos, os atrasos e os feriados.
 
 ![As horas extra e os perfis de valor por aula](img/definicoes-de-rh.png)
 
@@ -33,3 +33,11 @@ O docente que não é efectivo recebe por aula dada. O valor vem de um perfil (A
 Escolha a base em **Perfis de valor por aula** e use **Gravar**. Depois, em cada perfil, indique o código, o nome, o nível e/ou o grau e o valor por aula, e use **Juntar perfil**. Cada combinação só pode ter um perfil activo. Um perfil que deixa de se usar desliga-se (o interruptor) e **Gravar**.
 
 No [contrato](colaboradores.md#o-contrato) de um docente pago por aula, o perfil é escolhido sozinho pelo nível e pelo grau; escolha um perfil só para um acordo diferente.
+
+## Atrasos
+
+Em **Horas de atraso que valem uma falta**, indique quantas horas de atraso no mês contam como uma falta (por exemplo, 4: com 4 horas e 30 minutos de atraso no mês, o colaborador tem uma falta a mais). Deixe 0 para não converter. Veja o resultado em [Ponto](ponto.md#o-mes).
+
+## Feriados
+
+Nos feriados ninguém tem falta. **Juntar os feriados nacionais** junta os feriados nacionais de data fixa do ano; confirme-os e junte os outros dias sem trabalho (tolerâncias de ponto, feriados da cidade) com o dia e o nome. O **x** tira um feriado da lista.

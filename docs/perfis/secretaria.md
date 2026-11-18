@@ -28,6 +28,7 @@ Trata das matrículas, das turmas, dos pedidos de documentos e das inscrições 
 | Exames | [Inscrições](../menus/exames/inscricoes.md) |
 | Transporte | [Inscrições](../menus/transporte/inscricoes.md) (inscreve, muda e termina; dá o lugar e a tolerância) |
 | Transporte | [Rotas](../menus/transporte/rotas.md), [Carrinhas](../menus/transporte/carrinhas.md), [Mapas](../menus/transporte/mapas.md) (só consulta) |
+| Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |
 
 ## Processos em que participa
 

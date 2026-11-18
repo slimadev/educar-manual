@@ -16,6 +16,7 @@ Regista as carrinhas da escola e dos proprietários particulares, os motoristas 
 | Transporte | [Proprietários](../menus/transporte/proprietarios.md) |
 | Transporte | [Acordos](../menus/transporte/acordos.md) |
 | Transporte | [Mapas](../menus/transporte/mapas.md) |
+| Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |
 
 ## Avisos que recebe
 

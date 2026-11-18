@@ -80,9 +80,12 @@ nav:
       - "Plano Curricular":
           - "Visão geral": menus/plano-curricular/index.md
           - "Grade Curricular": menus/plano-curricular/grade-curricular.md
+      - "Ponto":
+          - "O meu ponto": menus/ponto/o-meu-ponto.md
       - "Recursos Humanos":
           - "Visão geral": menus/recursos-humanos/index.md
           - "Colaboradores": menus/recursos-humanos/colaboradores.md
+          - "Ponto": menus/recursos-humanos/ponto.md
           - "Definições de RH": menus/recursos-humanos/definicoes-de-rh.md
           - "Níveis académicos": menus/recursos-humanos/niveis-academicos.md
           - "Áreas de Formação": menus/recursos-humanos/areas-de-formacao.md
