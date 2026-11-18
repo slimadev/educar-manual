@@ -83,6 +83,7 @@ nav:
       - "Recursos Humanos":
           - "Visão geral": menus/recursos-humanos/index.md
           - "Colaboradores": menus/recursos-humanos/colaboradores.md
+          - "Definições de RH": menus/recursos-humanos/definicoes-de-rh.md
           - "Níveis académicos": menus/recursos-humanos/niveis-academicos.md
           - "Áreas de Formação": menus/recursos-humanos/areas-de-formacao.md
           - "Pessoas": menus/recursos-humanos/pessoas.md

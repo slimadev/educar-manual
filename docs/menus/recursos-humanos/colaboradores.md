@@ -5,7 +5,7 @@
 
 Todos os que trabalham na escola: administrativos, auxiliares e docentes, cada um com o seu dossiê (dados, contactos de emergência, dados bancários e documentos). Os docentes adicionados em [Docentes](docentes.md) passam a ser colaboradores sozinhos.
 
-![Os colaboradores activos, com o estado do dossiê](img/colaboradores.png)
+![Os colaboradores activos, com o contrato e o estado do dossiê](img/colaboradores.png)
 
 No topo, os totais dos colaboradores activos por categoria; clique num deles para filtrar. A lista mostra os activos: escolha outra situação, uma categoria ou escreva o nome, a função, o NUIT ou o número para procurar.
 
@@ -25,9 +25,31 @@ A pessoa tem de estar registada em [Pessoas](pessoas.md).
 ![O dossiê de um colaborador: um documento caducado e outro a caducar](img/colaborador-documentos.png)
 
 - **Dados:** os dados pessoais (para os corrigir, use **Editar em Pessoas**) e os do colaborador: categoria, função, sector, admissão e observações. Em **Situação**, suspenda (com o motivo), dê como **Cessado** (com a data de saída e o motivo) ou volte a pôr como activo.
+- **Contrato:** o contrato em vigor e o histórico (veja abaixo).
 - **Contactos de emergência:** quem avisar em caso de acidente ou doença, com o telefone.
 - **Dados bancários:** o banco e o número da conta e/ou o NIB (21 algarismos), ou a carteira móvel, para pagar o salário.
 - **Documentos:** o dossiê. Escolha o tipo, o número, as datas de emissão e de validade e o ficheiro (PDF, JPEG ou PNG, até 5 MB), e use **Juntar**. Clique no ficheiro para o abrir.
+
+## O contrato
+
+![Um contrato a prazo certo perto do fim, com o histórico](img/colaborador-contrato.png)
+
+Cada colaborador tem um contrato em vigor de cada vez. Sem contrato, a lista mostra **sem contrato**.
+
+1. No separador **Contrato**, escolha o **Tipo de contrato**: tempo indeterminado (efectivo), prazo certo ou prestação de serviços.
+2. Escolha o **Pagamento**:
+    - **Salário mensal**, com o salário base. É o dos administrativos, dos auxiliares e dos docentes efectivos; os docentes efectivos têm horas extra (veja [Definições de RH](definicoes-de-rh.md)).
+    - **Por aula**, só para docentes que não são efectivos: recebem por aula dada, pelo valor do perfil do nível de ensino e do grau (ou de um perfil escolhido aqui), sem horas extra.
+3. Indique o início e, no prazo certo, o fim. O fim do período experimental e a carga horária semanal são opcionais.
+4. **Reter o IRPS** vem marcado; desmarque nos prestadores de serviços que não têm retenção.
+5. Junte o contrato assinado (PDF, JPEG ou PNG) e use **Registar o contrato**.
+
+Um contrato já terminado, registado para o histórico, fica logo como terminado.
+
+- **Renovar:** indique o novo contrato. Começa no dia a seguir ao fim do anterior (ou na data indicada) e o anterior fica **Renovado**.
+- **Rescindir:** a data e o motivo. Para registar a saída do colaborador, mude também a **Situação** em **Dados**.
+
+O gestor de recursos humanos e o director recebem um aviso 60, 30 e 15 dias antes do fim de um contrato a prazo. Se o prazo passar sem renovação, o contrato fica **Terminado** e chega outro aviso.
 
 ## Documentos a caducar
 
