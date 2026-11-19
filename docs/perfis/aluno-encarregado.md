@@ -14,6 +14,7 @@ No site, o menu Estudante é do aluno. O encarregado acompanha pela app, com a c
 | Estudante | [Horário](../menus/estudante/horario.md) |
 | Estudante | [Calendário de Avaliações](../menus/estudante/calendario-de-avaliacoes.md) |
 | Estudante | [Avaliações Realizadas](../menus/estudante/avaliacoes-realizadas.md) |
+| Estudante | [Inquérito aos professores](../menus/estudante/inquerito-aos-professores.md) |
 
 ## Na app
 

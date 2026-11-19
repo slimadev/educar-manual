@@ -6,3 +6,4 @@
 | [Horário](horario.md) | Aluno |
 | [Calendário de Avaliações](calendario-de-avaliacoes.md) | Aluno |
 | [Avaliações Realizadas](avaliacoes-realizadas.md) | Aluno |
+| [Inquérito aos professores](inquerito-aos-professores.md) | Aluno |

@@ -84,6 +84,8 @@ nav:
           - "O meu ponto": menus/ponto/o-meu-ponto.md
           - "Os meus pedidos": menus/ponto/os-meus-pedidos.md
           - "Os meus recibos": menus/ponto/os-meus-recibos.md
+          - "As minhas formações": menus/ponto/as-minhas-formacoes.md
+          - "As minhas avaliações": menus/ponto/as-minhas-avaliacoes.md
           - "Aulas dos docentes": menus/ponto/aulas-dos-docentes.md
       - "Recursos Humanos":
           - "Visão geral": menus/recursos-humanos/index.md
@@ -91,6 +93,8 @@ nav:
           - "Ponto": menus/recursos-humanos/ponto.md
           - "Férias e licenças": menus/recursos-humanos/ferias-e-licencas.md
           - "Folha de salários": menus/recursos-humanos/folha-de-salarios.md
+          - "Avaliação de desempenho": menus/recursos-humanos/avaliacao-de-desempenho.md
+          - "Formações": menus/recursos-humanos/formacoes.md
           - "Definições de RH": menus/recursos-humanos/definicoes-de-rh.md
           - "Níveis académicos": menus/recursos-humanos/niveis-academicos.md
           - "Áreas de Formação": menus/recursos-humanos/areas-de-formacao.md
@@ -212,3 +216,4 @@ nav:
           - "Horário": menus/estudante/horario.md
           - "Calendário de Avaliações": menus/estudante/calendario-de-avaliacoes.md
           - "Avaliações Realizadas": menus/estudante/avaliacoes-realizadas.md
+          - "Inquérito aos professores": menus/estudante/inquerito-aos-professores.md

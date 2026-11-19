@@ -43,6 +43,7 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |
 | Ponto | [Os meus pedidos](../menus/ponto/os-meus-pedidos.md) |
 | Ponto | [Os meus recibos](../menus/ponto/os-meus-recibos.md) |
+| Ponto | [As minhas formações](../menus/ponto/as-minhas-formacoes.md) |
 
 ## Processos em que participa
 

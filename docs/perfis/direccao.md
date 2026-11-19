@@ -22,6 +22,8 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Recursos Humanos | [Ponto](../menus/recursos-humanos/ponto.md) |
 | Recursos Humanos | [Férias e licenças](../menus/recursos-humanos/ferias-e-licencas.md) |
 | Recursos Humanos | [Folha de salários](../menus/recursos-humanos/folha-de-salarios.md) |
+| Recursos Humanos | [Avaliação de desempenho](../menus/recursos-humanos/avaliacao-de-desempenho.md) |
+| Recursos Humanos | [Formações](../menus/recursos-humanos/formacoes.md) |
 | Recursos Humanos | [Definições de RH](../menus/recursos-humanos/definicoes-de-rh.md) |
 | Recursos Humanos | [Níveis académicos](../menus/recursos-humanos/niveis-academicos.md) |
 | Recursos Humanos | [Áreas de Formação](../menus/recursos-humanos/areas-de-formacao.md) |
@@ -59,6 +61,7 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |
 | Ponto | [Os meus pedidos](../menus/ponto/os-meus-pedidos.md) |
 | Ponto | [Os meus recibos](../menus/ponto/os-meus-recibos.md) |
+| Ponto | [As minhas formações](../menus/ponto/as-minhas-formacoes.md) |
 | Ponto | [Aulas dos docentes](../menus/ponto/aulas-dos-docentes.md) |
 
 ## Processos em que participa
