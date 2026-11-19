@@ -30,6 +30,7 @@ Trata das matrículas, das turmas, dos pedidos de documentos e das inscrições 
 | Transporte | [Rotas](../menus/transporte/rotas.md), [Carrinhas](../menus/transporte/carrinhas.md), [Mapas](../menus/transporte/mapas.md) (só consulta) |
 | Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |
 | Ponto | [Os meus pedidos](../menus/ponto/os-meus-pedidos.md) |
+| Ponto | [Os meus recibos](../menus/ponto/os-meus-recibos.md) |
 | Ponto | [Aulas dos docentes](../menus/ponto/aulas-dos-docentes.md) |
 
 ## Processos em que participa

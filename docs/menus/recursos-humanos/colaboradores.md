@@ -51,6 +51,19 @@ Um contrato já terminado, registado para o histórico, fica logo como terminado
 
 O gestor de recursos humanos e o director recebem um aviso 60, 30 e 15 dias antes do fim de um contrato a prazo. Se o prazo passar sem renovação, o contrato fica **Terminado** e chega outro aviso.
 
+## Subsídios
+
+Por baixo do contrato ficam os **subsídios** do colaborador, que entram todos os meses na [folha de salários](folha-de-salarios.md).
+
+![Os subsídios de um colaborador](img/colaborador-subsidios.png)
+
+1. Escreva o **nome** (ex. subsídio de transporte).
+2. Diga se é um **valor fixo** (em MT) ou uma **percentagem do salário** base.
+3. Desmarque **Sujeito a impostos** se o subsídio não conta para o INSS e o IRPS.
+4. Carregue em **+**.
+
+Os subsídios são proporcionais aos dias de contrato no mês. **Suspender** tira-o das folhas seguintes sem o apagar; **Retomar** volta a pô-lo.
+
 ## Documentos a caducar
 
 Com a data de validade, o gestor de recursos humanos e o director recebem um [aviso](../../primeiros-passos/avisos.md) 30 dias antes e outro no dia em que o documento caduca. Quando chegar o documento novo, junte-o com a nova validade: os avisos param e o antigo fica no histórico.

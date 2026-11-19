@@ -67,6 +67,16 @@ As finanças recebem um aviso no sino três dias antes do vencimento de uma fact
 
 Uma factura em aberto e sem pagamentos anula-se na ficha, com **Anular a factura** e o motivo (por exemplo, registada em duplicado). Fica **Anulada** e deixa de contar na dívida.
 
+## Salários, INSS e IRPS
+
+Quando o RH fecha a [folha de salários](../recursos-humanos/folha-de-salarios.md) do mês, aparecem aqui três contas a pagar:
+
+- os salários líquidos, do credor **Colaboradores (salários)**;
+- o INSS do trabalhador e da escola, do credor **INSS (Segurança Social)**;
+- o IRPS retido, do credor **Autoridade Tributária (IRPS)**.
+
+Têm as rubricas de salários, de encargos sociais e de impostos. Aprovam-se e pagam-se como as outras. Para os salários, use o ficheiro para o banco da folha. Se o RH reabrir a folha antes de pagas, ficam anuladas.
+
 ## Facturas de despesas do património
 
 Quando o fornecedor de uma compra ou reparação do património manda factura para pagar mais tarde, use **Registar a factura** em [Despesas do Património](despesas-do-patrimonio.md). A factura vem preenchida com a descrição e o valor e, se o nome escrito pelo gestor for o de um fornecedor da escola, com o fornecedor. A despesa passa a mostrar **Em contas a pagar**; paga a factura, fica paga lá também. Se a factura for anulada, a despesa volta a ficar por pagar.

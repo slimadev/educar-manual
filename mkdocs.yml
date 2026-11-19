@@ -83,12 +83,14 @@ nav:
       - "Ponto":
           - "O meu ponto": menus/ponto/o-meu-ponto.md
           - "Os meus pedidos": menus/ponto/os-meus-pedidos.md
+          - "Os meus recibos": menus/ponto/os-meus-recibos.md
           - "Aulas dos docentes": menus/ponto/aulas-dos-docentes.md
       - "Recursos Humanos":
           - "Visão geral": menus/recursos-humanos/index.md
           - "Colaboradores": menus/recursos-humanos/colaboradores.md
           - "Ponto": menus/recursos-humanos/ponto.md
           - "Férias e licenças": menus/recursos-humanos/ferias-e-licencas.md
+          - "Folha de salários": menus/recursos-humanos/folha-de-salarios.md
           - "Definições de RH": menus/recursos-humanos/definicoes-de-rh.md
           - "Níveis académicos": menus/recursos-humanos/niveis-academicos.md
           - "Áreas de Formação": menus/recursos-humanos/areas-de-formacao.md
