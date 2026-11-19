@@ -27,6 +27,7 @@ Clique num docente para ver as aulas dele, uma a uma.
 - **A secretaria marca** a falta: o dia todo (no topo da página, com o docente, o dia e uma observação) ou um só tempo (**Marcar falta** na aula).
 - **Só o chefe da secretaria e o director pedagógico justificam** a falta, com o motivo (**Justificar**). Uma aula não registada no diário também se justifica assim.
 - **Tirar a falta** (o **x**) corrige uma falta marcada por engano. Uma falta já justificada só a tira quem justifica.
+- Nos dias de uma licença aprovada em [Recursos Humanos › Férias e licenças](../recursos-humanos/ferias-e-licencas.md), as aulas do docente ficam justificadas, com a nota **Licença aprovada**.
 
 ## Substitutos
 

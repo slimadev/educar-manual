@@ -82,11 +82,13 @@ nav:
           - "Grade Curricular": menus/plano-curricular/grade-curricular.md
       - "Ponto":
           - "O meu ponto": menus/ponto/o-meu-ponto.md
+          - "Os meus pedidos": menus/ponto/os-meus-pedidos.md
           - "Aulas dos docentes": menus/ponto/aulas-dos-docentes.md
       - "Recursos Humanos":
           - "Visão geral": menus/recursos-humanos/index.md
           - "Colaboradores": menus/recursos-humanos/colaboradores.md
           - "Ponto": menus/recursos-humanos/ponto.md
+          - "Férias e licenças": menus/recursos-humanos/ferias-e-licencas.md
           - "Definições de RH": menus/recursos-humanos/definicoes-de-rh.md
           - "Níveis académicos": menus/recursos-humanos/niveis-academicos.md
           - "Áreas de Formação": menus/recursos-humanos/areas-de-formacao.md

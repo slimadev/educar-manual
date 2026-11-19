@@ -41,6 +41,7 @@ Define os preços e as taxas, recebe pagamentos, regista vendas e receitas e aco
 | Património | [Bens](../menus/patrimonio/bens.md) (só consulta) |
 | Transporte | [Acordos](../menus/transporte/acordos.md), [Inscrições](../menus/transporte/inscricoes.md), [Mapas](../menus/transporte/mapas.md) (só consulta) |
 | Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |
+| Ponto | [Os meus pedidos](../menus/ponto/os-meus-pedidos.md) |
 
 ## Processos em que participa
 

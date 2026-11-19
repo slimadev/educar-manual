@@ -22,6 +22,7 @@ Para cada colaborador com horário, no dia escolhido: a **Entrada** (a primeira 
 - **Presente**, ou **Atraso** quando chegou depois da hora de entrada mais a tolerância. O atraso conta desde a hora de entrada.
 - **Falta**: um dia de trabalho sem marcações (depois da hora de saída do horário).
 - **Falta justificada**, **Folga** (dia sem trabalho no horário), **Feriado**, **Por registar** (o dia ainda não acabou).
+- O tipo da licença (por exemplo **Férias** ou **Doença**), nos dias de uma licença aprovada em [Férias e licenças](ferias-e-licencas.md). Não é falta.
 
 Para corrigir:
 

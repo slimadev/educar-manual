@@ -20,6 +20,7 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Plano Curricular | [Grade Curricular](../menus/plano-curricular/grade-curricular.md) |
 | Recursos Humanos | [Colaboradores](../menus/recursos-humanos/colaboradores.md) |
 | Recursos Humanos | [Ponto](../menus/recursos-humanos/ponto.md) |
+| Recursos Humanos | [Férias e licenças](../menus/recursos-humanos/ferias-e-licencas.md) |
 | Recursos Humanos | [Definições de RH](../menus/recursos-humanos/definicoes-de-rh.md) |
 | Recursos Humanos | [Níveis académicos](../menus/recursos-humanos/niveis-academicos.md) |
 | Recursos Humanos | [Áreas de Formação](../menus/recursos-humanos/areas-de-formacao.md) |
@@ -55,6 +56,7 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Património | [Locais](../menus/patrimonio/locais.md) (só o director) |
 | Transporte | [Todos os ecrãs](../menus/transporte/index.md) (o director também regista e muda; o director pedagógico só consulta) |
 | Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |
+| Ponto | [Os meus pedidos](../menus/ponto/os-meus-pedidos.md) |
 | Ponto | [Aulas dos docentes](../menus/ponto/aulas-dos-docentes.md) |
 
 ## Processos em que participa
