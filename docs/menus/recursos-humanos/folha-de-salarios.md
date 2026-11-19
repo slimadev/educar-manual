@@ -88,6 +88,8 @@ As contas a pagar seguem as regras da Tesouraria (a aprovação do director fina
 | Valor da hora nocturna | Em MT, por cada hora nas horas nocturnas do ponto (0: não paga) |
 | INSS do trabalhador e da escola | As percentagens (propostas: 3% e 4%) |
 | IRPS dos prestadores de serviços | A percentagem retida aos prestadores de serviços |
+| Base do IRPS | **Ilíquido sujeito a impostos**, ou **ilíquido sujeito menos o INSS do trabalhador** |
+| Forma da tabela | **Escalões** (taxa marginal) ou **tabela por dependentes** (ver abaixo) |
 | Tabela de retenção do IRPS | Os escalões (ver abaixo) |
 | Dia do pagamento | O vencimento da conta a pagar dos salários (0: o último dia do mês) |
 | Entrega do INSS e do IRPS | O dia do mês seguinte em que vencem |
@@ -95,6 +97,11 @@ As contas a pagar seguem as regras da Tesouraria (a aprovação do director fina
 
 O valor da hora extra muda-se em [Definições de RH](definicoes-de-rh.md).
 
-**A tabela do IRPS.** Cada escalão tem o valor mensal sujeito a imposto a partir do qual se aplica e a taxa. A taxa aplica-se só à parte que passa desse valor, até ao escalão seguinte. Abaixo do primeiro escalão não se retém: é o valor mínimo. Copie os valores da tabela em vigor e confirme-os com o contabilista. Sem tabela, não se retém IRPS (a folha avisa).
+**A tabela do IRPS.** Cada escalão tem o valor mensal a partir do qual se aplica e a taxa. Abaixo do primeiro escalão não se retém: é o valor mínimo. Sem tabela, não se retém IRPS (a folha avisa). Copie os valores da tabela em vigor e confirme-os com o contabilista. A escola escolhe uma de duas formas:
+
+- **Escalões (taxa marginal):** a taxa de cada escalão aplica-se só à parte do rendimento dentro dele, até ao escalão seguinte.
+- **Tabela por dependentes:** cada escalão tem também um **valor fixo** para 0, 1, 2, 3 e 4 ou mais dependentes, como as tabelas de retenção oficiais. No escalão onde cai o rendimento, o imposto é o valor fixo do número de dependentes do colaborador mais a taxa sobre o que passa do início do escalão. Os valores fixos podem ser negativos; o imposto nunca fica abaixo de zero.
+
+O número de dependentes de cada colaborador regista-se na ficha (**Dados**). O detalhe do salário de cada colaborador mostra a base do IRPS e os dependentes usados.
 
 Depois de mudar as regras, recalcule as folhas que estão em rascunho.
