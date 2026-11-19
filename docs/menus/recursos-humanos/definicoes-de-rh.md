@@ -34,6 +34,10 @@ Escolha a base em **Perfis de valor por aula** e use **Gravar**. Depois, em cada
 
 No [contrato](colaboradores.md#o-contrato) de um docente pago por aula, o perfil é escolhido sozinho pelo nível e pelo grau; escolha um perfil só para um acordo diferente.
 
+## Horas nocturnas
+
+Se a escola paga subsídio nocturno, ligue **Tem subsídio nocturno** e indique a hora a que começam (**Das**) e a que acabam (**Às**) as horas nocturnas, por exemplo das 20:00 às 06:00. O [Ponto](ponto.md#o-mes) conta as horas trabalhadas nesse período; o valor do subsídio entra na folha de salários.
+
 ## Atrasos
 
 Em **Horas de atraso que valem uma falta**, indique quantas horas de atraso no mês contam como uma falta (por exemplo, 4: com 4 horas e 30 minutos de atraso no mês, o colaborador tem uma falta a mais). Deixe 0 para não converter. Veja o resultado em [Ponto](ponto.md#o-mes).
