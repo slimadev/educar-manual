@@ -46,3 +46,18 @@ Em **Aprovação acima de (MT)**, escreva a partir de que valor uma factura de f
 Ligue **Exigir a caixa aberta para receber ou pagar em numerário** para que cada pessoa abra a sua caixa antes de registar numerário e a feche no fim do dia. Sem a caixa aberta, ou com a de um dia anterior por fechar, os recibos, vendas e despesas em numerário são recusados. Ver [Minha caixa](../caixa/minha-caixa.md).
 
 Use **Gravar**. Por baixo fica quem fez a última alteração, e quando.
+
+## Bloqueio por propinas em atraso
+
+O que o aluno deixa de ver na plataforma e na app quando tem contas em atraso. As contas e os recibos ficam sempre visíveis, para poder pagar.
+
+1. **Bloquear quando há propinas em atraso:** desligue para não bloquear nada.
+2. **A partir de quantos dias de atraso:** por exemplo 15, para bloquear só quando uma conta passa 15 dias do prazo; 0 bloqueia logo no dia seguinte ao prazo.
+3. **O que bloqueia:**
+    - **Tudo:** o aluno só vê as contas (o horário, as avaliações, as notas e as faltas ficam escondidos).
+    - **Só as notas e as avaliações realizadas:** continua a ver o horário e as faltas.
+4. **Bloquear também o encarregado de educação (na app)** e **Não deixar pedir documentos pela app** (certificados, declarações), se a escola quiser.
+5. Use **Gravar**.
+
+Enquanto a escola não grava, bloqueia o aluno em tudo, logo no dia a seguir ao prazo, e não bloqueia o encarregado nem os pedidos de documentos.
+

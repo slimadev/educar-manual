@@ -31,7 +31,7 @@ O que se pode fazer na app:
 
 O aluno entra com o código de aluno. O encarregado entra com o telemóvel, depois de a secretaria [ligar a conta ao aluno](../menus/matricula-e-turmas/pesquisar-turma.md#ligar-um-encarregado). A conta de encarregado é opcional: a escola cria-a para as famílias que quiserem acompanhar na app.
 
-Com contas em atraso, o horário, as notas, as avaliações e as faltas ficam fechados até se pagar. As contas, os documentos, os exames e o transporte continuam abertos.
+Com contas em atraso, o que fica fechado até se pagar depende da escola (veja [Definição financeira](../menus/plano-financeiro/definicao-financeira.md#bloqueio-por-propinas-em-atraso)): por omissão, o horário, as notas, as avaliações e as faltas do aluno. As contas e os recibos continuam sempre abertos.
 
 As contas, incluindo as das inscrições em exame e as dos documentos, pagam-se na escola. A mensalidade do transporte paga-se na escola ou ao proprietário da carrinha, conforme o acordo entre os dois.
 
