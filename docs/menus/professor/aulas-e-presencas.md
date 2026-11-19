@@ -19,6 +19,8 @@ Cada tempo mostra o seu estado:
 
 Só se registam aulas de hoje ou de dias anteriores do ano lectivo.
 
+Registe todas as aulas que dá: uma aula do horário que já passou e não foi registada conta como falta (veja [Aulas dos docentes](../ponto/aulas-dos-docentes.md)). Quando a secretaria ou o director pedagógico o indicam como substituto, a aula do colega aparece no seu dia com a etiqueta **substituição** e recebe um aviso: registe-a como as suas.
+
 ## Registar uma aula
 
 1. Use **Registar** no tempo.

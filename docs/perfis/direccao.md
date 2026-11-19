@@ -55,6 +55,7 @@ Organiza o ano lectivo, as turmas, as pautas e os exames, e acompanha os relató
 | Património | [Locais](../menus/patrimonio/locais.md) (só o director) |
 | Transporte | [Todos os ecrãs](../menus/transporte/index.md) (o director também regista e muda; o director pedagógico só consulta) |
 | Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |
+| Ponto | [Aulas dos docentes](../menus/ponto/aulas-dos-docentes.md) |
 
 ## Processos em que participa
 

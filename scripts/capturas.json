@@ -98,6 +98,8 @@
   {"etapa": "rh", "ficheiro": "menus/recursos-humanos/img/ponto-mes.png", "perfil": "rh", "url": "/hr/attendance?view=month", "legenda": "O resumo do mês: faltas, atrasos e as horas"},
   {"etapa": "rh", "ficheiro": "menus/recursos-humanos/img/ponto-colaborador.png", "perfil": "rh", "url": "/hr/attendance/employee/{colaborador_guarda}", "legenda": "O mês de um guarda na escala 12/36 da noite: turnos, folgas e horas nocturnas"},
   {"etapa": "rh", "ficheiro": "menus/ponto/img/o-meu-ponto.png", "perfil": "secretaria", "url": "/hr/clock", "legenda": "Marcar a entrada ou a saída"},
+  {"etapa": "rh", "ficheiro": "menus/ponto/img/aulas-dos-docentes.png", "perfil": "pedagogico", "url": "/hr/lessons", "legenda": "As aulas de cada docente no mês"},
+  {"etapa": "rh", "ficheiro": "menus/ponto/img/aulas-de-um-docente.png", "perfil": "pedagogico", "url": "/hr/lessons/teacher/{docente_efectivo_teacher}", "legenda": "As aulas de um docente: uma falta do dia todo e uma aula dada por um substituto"},
   {"etapa": "rh", "ficheiro": "menus/recursos-humanos/img/niveis-academicos.png", "perfil": "director", "url": "/configuration/academic_levels", "legenda": "Níveis académicos"},
   {"etapa": "rh", "ficheiro": "menus/recursos-humanos/img/areas-de-formacao.png", "perfil": "director", "url": "/configuration/education_fields", "legenda": "Áreas de formação"},
   {"etapa": "rh", "ficheiro": "menus/recursos-humanos/img/pessoas.png", "perfil": "director", "url": "/single_person/", "legenda": "Pesquisa de pessoas", "passos": [["preencher", "input[name=code]", "Novela"], ["clicar", "#dvMainContent button[type=submit]"]]},

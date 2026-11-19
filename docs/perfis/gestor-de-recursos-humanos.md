@@ -14,3 +14,4 @@ Regista os colaboradores da escola (administrativos, auxiliares e docentes) e os
 | Recursos Humanos | [Pessoas](../menus/recursos-humanos/pessoas.md) |
 | Recursos Humanos | [Docentes](../menus/recursos-humanos/docentes.md) |
 | Ponto | [O meu ponto](../menus/ponto/o-meu-ponto.md) |
+| Ponto | [Aulas dos docentes](../menus/ponto/aulas-dos-docentes.md) |
